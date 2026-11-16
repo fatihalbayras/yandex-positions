@@ -1,0 +1,34 @@
+name: yandex-positions-atlas-submit
+
+on:
+  schedule:
+    # 00:40 МСК = 21:40 UTC (окно async 00:00-06:00 МСК; сдвиг от senatcars,
+    # тот же API-ключ — квота 1 запрос/сек)
+    - cron: '40 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Submit async position requests
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '63'
+          YP_SITE: 'atlas-online.ru'
+        run: python tools/yandex-positions-atlas/positions.py submit
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/yandex-positions-atlas/state tools/yandex-positions-atlas/queue
+          git commit -m "positions(atlas): submit $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push
