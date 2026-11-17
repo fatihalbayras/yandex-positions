@@ -1,0 +1,38 @@
+name: yandex-positions-senatcars-submit-fallback2
+
+# Резервный прогон submit: GitHub периодически задерживает cron на 10-60 минут.
+# Основной (00:05 МСК) не дождался — сработает этот (01:41 МСК, окно async ещё открыто).
+# Скрипт идемпотентен: повторный submit мёржится с state, уже отправленные ключи пропускает.
+
+on:
+  schedule:
+    # 02:02 МСК = 23:02 UTC (третий шанс: GitHub cron бывает поздим на часы)
+    - cron: '2 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Submit async position requests
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '75'
+          YP_SITE: 'senatcars.ru'
+        run: python tools/yandex-positions-senatcars/positions.py submit
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
+          git add tools/yandex-positions-senatcars/state tools/yandex-positions-senatcars/queue
+          git commit -m "positions: submit fallback2 $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push
