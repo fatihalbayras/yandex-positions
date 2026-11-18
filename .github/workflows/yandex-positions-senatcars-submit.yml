@@ -2,9 +2,13 @@ name: yandex-positions-senatcars-submit
 
 on:
   schedule:
-    # 00:05 МСК = 21:05 UTC (отложенный режим Search API доступен 00:00-06:00 МСК)
-    - cron: '5 21 * * *'
+    # резервный слот 02:30 МСК = 23:30 UTC: срабатывает только если основной dispatch-запуск
+    # (внешний cron -> repository_dispatch, мгновенно) не состоялся; при живом state — no-op
+    - cron: '30 23 * * *'
   workflow_dispatch:
+  repository_dispatch:
+    # основной мгновенный триггер (внешний cron-сервис) — вне очереди schedule GitHub
+    types: [nightly-submit]
   repository_dispatch:
     # мгновенный внешний триггер (дёргается ПК/внешним сервисом) — не зависит от очереди cron GitHub
     types: [nightly-submit]
