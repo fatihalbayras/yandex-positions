@@ -36,3 +36,21 @@ jobs:
           git add tools/yandex-positions-senatcars/state tools/yandex-positions-senatcars/queue
           git commit -m "positions: submit fallback3 $(date -u +%Y-%m-%d)" || echo "nothing to commit"
           git push
+
+      - name: Wait for async processing
+        run: sleep 300
+      - name: Collect results (early grab)
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '75'
+          YP_SITE: 'senatcars.ru'
+        run: python tools/yandex-positions-senatcars/positions.py collect
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
+          git add tools/yandex-positions-senatcars/results
+          git commit -m "positions: early collect $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push
