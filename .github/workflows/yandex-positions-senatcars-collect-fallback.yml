@@ -6,8 +6,8 @@ name: yandex-positions-senatcars-collect-fallback
 
 on:
   schedule:
-    # 06:43 МСК = 03:43 UTC
-    - cron: '43 3 * * *'
+    # 03:30 МСК = 00:30 UTC
+    - cron: '30 0 * * *'
   workflow_dispatch:
 
 permissions:

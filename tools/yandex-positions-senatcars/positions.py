@@ -198,7 +198,19 @@ def collect(date: str | None = None):
     for i, op in enumerate(state["operations"], 1):
         if op["keyword"] in results:
             continue
-        st = api(f"/v2/operations/{op['operationId']}", retries=3)
+        try:
+            st = api(f"/v2/operations/{op['operationId']}", retries=3)
+        except RuntimeError as e:
+            # истёкшие/пропавшие операции (404 и др.) не роняют весь сбор
+            results[op["keyword"]] = {"tag": op["tag"],
+                                      "source": op.get("source", "base"),
+                                      "error": f"operation check: {e}"}
+            if i % 25 == 0:
+                out.update({"total": len(state["operations"]), "done": len(results),
+                            "pending": pending})
+                (RESULTS_DIR / f"{state['date']}.json").write_text(
+                    json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+            continue
         if not st.get("done"):
             pending.append(op["keyword"])
             time.sleep(0.2)
@@ -221,6 +233,10 @@ def collect(date: str | None = None):
                                       "error": f"xml parse: {e}"}
         if i % 25 == 0:
             print(f"  обработано {i}/{len(state['operations'])}")
+            out.update({"total": len(state["operations"]), "done": len(results),
+                        "pending": pending})
+            (RESULTS_DIR / f"{state['date']}.json").write_text(
+                json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
         time.sleep(0.2)
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     out.update({

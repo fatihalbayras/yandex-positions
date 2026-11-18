@@ -2,8 +2,8 @@ name: yandex-positions-senatcars-collect
 
 on:
   schedule:
-    # 05:05 МСК = 02:05 UTC (async-запросы обрабатываются 5+ минут, результаты хранятся 12 ч)
-    - cron: '5 2 * * *'
+    # 02:05 МСК = 23:05 UTC (async живёт ~8ч, собираем сразу после submit) (async-запросы обрабатываются 5+ минут, результаты хранятся 12 ч)
+    - cron: '5 23 * * *'
   workflow_dispatch:
 
 permissions:
