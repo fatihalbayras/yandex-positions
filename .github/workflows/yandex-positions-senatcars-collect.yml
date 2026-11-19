@@ -23,7 +23,7 @@ jobs:
           YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
           YP_REGION: '75'
           YP_SITE: 'senatcars.ru'
-        run: python tools/yandex-positions-senatcars/positions.py collect
+        run: python tools/yandex-positions-senatcars/collect_parallel.py
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
