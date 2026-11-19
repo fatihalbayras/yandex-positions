@@ -36,6 +36,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 BASE = "https://searchapi.api.cloud.yandex.net"
+BASE_OP = "https://operation.api.cloud.yandex.net"
 ROOT = Path(__file__).resolve().parent
 KEYWORDS_FILE = ROOT / "keywords.txt"
 QUEUE_DIR = ROOT / "queue"
@@ -83,6 +84,27 @@ def api(path: str, body=None, retries: int = 8):
                 continue
             raise
     raise RuntimeError("не удалось выполнить запрос после ретраев")
+
+
+def api_op(opid: str, retries: int = 8):
+    """Опрос async-операции на шлюзе операций (НЕ searchapi — тот отдаёт 404/501)."""
+    req = urllib.request.Request(f"{BASE_OP}/operations/{opid}",
+                                 headers={"Authorization": "Api-Key " + KEY})
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                return json.loads(r.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            payload = e.read().decode("utf-8", "replace")[:300]
+            if e.code in (429, 500, 502, 503, 504) and attempt < retries - 1:
+                time.sleep(10 * (attempt + 1))
+                continue
+            raise RuntimeError(f"HTTP {e.code} for operation {opid}: {payload}")
+        except urllib.error.URLError:
+            if attempt < retries - 1:
+                time.sleep(10 * (attempt + 1))
+                continue
+            raise
 
 
 def read_keyword_file(path: Path, source: str):
@@ -199,7 +221,7 @@ def collect(date: str | None = None):
         if op["keyword"] in results:
             continue
         try:
-            st = api(f"/v2/operations/{op['operationId']}", retries=3)
+            st = api_op(op['operationId'], retries=3)
         except RuntimeError as e:
             # истёкшие/пропавшие операции (404 и др.) не роняют весь сбор
             results[op["keyword"]] = {"tag": op["tag"],
