@@ -35,6 +35,9 @@ def fetch_one(op):
                     "error": f"operation check: {e}"}, False
     if not st.get("done"):
         return kw, None, True
+    if "response" not in st:
+        return kw, {"tag": op["tag"], "source": op.get("source", "base"),
+                    "error": f"operation done without response: {st.get('error', st)}"}, False
     raw = base64.b64decode(st["response"]["rawData"]).decode("utf-8", "replace")
     try:
         docs, our = positions.parse_serp(raw)

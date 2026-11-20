@@ -167,11 +167,22 @@ def submit():
                 "folderId": FOLDER_ID,
                 "responseFormat": "FORMAT_XML",
             }
-            resp = api("/v2/web/searchAsync", body, retries=4)
+            try:
+                resp = api("/v2/web/searchAsync", body, retries=4)
+            except RuntimeError as e:
+                state_file.write_text(json.dumps(state, ensure_ascii=False, indent=1),
+                                      encoding="utf-8")
+                print(f"  ОШИБКА на ключе {i}/{len(kws)} ({kw['keyword']!r}): {e}"
+                      f" — state сохранён ({len(state['operations'])} операций), остановка.",
+                      file=sys.stderr, flush=True)
+                raise
             state["operations"].append({**kw, "operationId": resp["id"]})
             already.add((kw["keyword"].lower(), source))
             if i % 10 == 0:
-                print(f"  {source}: отправлено {i}/{len(kws)}")
+                print(f"  {source}: отправлено {i}/{len(kws)}", flush=True)
+            if i % 50 == 0:
+                state_file.write_text(json.dumps(state, ensure_ascii=False, indent=1),
+                                      encoding="utf-8")
             time.sleep(1.1)  # квота 1 запрос/сек
         if is_queue:
             PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
