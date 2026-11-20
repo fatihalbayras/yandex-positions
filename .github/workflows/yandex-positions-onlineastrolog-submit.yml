@@ -1,0 +1,49 @@
+name: yandex-positions-onlineastrolog-submit
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Submit async position requests
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '213'
+          YP_SITE: 'onlineastrolog.ru'
+        run: python tools/yandex-positions-onlineastrolog/positions.py submit
+      - name: Commit state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
+          git add tools/yandex-positions-onlineastrolog/state tools/yandex-positions-onlineastrolog/queue
+          git commit -m "onlineastrolog positions: submit $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push
+
+      - name: Wait for async processing
+        run: sleep 300
+      - name: Collect results (parallel, early grab)
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '213'
+          YP_SITE: 'onlineastrolog.ru'
+        run: python tools/yandex-positions-onlineastrolog/collect_parallel.py
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
+          git add tools/yandex-positions-onlineastrolog/results
+          git commit -m "onlineastrolog positions: early collect $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push
