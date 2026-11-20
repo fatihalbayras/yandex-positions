@@ -3,7 +3,7 @@
  "region": "213",
  "site": "runico.ru",
  "total": 1013,
- "done": 800,
+ "done": 1013,
  "pending": [],
  "positions": {
   "futhark": {
@@ -16004,6 +16004,4266 @@
     "chernayamagiya.com",
     "magia.mk999.one",
     "mk999.one"
+   ]
+  },
+  "хеймдалль в скандинавии": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "runarium.ru",
+    "tr-page.yandex.ru",
+    "runi-zovsevera.ru",
+    "silvermaproject.ru",
+    "thetroth.org",
+    "dzen.ru",
+    "tr-page.yandex.ru",
+    "riordan.fandom.com"
+   ]
+  },
+  "ньёрд и скади": {
+   "tag": "home",
+   "source": "base",
+   "position": 84,
+   "url": "https://runico.ru/pantheon/njord.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "vk.ru",
+    "pikabu.ru",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "dzen.ru",
+    "thetroth.org",
+    "dzen.ru",
+    "ru.ruwiki.ru",
+    "thetroth.org"
+   ]
+  },
+  "руны их значения": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "pandorium.app",
+    "magic-runes.com",
+    "www.predskazanie.ru",
+    "santera.ru",
+    "ru.wikipedia.org",
+    "xn--80aejvmu5h.xn--80aswg",
+    "elarus.ru"
+   ]
+  },
+  "названия всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "santera.ru",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "happywitch.ru",
+    "gadalkindom.ru",
+    "runico.ru",
+    "magic-runes.com",
+    "elarus.ru"
+   ]
+  },
+  "один кто это": {
+   "tag": "home",
+   "source": "base",
+   "position": 76,
+   "url": "https://runico.ru/pantheon/odin.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "znanierussia.ru",
+    "ru.ruwiki.ru",
+    "xn--h1ajim.xn--p1ai",
+    "silvermaproject.ru",
+    "runarium.ru",
+    "runi-zovsevera.ru",
+    "m.pravenc.ru",
+    "wiki2.org",
+    "dtf.ru"
+   ]
+  },
+  "нертус богиня скандинавии": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/pantheon/nerthus.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "astrovedy.ru",
+    "northern.thesaurusdeorum.com",
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "northern.thesaurusdeorum.com",
+    "web.archive.org",
+    "www.youtube.com",
+    "runi-zovsevera.ru",
+    "runico.ru"
+   ]
+  },
+  "руны футарк старший": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "velantra.ru",
+    "runico.ru",
+    "pandorium.app",
+    "tr-page.yandex.ru",
+    "goroskop-365.ru",
+    "surmarket.ru",
+    "ruyan-master.ru",
+    "tr-page.yandex.ru",
+    "magic-runes.com",
+    "blog.beregy.ru"
+   ]
+  },
+  "руны со значениями": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "runico.ru",
+    "www.predskazanie.ru",
+    "gadalkindom.ru",
+    "santera.ru",
+    "astrohelper.ru",
+    "actro.online"
+   ]
+  },
+  "видар скандинавская мифология": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/pantheon/vidar.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "dzen.ru",
+    "runico.ru",
+    "dzen.ru",
+    "runi-zovsevera.ru",
+    "wayoftherunes.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "riordan.fandom.com"
+   ]
+  },
+  "руны первого футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "runico.ru",
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "ru.ruwiki.ru",
+    "magicclover.ru",
+    "happywitch.ru"
+   ]
+  },
+  "ругы и значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "goroskop-365.ru",
+    "santera.ru",
+    "ru.wikipedia.org",
+    "magic-runes.com",
+    "pandorium.app",
+    "elarus.ru",
+    "runico.ru",
+    "actro.online"
+   ]
+  },
+  "обозначение каждой руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "velantra.ru",
+    "santera.ru",
+    "pandorium.app",
+    "gadalkindom.ru",
+    "magic-runes.com",
+    "runico.ru",
+    "www.predskazanie.ru",
+    "arsmagica.org"
+   ]
+  },
+  "ирк рассчитать онлайн": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "runacode.sever.land",
+    "karianaseid.com",
+    "irc.runa-odin.com",
+    "runacode.ru",
+    "runacode.ru",
+    "runacode.ru",
+    "occclav.com",
+    "occclav.com"
+   ]
+  },
+  "рунический футарк значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "velantra.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "pandorium.app",
+    "magic-runes.com",
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "blog.replicahouse.ru",
+    "happywitch.ru",
+    "fatebydate.ru"
+   ]
+  },
+  "руна ансуз изображение": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "xn--80aejvmu5h.xn--80aswg",
+    "www.shutterstock.com",
+    "ru.pinterest.com",
+    "elarus.ru",
+    "wiki2.org",
+    "dzen.ru",
+    "magia.fandom.com",
+    "www.vectorstock.com",
+    "gadalkindom.ru"
+   ]
+  },
+  "хеймдалль бог чего": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "runarium.ru",
+    "tr-page.yandex.ru",
+    "runi-zovsevera.ru",
+    "dzen.ru",
+    "vk.ru",
+    "mk999.one",
+    "www.youtube.com"
+   ]
+  },
+  "список скандинавских рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "magic-runes.com",
+    "ru.ruwiki.ru",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "gadalkindom.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "значения скандинавских рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 23,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "velantra.ru",
+    "www.predskazanie.ru",
+    "magic-runes.com",
+    "actro.online",
+    "xn--80aejvmu5h.xn--80aswg",
+    "elarus.ru",
+    "celticforest.ru",
+    "astrohelper.ru"
+   ]
+  },
+  "тюр бог войны": {
+   "tag": "home",
+   "source": "base",
+   "position": 14,
+   "url": "https://runico.ru/pantheon/tyr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "ru.wikipedia.org",
+    "godofwar.fandom.com",
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "vkplay.ru",
+    "www.youtube.com",
+    "cubiq.ru",
+    "ixbt.games",
+    "silvermaproject.ru"
+   ]
+  },
+  "скандинавский бог воды": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/pantheon/njord.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "silvermaproject.ru",
+    "riordan.fandom.com",
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "varvar.ru",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "runarium.ru",
+    "blog.mann-ivanov-ferber.ru"
+   ]
+  },
+  "боги в скандинавии": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "riordan.fandom.com",
+    "runico.ru",
+    "dzen.ru",
+    "mythology.fandom.com",
+    "ru.ruwiki.ru",
+    "blog.mann-ivanov-ferber.ru",
+    "www.mirf.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "tonkosti.ru"
+   ]
+  },
+  "кто такой видар": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/pantheon/vidar.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "riordan.fandom.com",
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "www.livelib.ru",
+    "dzen.ru",
+    "northern.thesaurusdeorum.com",
+    "runi-zovsevera.ru"
+   ]
+  },
+  "архетип руны лагуз": {
+   "tag": "home",
+   "source": "base",
+   "position": 61,
+   "url": "https://runico.ru/runes/laguz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.astromeridian.ru",
+    "www.liveinternet.ru",
+    "www.litres.ru",
+    "magiachisel.ru",
+    "gadalkindom.ru",
+    "mk999.one",
+    "pandorium.app",
+    "www.b17.ru",
+    "meanings.ru",
+    "meanings.ru"
+   ]
+  },
+  "имена богов викингов": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "dzen.ru",
+    "tr-page.yandex.ru",
+    "riordan.fandom.com",
+    "runico.ru",
+    "mythology.fandom.com",
+    "blog.mann-ivanov-ferber.ru",
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "tonkosti.ru",
+    "www.mirf.ru"
+   ]
+  },
+  "аро ланы дагаз": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "thewikihow.com",
+    "t.me",
+    "www.predskazanie.ru",
+    "astrology-online.ru",
+    "horo.mail.ru",
+    "dzen.ru",
+    "www.solarvanir.org",
+    "xn--80azim.xn--p1acf",
+    "www.youtube.com",
+    "www.youtube.com"
+   ]
+  },
+  "скандинавский бог грома": {
+   "tag": "home",
+   "source": "base",
+   "position": 19,
+   "url": "https://runico.ru/pantheon/thor.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "www.worldhistory.org",
+    "riordan.fandom.com",
+    "media.foxford.ru",
+    "runarium.ru",
+    "dzen.ru",
+    "pikabu.ru",
+    "pikabu.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "рунокод онлайн меньшикова": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "mk999.one",
+    "runacode.ru",
+    "mk999.one",
+    "mk999.one",
+    "mk999.one",
+    "runico.ru",
+    "mk999.one",
+    "magia.mk999.one",
+    "rutube.ru"
+   ]
+  },
+  "бог войны скандинавский": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "silvermaproject.ru",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "xn--h1ajim.xn--p1ai",
+    "tr-page.yandex.ru",
+    "thetroth.org",
+    "wiki2.org",
+    "runico.ru",
+    "monbook.ru"
+   ]
+  },
+  "хеймдалль кто это": {
+   "tag": "home",
+   "source": "base",
+   "position": 52,
+   "url": "https://runico.ru/pantheon/heimdall.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "xn--h1ajim.xn--p1ai",
+    "runarium.ru",
+    "tr-page.yandex.ru",
+    "riordan.fandom.com",
+    "runi-zovsevera.ru",
+    "dzen.ru",
+    "www.youtube.com"
+   ]
+  },
+  "скандинавский бог справедливости": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/pantheon/forseti.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "runi-zovsevera.ru",
+    "thetroth.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "www.livelib.ru",
+    "tr-page.yandex.ru",
+    "wayoftherunes.com",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "что такое лучничество": {
+   "tag": "home",
+   "source": "base",
+   "position": 46,
+   "url": "https://runico.ru/pantheon/vali.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "foma.ru",
+    "kartaslov.ru",
+    "svyatsy-shop.ru",
+    "drevo-info.ru",
+    "dic.academic.ru",
+    "ok.ru",
+    "azbyka.ru",
+    "cyberleninka.ru",
+    "m.pravenc.ru",
+    "www.pravmir.ru"
+   ]
+  },
+  "скандинавские руны расшифровка": {
+   "tag": "home",
+   "source": "base",
+   "position": 23,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "velantra.ru",
+    "magic-runes.com",
+    "www.predskazanie.ru",
+    "elarus.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "actro.online",
+    "astrohelper.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "руны и их расшифровка": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "velantra.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "santera.ru",
+    "runico.ru",
+    "ru.wikipedia.org",
+    "www.predskazanie.ru"
+   ]
+  },
+  "арфа браги майкоп": {
+   "tag": "home",
+   "source": "base",
+   "position": 48,
+   "url": "https://runico.ru/pantheon/bragi.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "yandex.ru",
+    "yandex.ru",
+    "antia.club",
+    "tr-page.yandex.ru",
+    "vk.ru",
+    "www.litres.ru",
+    "proza.ru",
+    "shedevrum.ai",
+    "tr-page.yandex.ru",
+    "antia.club"
+   ]
+  },
+  "постоянный ветер покровитель мореходов": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/pantheon/njord.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "kriofrost.academy",
+    "forum.korabli.su",
+    "dzen.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "yandex.ru",
+    "runico.ru",
+    "yachtrussia.com",
+    "dzen.ru",
+    "ru.wikipedia.org",
+    "russian-history.fandom.com"
+   ]
+  },
+  "что значат знаки руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "elarus.ru",
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "runico.ru",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "santera.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "руны 2 атта": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "runico.ru",
+    "www.youtube.com",
+    "mk999.one",
+    "runoznanie.blogspot.com",
+    "chernayamagiya.com",
+    "www.enmerkar.com",
+    "dzen.ru",
+    "magicclover.ru",
+    "esoterics.wikireading.ru"
+   ]
+  },
+  "бог огня хёд бальдра": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "norroen.info",
+    "silvermaproject.ru",
+    "dommagii.com",
+    "ru.ruwiki.ru",
+    "dzen.ru",
+    "ru.ruwiki.ru",
+    "runarium.ru",
+    "vk.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "как выглядит руна турисаз": {
+   "tag": "home",
+   "source": "base",
+   "position": 70,
+   "url": "https://runico.ru/runes/thurisaz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "www.youtube.com",
+    "wiki2.org",
+    "magia.fandom.com",
+    "dzen.ru",
+    "www.shutterstock.com",
+    "elarus.ru",
+    "www.vectorstock.com",
+    "xn--80azim.xn--p1acf",
+    "xn--80aejvmu5h.xn--80aswg"
+   ]
+  },
+  "что такое старший футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "ruyan-master.ru",
+    "wayoftherunes.com",
+    "runico.ru",
+    "www.youtube.com",
+    "tr-page.yandex.ru",
+    "velantra.ru",
+    "magia.fandom.com",
+    "www.youtube.com"
+   ]
+  },
+  "руны и их трактовка": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "gadalkindom.ru",
+    "pandorium.app",
+    "magic-runes.com",
+    "elarus.ru",
+    "www.predskazanie.ru",
+    "astrohelper.ru",
+    "actro.online"
+   ]
+  },
+  "значение каждой руны подробно": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "santera.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "velantra.ru",
+    "runico.ru",
+    "gadalkindom.ru",
+    "astralika.com",
+    "www.predskazanie.ru"
+   ]
+  },
+  "изображение и значение рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "runico.ru",
+    "ru.pinterest.com",
+    "pandorium.app",
+    "xn--80aejvmu5h.xn--80aswg",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "показать обозначение всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 19,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "gadalkindom.ru",
+    "www.b17.ru",
+    "santera.ru",
+    "lisa.ru",
+    "www.predskazanie.ru",
+    "ru.pinterest.com",
+    "goroskop-365.ru",
+    "dzen.ru",
+    "kartaslov.ru"
+   ]
+  },
+  "руны толкование и значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "pandorium.app",
+    "astrohelper.ru",
+    "actro.online",
+    "magic-runes.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "gadalkindom.ru",
+    "elarus.ru"
+   ]
+  },
+  "руны и их толкование": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "gadalkindom.ru",
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "www.predskazanie.ru",
+    "runico.ru",
+    "santera.ru",
+    "elarus.ru",
+    "actro.online"
+   ]
+  },
+  "название и обозначение рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "santera.ru",
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "velantra.ru",
+    "pandorium.app",
+    "elarus.ru",
+    "magic-runes.com",
+    "runico.ru",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "расчет индивидуального рунического кода": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "runacode.sever.land",
+    "occclav.com",
+    "runacode.ru",
+    "karianaseid.com",
+    "irc.runa-odin.com",
+    "mk999.one",
+    "elarus.ru",
+    "runacode.ru"
+   ]
+  },
+  "бог моря в скандинавии": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/pantheon/njord.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "silvermaproject.ru",
+    "runarium.ru",
+    "ru.ruwiki.ru",
+    "thetroth.org",
+    "xn--80aejvmu5h.xn--80aswg",
+    "wayoftherunes.com",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "runico.ru"
+   ]
+  },
+  "руны значение в гадании": {
+   "tag": "home",
+   "source": "base",
+   "position": 15,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "gadalkindom.ru",
+    "astrohelper.ru",
+    "magya-online.ru",
+    "www.predskazanie.ru",
+    "celticforest.ru",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "happywitch.ru",
+    "happywitch.ru"
+   ]
+  },
+  "что такое рунический код": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "occclav.com",
+    "mk999.one",
+    "elarus.ru",
+    "vk.ru",
+    "mk999.one",
+    "runico.ru",
+    "runacode-jotunheim.ru",
+    "alexandersheps.ru",
+    "runa-odin.org",
+    "magic-runes.com"
+   ]
+  },
+  "вуньо руна фото значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 63,
+   "url": "https://runico.ru/runes/wunjo.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "elarus.ru",
+    "xn--h1ajim.xn--p1ai",
+    "lunaro.ru",
+    "goroskop-365.ru",
+    "ru.pinterest.com",
+    "dzen.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "horo.mail.ru"
+   ]
+  },
+  "руны и их значе": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "pandorium.app",
+    "velantra.ru",
+    "runico.ru",
+    "magic-runes.com",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "santera.ru",
+    "elarus.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "руны рисунок и значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "ru.pinterest.com",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "ru.pinterest.com",
+    "tr-page.yandex.ru",
+    "arzamas.academy",
+    "runico.ru",
+    "gadalkindom.ru"
+   ]
+  },
+  "старший футарк с номерами": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "pandorium.app",
+    "ru.ruwiki.ru",
+    "norroen.info",
+    "goroskop-365.ru",
+    "runico.ru",
+    "runir.ru",
+    "velantra.ru",
+    "runico.ru",
+    "xn--h1ajim.xn--p1ai"
+   ]
+  },
+  "один в образе странника": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/pantheon/odin.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "runico.ru",
+    "runarium.ru",
+    "www.livelib.ru",
+    "dzen.ru",
+    "gameguru.ru",
+    "znanierussia.ru",
+    "mifolog.com"
+   ]
+  },
+  "руна йера что означает": {
+   "tag": "home",
+   "source": "base",
+   "position": 61,
+   "url": "https://runico.ru/runes/jera.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "astralika.com",
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "pandorium.app",
+    "lunaro.ru",
+    "runarium.ru",
+    "www.arcanum.ru",
+    "horo.mail.ru",
+    "blog.beregy.ru"
+   ]
+  },
+  "руна разрушения как выглядит": {
+   "tag": "home",
+   "source": "base",
+   "position": 84,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "xn--80aejvmu5h.xn--80aswg",
+    "ru.ruwiki.ru",
+    "ru.pinterest.com",
+    "elarus.ru",
+    "pandorium.app",
+    "vk.ru",
+    "arsmagica.org",
+    "magia.fandom.com",
+    "www.youtube.com"
+   ]
+  },
+  "в чем сила одина": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "anime-characters-fight.fandom.com",
+    "marvelcinematicuniverse.fandom.com",
+    "anime-characters-fight.fandom.com",
+    "tr-page.yandex.ru",
+    "web.archive.org",
+    "marvelcinematicuniverse.fandom.com",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "что обозначает каждая руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "runico.ru",
+    "santera.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "actro.online"
+   ]
+  },
+  "как узнать свой рунический код": {
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "occclav.com",
+    "runacode.sever.land",
+    "karianaseid.com",
+    "runacode.ru",
+    "runacode.ru",
+    "runico.ru",
+    "elarus.ru",
+    "runacode.ru"
+   ]
+  },
+  "руны и их описание": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "elarus.ru",
+    "ru.wikipedia.org",
+    "magic-runes.com",
+    "goroskop-365.ru",
+    "runico.ru",
+    "www.predskazanie.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "santera.ru",
+    "pandorium.app"
+   ]
+  },
+  "личная руна по дате рождения": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "mk999.one",
+    "magic-runes.com",
+    "runico.ru",
+    "magya-online.ru",
+    "karianaseid.com",
+    "runacode.ru",
+    "runacode.sever.land",
+    "elarus.ru",
+    "occclav.com"
+   ]
+  },
+  "руна уруз фото и значение": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "ru.wikipedia.org",
+    "runarium.ru",
+    "magia.fandom.com",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "runavitalis.ru",
+    "horo.mail.ru",
+    "actro.online"
+   ]
+  },
+  "алфавит руны и их значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "tr-page.yandex.ru",
+    "happywitch.ru",
+    "elarus.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "gadalkindom.ru",
+    "santera.ru",
+    "vesbook.ru",
+    "runi-zovsevera.ru"
+   ]
+  },
+  "как самостоятельно узнать свою руну": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "magic-runes.com",
+    "tragos.ru",
+    "mk999.one",
+    "runacode.ru",
+    "elarus.ru",
+    "karianaseid.com",
+    "runico.ru",
+    "voronwood.ru",
+    "magya-online.ru",
+    "lunum.ru"
+   ]
+  },
+  "кто такой тор в мифологии": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/pantheon/thor.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "fantasticbeings.fandom.com",
+    "runarium.ru",
+    "media.foxford.ru",
+    "biographe.ru",
+    "tr-page.yandex.ru",
+    "riordan.fandom.com",
+    "mifolog.com"
+   ]
+  },
+  "что такое атт в рунах": {
+   "tag": "home",
+   "source": "base",
+   "position": 18,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "vk.ru",
+    "www.livelib.ru",
+    "runarium.ru",
+    "germes.dev",
+    "www.enmerkar.com",
+    "dzen.ru",
+    "rumoon.com",
+    "happywitch.ru",
+    "fatebydate.ru"
+   ]
+  },
+  "фрейя богини любви и страсти": {
+   "tag": "home",
+   "source": "base",
+   "position": 87,
+   "url": "https://runico.ru/pantheon/freya.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "runarium.ru",
+    "thetroth.org",
+    "dzen.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "silvermaproject.ru",
+    "vk.ru",
+    "runi-zovsevera.ru",
+    "dzen.ru"
+   ]
+  },
+  "бог браги в скандинавской мифологии": {
+   "tag": "home",
+   "source": "base",
+   "position": 39,
+   "url": "https://runico.ru/pantheon/bragi.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "magic-runes.com",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "thetroth.org",
+    "tr-page.yandex.ru",
+    "monbook.ru",
+    "northern.thesaurusdeorum.com",
+    "vk.ru",
+    "www.youtube.com"
+   ]
+  },
+  "тейваз руна значение в работе": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "elarus.ru",
+    "actro.online",
+    "goroskop365.ru",
+    "runoznanie.blogspot.com",
+    "horo.mail.ru",
+    "www.astromeridian.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "lunaro.ru",
+    "gadalkindom.ru"
+   ]
+  },
+  "руна тюр фото и значение": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "ru.ruwiki.ru",
+    "lunaro.ru",
+    "runarium.ru",
+    "elarus.ru",
+    "tayniymir.com",
+    "wiki2.org",
+    "goroskop-365.ru",
+    "www.zevira.net"
+   ]
+  },
+  "все руны и их названия": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "santera.ru",
+    "runico.ru",
+    "ru.ruwiki.ru",
+    "pandorium.app",
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "gadalkindom.ru",
+    "elarus.ru",
+    "magic-runes.com"
+   ]
+  },
+  "как рассчитать индивидуальный рунический код": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "magic-runes.com",
+    "mk999.one",
+    "runacode.ru",
+    "runacode.sever.land",
+    "occclav.com",
+    "karianaseid.com",
+    "occclav.com",
+    "runacode.ru",
+    "elarus.ru",
+    "mk999.one"
+   ]
+  },
+  "сколько рун в скандинавских рунах": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "dzen.ru",
+    "dzen.ru",
+    "yasnosvet.info",
+    "elarus.ru",
+    "voronwood.ru",
+    "runico.ru"
+   ]
+  },
+  "обозначения рун и их значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "velantra.ru",
+    "goroskop-365.ru",
+    "santera.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "runico.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "elarus.ru",
+    "ru.wikipedia.org"
+   ]
+  },
+  "рунический прогноз по дате рождения": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "tragos.ru",
+    "magic-runes.com",
+    "magya-online.ru",
+    "magya-online.ru",
+    "runico.ru",
+    "occclav.com",
+    "runacode.ru",
+    "runacode.ru",
+    "inpot.ru"
+   ]
+  },
+  "руна по дате рождения июль": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "peopletalk.ru",
+    "runico.ru",
+    "vesti-yamal.ru",
+    "dzen.ru",
+    "magic-runes.com",
+    "mk999.one",
+    "v-kosmose.com",
+    "magya-online.ru",
+    "elarus.ru"
+   ]
+  },
+  "основные руны и их значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "santera.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "magic-runes.com",
+    "gadalkindom.ru",
+    "pandorium.app"
+   ]
+  },
+  "какая руна соответствует дате рождения": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "wayoftherunes.com",
+    "magic-runes.com",
+    "peopletalk.ru",
+    "voronwood.ru",
+    "mk999.one",
+    "magya-online.ru",
+    "runico.ru",
+    "vk.ru",
+    "vk.ru"
+   ]
+  },
+  "руна перт да или нет": {
+   "tag": "home",
+   "source": "base",
+   "position": 76,
+   "url": "https://runico.ru/runes/perthro.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "chernayamagiya.com",
+    "magya-online.ru",
+    "goroskop365.ru",
+    "goroskop365.ru",
+    "vk.ru",
+    "lunaro.ru",
+    "goroskop365.ru",
+    "xn--80azim.xn--p1acf",
+    "dzen.ru"
+   ]
+  },
+  "руна йера значение для женщин": {
+   "tag": "home",
+   "source": "base",
+   "position": 86,
+   "url": "https://runico.ru/runes/jera.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "soulbond.love",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "www.b17.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "magia.fandom.com",
+    "runoznanie.blogspot.com",
+    "dimagamagic.github.io",
+    "meanings.ru",
+    "vashzodiak.ru"
+   ]
+  },
+  "расчет руны по дате рождения": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "tragos.ru",
+    "karianaseid.com",
+    "runacode.sever.land",
+    "occclav.com",
+    "korydor.net",
+    "magya-online.ru",
+    "runico.ru",
+    "elarus.ru"
+   ]
+  },
+  "один кто такой в мифологии": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "znanierussia.ru",
+    "ru.ruwiki.ru",
+    "runarium.ru",
+    "xn--h1ajim.xn--p1ai",
+    "zlodei.fandom.com",
+    "dtf.ru",
+    "runi-zovsevera.ru",
+    "silvermaproject.ru",
+    "m.pravenc.ru"
+   ]
+  },
+  "толкование рун и их значение онлайн": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "gadalkindom.ru",
+    "astrohelper.ru",
+    "goroskop-365.ru",
+    "magya-online.ru",
+    "www.predskazanie.ru",
+    "santera.ru",
+    "velantra.ru",
+    "celticforest.ru",
+    "pandorium.app",
+    "actro.online"
+   ]
+  },
+  "символика рун и их значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "santera.ru",
+    "ru.wikipedia.org",
+    "runico.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "pandorium.app",
+    "magic-runes.com",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "с чем обращаются к руне перто": {
+   "tag": "home",
+   "source": "base",
+   "position": 99,
+   "url": "https://runico.ru/runes/perthro.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.astromeridian.ru",
+    "magia.fandom.com",
+    "dzen.ru",
+    "www.solarvanir.org",
+    "mk999.one",
+    "xn--80azim.xn--p1acf",
+    "ru.wikipedia.org",
+    "gadalkindom.ru",
+    "www.astromeridian.ru",
+    "runarium.ru"
+   ]
+  },
+  "основной пантеон богов скандинавского язычества": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "riordan.fandom.com",
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "tonkosti.ru",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "norroen.info",
+    "www.mirf.ru"
+   ]
+  },
+  "дерево дерево иггдрасиль руны по мирам": {
+   "tag": "derevo-iggdrasil.html",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/derevo-iggdrasil.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "proza.ru",
+    "runico.ru",
+    "www.b17.ru",
+    "elarus.ru",
+    "symbolos.ru",
+    "ru.wikipedia.org",
+    "warriorspirit.ucoz.com",
+    "kartaslov.ru",
+    "vk.ru",
+    "www.astromeridian.ru"
+   ]
+  },
+  "руны алфавит и значения на русском": {
+   "tag": "runes",
+   "source": "base",
+   "position": 15,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "vesbook.ru",
+    "elarus.ru",
+    "ru.pinterest.com",
+    "ru.pinterest.com",
+    "elarus.ru",
+    "santera.ru",
+    "happywitch.ru",
+    "www.litres.ru",
+    "gadalkindom.ru"
+   ]
+  },
+  "руны по порядку и их значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "santera.ru",
+    "pandorium.app",
+    "elarus.ru",
+    "runico.ru",
+    "gadalkindom.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "magia.fandom.com"
+   ]
+  },
+  "скандинавские руны значения": {
+   "tag": "home",
+   "source": "base",
+   "position": 24,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "www.predskazanie.ru",
+    "magic-runes.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "elarus.ru",
+    "astrohelper.ru",
+    "actro.online",
+    "celticforest.ru",
+    "ru.wikipedia.org"
+   ]
+  },
+  "что такое старший футарк в рунах": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "ruyan-master.ru",
+    "blog.beregy.ru",
+    "tr-page.yandex.ru",
+    "www.youtube.com",
+    "magia.fandom.com",
+    "www.youtube.com",
+    "dzen.ru",
+    "magicclover.ru"
+   ]
+  },
+  "руны названия и значения таблица и фото": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "dzen.ru",
+    "gadalkindom.ru",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "runico.ru",
+    "happywitch.ru",
+    "velantra.ru",
+    "ru.pinterest.com",
+    "pandorium.app"
+   ]
+  },
+  "все руны с названиями и описанием на русском": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "ru.wikipedia.org",
+    "magic-runes.com",
+    "gadalkindom.ru",
+    "happywitch.ru",
+    "ru.pinterest.com",
+    "vesbook.ru",
+    "runico.ru"
+   ]
+  },
+  "какую руну взять с рождением 18 октября,женщина.": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "dzen.ru",
+    "peopletalk.ru",
+    "runico.ru",
+    "magic-runes.com",
+    "elarus.ru",
+    "mk999.one",
+    "v-kosmose.com",
+    "dzen.ru",
+    "runacode.sever.land"
+   ]
+  },
+  "кто является богом грома в скандинавской мифологии": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/pantheon/thor.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "silvermaproject.ru",
+    "www.laconlife.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "runico.ru",
+    "cyclowiki.org",
+    "biographe.ru",
+    "wayoftherunes.com",
+    "runi-zovsevera.ru",
+    "www.youtube.com"
+   ]
+  },
+  "рунический гороскоп по дате рождения онлайн бесплатно с расшифровкой": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "tragos.ru",
+    "magic-runes.com",
+    "runico.ru",
+    "runacode.ru",
+    "magya-online.ru",
+    "gadanieonlain.com",
+    "inpot.ru",
+    "v-kosmose.com",
+    "lunum.ru"
+   ]
+  },
+  "как узнать какая руна мне подходит по дате рождения": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "magic-runes.com",
+    "mk999.one",
+    "voronwood.ru",
+    "peopletalk.ru",
+    "runico.ru",
+    "magya-online.ru",
+    "dzen.ru",
+    "elarus.ru",
+    "inpot.ru"
+   ]
+  },
+  "названия рун и их значение с фото на русском": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "santera.ru",
+    "ru.pinterest.com",
+    "runolad.ru",
+    "runico.ru",
+    "tayniymir.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "goroskop-365.ru"
+   ]
+  },
+  "уруз": {
+   "tag": "runes/uruz.html",
+   "source": "base",
+   "position": 76,
+   "url": "https://runico.ru/runes/uruz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "lunaro.ru",
+    "runarium.ru",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "magiachisel.ru",
+    "actro.online",
+    "pandorium.app",
+    "xn--80aejvmu5h.xn--80aswg",
+    "goroskop365.ru"
+   ]
+  },
+  "ансуз": {
+   "tag": "runes/ansuz.html",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "ru.wikipedia.org",
+    "www.arcanum.ru",
+    "lunaro.ru",
+    "runarium.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "actro.online",
+    "runoznanie.blogspot.com",
+    "meanings.ru",
+    "runi-zovsevera.ru"
+   ]
+  },
+  "магические руны и их значение с картинками и названиями": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "runico.ru",
+    "ru.pinterest.com",
+    "happywitch.ru",
+    "arzamas.academy",
+    "ru.pinterest.com",
+    "gadalkindom.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "xn--80aejvmu5h.xn--80aswg"
+   ]
+  },
+  "руна ингваз": {
+   "tag": "runes/ingwaz.html",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/ingwaz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "meanings.ru",
+    "runavitalis.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "elarus.ru",
+    "voronwood.ru",
+    "mk999.one",
+    "dzen.ru",
+    "runico.ru",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "руна хагалаз": {
+   "tag": "runes/hagalaz.html",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "lunaro.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "runarium.ru",
+    "goroskop-365.ru",
+    "actro.online",
+    "runi-zovsevera.ru",
+    "mk999.one",
+    "magiachisel.ru"
+   ]
+  },
+  "руна кеназ": {
+   "tag": "runes/kenaz.html",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "velantra.ru",
+    "pandorium.app",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "lunaro.ru",
+    "mk999.one",
+    "www.arcanum.ru",
+    "horo.mail.ru",
+    "xn--80azim.xn--p1acf"
+   ]
+  },
+  "хранимый фрейром": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "beliyles.com",
+    "tr-page.yandex.ru",
+    "northern.thesaurusdeorum.com",
+    "thetroth.org",
+    "northern.thesaurusdeorum.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "silvermaproject.ru",
+    "ru.ruwiki.ru",
+    "sapphirebrush.com"
+   ]
+  },
+  "знаки тюра": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "www.zevira.net",
+    "happywitch.ru",
+    "runico.ru",
+    "astralika.com",
+    "goroskop-365.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "elarus.ru",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "хеймдалль мифология": {
+   "tag": "home",
+   "source": "base",
+   "position": 85,
+   "url": "https://runico.ru/pantheon/heimdall.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "runarium.ru",
+    "xn--h1ajim.xn--p1ai",
+    "dzen.ru",
+    "tr-page.yandex.ru",
+    "thetroth.org",
+    "runi-zovsevera.ru",
+    "dzen.ru"
+   ]
+  },
+  "руны атты": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runarium.ru",
+    "vk.ru",
+    "runico.ru",
+    "vk.ru",
+    "rumoon.com",
+    "www.enmerkar.com",
+    "fatebydate.ru",
+    "happywitch.ru",
+    "dzen.ru",
+    "magicclover.ru"
+   ]
+  },
+  "ньерд бог": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/pantheon/njord.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "silvermaproject.ru",
+    "dzen.ru",
+    "ru.ruwiki.ru",
+    "thetroth.org",
+    "runarium.ru",
+    "tr-page.yandex.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "dzen.ru",
+    "dzen.ru"
+   ]
+  },
+  "схема иггдрасиль": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/derevo-iggdrasil.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "assgard.ru",
+    "ru.wikipedia.org",
+    "dzen.ru",
+    "runico.ru",
+    "elarus.ru",
+    "kudelyaoleg.nethouse.ru",
+    "www.b17.ru",
+    "shop.assgard.ru",
+    "ru.pinterest.com",
+    "www.youtube.com"
+   ]
+  },
+  "атрибут тора": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/pantheon/thor.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "media.foxford.ru",
+    "tr-page.yandex.ru",
+    "wayoftherunes.com",
+    "mifolog.com",
+    "dzen.ru",
+    "fantasticbeings.fandom.com",
+    "varvar.ru"
+   ]
+  },
+  "руна столкновения": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "dragonage.fandom.com",
+    "showgamer.com",
+    "mmorpg-aion2.ru",
+    "metabot.gg",
+    "dragonage.fandom.com",
+    "aion-2.pro",
+    "aion2.gaming.tools",
+    "wikily.gg",
+    "steamcommunity.com",
+    "samlib.ru"
+   ]
+  },
+  "руна возрождения": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "meanings.ru",
+    "russkie-runy.ru",
+    "magia.fandom.com",
+    "dzen.ru",
+    "meanings.ru",
+    "xn--h1ajim.xn--p1ai",
+    "lmagic.info",
+    "magya-online.ru",
+    "tragos.ru"
+   ]
+  },
+  "руни значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "gadalkindom.ru",
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "santera.ru",
+    "magic-runes.com",
+    "actro.online",
+    "elarus.ru",
+    "runico.ru",
+    "ru.wikipedia.org"
+   ]
+  },
+  "руны кинуть": {
+   "tag": "home",
+   "source": "base",
+   "position": 64,
+   "url": "https://runico.ru/gadanie.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "goroskop365.ru",
+    "magya-online.ru",
+    "v-kosmose.com",
+    "tragos.ru",
+    "tragos.ru",
+    "gadanie.online",
+    "horo.mail.ru",
+    "gadanie.center",
+    "www.astrocentr.ru"
+   ]
+  },
+  "тюр картинка": {
+   "tag": "home",
+   "source": "base",
+   "position": 15,
+   "url": "https://runico.ru/pantheon/tyr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "www.pinterest.com",
+    "tr-page.yandex.ru",
+    "www.pinterest.com",
+    "ru.pinterest.com",
+    "ru.pinterest.com",
+    "silvermaproject.ru",
+    "runarium.ru",
+    "ru.ruwiki.ru",
+    "www.livemaster.ru"
+   ]
+  },
+  "видар руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/pantheon/vidar.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "mk999.one",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "ru.wikipedia.org",
+    "wayoftherunes.com",
+    "runi-zovsevera.ru",
+    "silvermaproject.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "dzen.ru"
+   ]
+  },
+  "уруз здоровье": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "runoznanie.blogspot.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "magia.fandom.com",
+    "horo.mail.ru",
+    "goroskop-365.ru",
+    "xn--80azim.xn--p1acf",
+    "www.solarvanir.org",
+    "pandorium.app",
+    "lunaro.ru",
+    "magiachisel.ru"
+   ]
+  },
+  "ирк расчет": {
+   "tag": "home",
+   "source": "base",
+   "position": 78,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "karianaseid.com",
+    "magic-runes.com",
+    "runacode.sever.land",
+    "runacode.ru",
+    "occclav.com",
+    "mk999.one",
+    "runacode.ru",
+    "runacode-jotunheim.ru",
+    "magia.mk999.one"
+   ]
+  },
+  "расшифровка рун.": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "www.predskazanie.ru",
+    "velantra.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "elarus.ru",
+    "astrohelper.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "actro.online"
+   ]
+  },
+  "рунический атт": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "vk.ru",
+    "www.enmerkar.com",
+    "runico.ru",
+    "runarium.ru",
+    "runoznanie.blogspot.com",
+    "dzen.ru",
+    "runir.ru",
+    "magicclover.ru",
+    "happywitch.ru"
+   ]
+  },
+  "значение ру": {
+   "tag": "home",
+   "source": "base",
+   "position": 25,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wiktionary.org",
+    "ru.wikipedia.org",
+    "www.predskazanie.ru",
+    "ru.ruwiki.ru",
+    "gadalkindom.ru",
+    "www.predskazanie.ru",
+    "runi-zovsevera.ru",
+    "magya-online.ru",
+    "www.astrocentr.ru",
+    "goroskop365.ru"
+   ]
+  },
+  "атрибуты фрейра": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/pantheon/freyr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "runico.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "beliyles.com",
+    "vk.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "silvermaproject.ru",
+    "thetroth.org",
+    "dic.academic.ru"
+   ]
+  },
+  "4-я руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 30,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "runi-zovsevera.ru",
+    "elarus.ru",
+    "actro.online",
+    "vk.ru",
+    "wiki2.org",
+    "horo.mail.ru",
+    "pandorium.app",
+    "esoterics.wikireading.ru",
+    "dzen.ru"
+   ]
+  },
+  "атрибуты тора": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/pantheon/thor.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "xn--h1ajim.xn--p1ai",
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "media.foxford.ru",
+    "mifolog.com",
+    "wayoftherunes.com",
+    "dzen.ru",
+    "fantasticbeings.fandom.com",
+    "bfometr.ru"
+   ]
+  },
+  "руны старшего": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "magia.fandom.com",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "pikabu.ru",
+    "www.ozon.ru",
+    "ruyan-master.ru",
+    "dzen.ru",
+    "dzen.ru",
+    "runir.ru"
+   ]
+  },
+  "снежинка руны": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com"
+   ]
+  },
+  "тор громовержец": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/pantheon/thor.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "runarium.ru",
+    "runico.ru",
+    "fantasticbeings.fandom.com",
+    "www.youtube.com",
+    "anime-characters-fight.fandom.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "dzen.ru"
+   ]
+  },
+  "верхний футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "www.youtube.com",
+    "ru.ruwiki.ru",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "www.youtube.com",
+    "arzamas.academy",
+    "magicclover.ru",
+    "magia.fandom.com"
+   ]
+  },
+  "бальдр имя": {
+   "tag": "home",
+   "source": "base",
+   "position": 99,
+   "url": "https://runico.ru/pantheon/baldr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "dic.academic.ru",
+    "web.archive.org",
+    "tr-page.yandex.ru",
+    "norroen.info",
+    "assassinscreed.fandom.com",
+    "dzen.ru",
+    "thetroth.org",
+    "godofwar.fandom.com",
+    "anime-characters-fight.fandom.com"
+   ]
+  },
+  "руне еи": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "dzen.ru",
+    "vk.ru",
+    "meanings.ru",
+    "www.predskazanie.ru",
+    "my.ranepa.ru",
+    "www.livemaster.ru",
+    "mk999.one",
+    "elarus.ru",
+    "runico.ru",
+    "pandorium.app"
+   ]
+  },
+  "руна льда": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "runolad.ru",
+    "svargaloka.ru",
+    "vk.ru",
+    "russkie-runy.ru",
+    "www.wowhead.com",
+    "books.yandex.ru",
+    "eldenring.fandom.com",
+    "www.wowhead.com",
+    "meanings.ru",
+    "pandorium.app"
+   ]
+  },
+  "перечень рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "ru.wikipedia.org",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "runico.ru",
+    "magic-runes.com",
+    "ru.ruwiki.ru",
+    "surmarket.ru"
+   ]
+  },
+  "freyja vanadís": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/pantheon/freya.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "dzen.ru",
+    "runarium.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "runi-zovsevera.ru",
+    "silvermaproject.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "читать руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "runico.ru",
+    "books.yandex.ru",
+    "books.yandex.ru",
+    "gadalkindom.ru",
+    "dzen.ru",
+    "tr-page.yandex.ru",
+    "santera.ru",
+    "happywitch.ru",
+    "books.yandex.ru"
+   ]
+  },
+  "иггдрасиль драконы": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "overlordanime.fandom.com",
+    "ru.wikipedia.org",
+    "dnd.fandom.com",
+    "overlordanime.fandom.com",
+    "znanierussia.ru",
+    "vk.ru",
+    "xn--h1ajim.xn--p1ai",
+    "tr-page.yandex.ru",
+    "www.b17.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "обозначение руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "elarus.ru",
+    "www.predskazanie.ru",
+    "astrohelper.ru",
+    "magic-runes.com",
+    "santera.ru",
+    "runico.ru"
+   ]
+  },
+  "хлин это": {
+   "tag": "home",
+   "source": "base",
+   "position": 16,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "wayoftherunes.com",
+    "vk.ru",
+    "vk.ru",
+    "dzen.ru",
+    "infourok.ru",
+    "pravoslavie.ru",
+    "vk.ru"
+   ]
+  },
+  "24 руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "russkie-runy.ru",
+    "tr-page.yandex.ru",
+    "elarus.ru",
+    "www.24-runes.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "vesbook.ru",
+    "velantra.ru",
+    "dzen.ru",
+    "infosoratniki.ru"
+   ]
+  },
+  "15-я руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 55,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "ru.ruwiki.ru",
+    "magia.fandom.com",
+    "dzen.ru",
+    "esoterics.wikireading.ru",
+    "horo.mail.ru",
+    "mk999.one",
+    "runavitalis.ru"
+   ]
+  },
+  "tiwaz перевод": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "context.reverso.net",
+    "ru.wiktionary.org",
+    "tr-page.yandex.ru",
+    "lyrhub.com",
+    "goroskop365.ru",
+    "velantra.ru",
+    "vk.ru",
+    "magicclover.ru"
+   ]
+  },
+  "руеы значение": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "arsmagica.org",
+    "www.predskazanie.ru",
+    "ru.ruwiki.ru",
+    "meanings.ru",
+    "elarus.ru",
+    "pandorium.app",
+    "veles.bz",
+    "runi-zovsevera.ru"
+   ]
+  },
+  "ясень иггдрасиль": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "pikabu.ru",
+    "www.livemaster.ru",
+    "ruyan-master.ru",
+    "ru.ruwiki.ru",
+    "m.pravenc.ru",
+    "silvermaproject.ru",
+    "dzen.ru",
+    "dzen.ru",
+    "www.b17.ru"
+   ]
+  },
+  "руна ас": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "wiki2.org",
+    "elarus.ru",
+    "magiachisel.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "www.arcanum.ru",
+    "www.solarvanir.org",
+    "actro.online",
+    "meanings.ru",
+    "santera.ru"
+   ]
+  },
+  "бог инга": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "www.livelib.ru",
+    "thetroth.org",
+    "ru.ruwiki.ru",
+    "dic.academic.ru",
+    "www.livelib.ru",
+    "magicclover.ru",
+    "magiachisel.ru",
+    "selfrealization.mybb.ru",
+    "www.astromeridian.ru"
+   ]
+  },
+  "бог вали": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/pantheon/vali.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "vk.ru",
+    "thetroth.org",
+    "wayoftherunes.com",
+    "dzen.ru",
+    "mk999.one",
+    "tr-page.yandex.ru",
+    "bestmif.ru"
+   ]
+  },
+  "руна хеймдалля": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/pantheon/heimdall.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runarium.ru",
+    "pandorium.app",
+    "runico.ru",
+    "runi-zovsevera.ru",
+    "tr-page.yandex.ru",
+    "vk.ru",
+    "timaon.fandom.com",
+    "runi-zovsevera.ru",
+    "mk999.one",
+    "thetroth.org"
+   ]
+  },
+  "руны значе": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "pandorium.app",
+    "magic-runes.com",
+    "ru.wikipedia.org",
+    "runico.ru",
+    "actro.online",
+    "astrohelper.ru",
+    "elarus.ru"
+   ]
+  },
+  "руны ватара": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "www.youtube.com",
+    "ru.ruwiki.ru",
+    "www.ozon.ru",
+    "runir.ru",
+    "magicclover.ru",
+    "www.youtube.com",
+    "velantra.ru"
+   ]
+  },
+  "старший футарк.": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "pandorium.app",
+    "ru.ruwiki.ru",
+    "ruyan-master.ru",
+    "blog.replicahouse.ru",
+    "www.youtube.com",
+    "surmarket.ru",
+    "goroskop-365.ru",
+    "www.ozon.ru"
+   ]
+  },
+  "медитация тейваз": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "rutube.ru",
+    "vk.ru",
+    "rutube.ru",
+    "rutube.ru",
+    "yandex.ru",
+    "www.youtube.com",
+    "rutube.ru",
+    "www.youtube.com",
+    "vk.ru",
+    "www.youtube.com"
+   ]
+  },
+  "турисаз руна": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "xn--80azim.xn--p1acf",
+    "mk999.one",
+    "runarium.ru",
+    "ru.wikipedia.org",
+    "lunaro.ru",
+    "runavitalis.ru",
+    "pandorium.app",
+    "goroskop-365.ru",
+    "astro7.su"
+   ]
+  },
+  "хлин богиня": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "wayoftherunes.com",
+    "runico.ru",
+    "www.youtube.com",
+    "vk.ru",
+    "dzen.ru",
+    "chernayamagiya.com"
+   ]
+  },
+  "толкова рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runoznanie.blogspot.com",
+    "velantra.ru",
+    "meanings.ru",
+    "pandorium.app",
+    "www.predskazanie.ru",
+    "books.yandex.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "astrohelper.ru",
+    "magic-runes.com"
+   ]
+  },
+  "бог смелости": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mythology.fandom.com",
+    "runico.ru",
+    "ru.wikipedia.org",
+    "dzen.ru",
+    "ru.ruwiki.ru",
+    "ru.wikipedia.org",
+    "dailyverses.net",
+    "www.livemaster.ru",
+    "ru.ruwiki.ru",
+    "ru.wikipedia.org"
+   ]
+  },
+  "рунокод ру": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runacode.ru",
+    "runacode.ru",
+    "mk999.one",
+    "runacode.ru",
+    "runacode.ru",
+    "runico.ru",
+    "occclav.com",
+    "alexandersheps.ru",
+    "runacode.sever.land",
+    "mk999.one"
+   ]
+  },
+  "руна футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "pandorium.app",
+    "ru.wikipedia.org",
+    "runico.ru",
+    "goroskop-365.ru",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "magia.fandom.com",
+    "magic-runes.com",
+    "ruyan-master.ru",
+    "arzamas.academy"
+   ]
+  },
+  "тейваз руна": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "lunaro.ru",
+    "pandorium.app",
+    "runarium.ru",
+    "goroskop-365.ru",
+    "actro.online",
+    "xn--80azim.xn--p1acf",
+    "magia.fandom.com",
+    "mk999.one"
+   ]
+  },
+  "руны трактовка": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "www.predskazanie.ru",
+    "gadalkindom.ru",
+    "astrohelper.ru",
+    "happywitch.ru",
+    "actro.online",
+    "celticforest.ru",
+    "pandorium.app",
+    "magya-online.ru",
+    "magic-runes.com"
+   ]
+  },
+  "вали миф": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/pantheon/vali.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "thetroth.org",
+    "dzen.ru",
+    "runico.ru",
+    "bestmif.ru",
+    "wayoftherunes.com"
+   ]
+  },
+  "мой рунический код": {
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "occclav.com",
+    "runacode.sever.land",
+    "runacode.ru",
+    "runacode.ru",
+    "runacode.ru",
+    "karianaseid.com",
+    "elarus.ru",
+    "runico.ru",
+    "irc.runa-odin.com"
+   ]
+  },
+  "описание каждой руны": {
+   "tag": "runes",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "velantra.ru",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "santera.ru",
+    "gadalkindom.ru",
+    "elarus.ru",
+    "runico.ru",
+    "actro.online"
+   ]
+  },
+  "рунические символы значение": {
+   "tag": "runes",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "runico.ru",
+    "www.predskazanie.ru",
+    "magic-runes.com",
+    "gadalkindom.ru",
+    "santera.ru"
+   ]
+  },
+  "руна вуньо фото": {
+   "tag": "runes/wunjo.html",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.pinterest.com",
+    "ru.wikipedia.org",
+    "ru.freepik.com",
+    "www.shutterstock.com",
+    "ru.ruwiki.ru",
+    "www.wildberries.ru",
+    "dzen.ru",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "magia.fandom.com"
+   ]
+  },
+  "руна иса значение": {
+   "tag": "runes/isa.html",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "runarium.ru",
+    "elarus.ru",
+    "meanings.ru",
+    "lunaro.ru",
+    "pandorium.app",
+    "magiachisel.ru",
+    "magia.fandom.com",
+    "horo.mail.ru",
+    "celticforest.ru",
+    "mk999.one"
+   ]
+  },
+  "бальдр скандинавский бог": {
+   "tag": "pantheon/baldr.html",
+   "source": "base",
+   "position": 67,
+   "url": "https://runico.ru/pantheon/baldr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "dzen.ru",
+    "silvermaproject.ru",
+    "runarium.ru",
+    "wiki2.org",
+    "thetroth.org",
+    "godofwar.fandom.com",
+    "tr-page.yandex.ru",
+    "vk.ru"
+   ]
+  },
+  "руны как слова": {
+   "tag": "stati/runy-pismennost.html",
+   "source": "base",
+   "position": 34,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "kartaslov.ru",
+    "duskworld.ru",
+    "ru.wikipedia.org",
+    "ru.wiktionary.org",
+    "kartaslov.ru",
+    "spravochnick.ru",
+    "dzen.ru"
+   ]
+  },
+  "классическая расшифровка рун": {
+   "tag": "runes",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "velantra.ru",
+    "magic-runes.com",
+    "elarus.ru",
+    "ru.wikipedia.org",
+    "gadalkindom.ru",
+    "pandorium.app",
+    "goroskop-365.ru",
+    "runico.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "калькулятор рунического кода": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "runacode.sever.land",
+    "runacode.ru",
+    "runacode.ru",
+    "occclav.com",
+    "karianaseid.com",
+    "occclav.com",
+    "runacode.ru",
+    "magya-online.ru"
+   ]
+  },
+  "значения всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "gadalkindom.ru",
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "elarus.ru",
+    "magic-runes.com",
+    "velantra.ru",
+    "actro.online"
+   ]
+  },
+  "руны сколько их": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "happywitch.ru",
+    "dzen.ru",
+    "runi-zovsevera.ru",
+    "arzamas.academy",
+    "gadalkindom.ru",
+    "runico.ru",
+    "vk.ru",
+    "pandorium.app"
+   ]
+  },
+  "значение карт рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "gadalkindom.ru",
+    "velantra.ru",
+    "goroskop-365.ru",
+    "magya-online.ru",
+    "astralika.com",
+    "astrohelper.ru",
+    "celticforest.ru",
+    "www.astrocentr.ru",
+    "happywitch.ru"
+   ]
+  },
+  "значение скандинавских руг": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "elarus.ru",
+    "actro.online",
+    "celticforest.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "www.giftman.ru",
+    "magic-runes.com",
+    "ru.wikipedia.org"
+   ]
+  },
+  "скандинавские имена богов": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "mythology.fandom.com",
+    "riordan.fandom.com",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "blog.mann-ivanov-ferber.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "tonkosti.ru",
+    "fanfics.me"
+   ]
+  },
+  "бог тюр доклад": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/pantheon/tyr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "runarium.ru",
+    "ru.wikipedia.org",
+    "silvermaproject.ru",
+    "runico.ru",
+    "vk.ru",
+    "ru.ruwiki.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "northern.thesaurusdeorum.com",
+    "dzen.ru"
+   ]
+  },
+  "видар кто это": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/pantheon/vidar.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "dzen.ru",
+    "dzen.ru",
+    "runico.ru",
+    "runi-zovsevera.ru",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "thetroth.org"
+   ]
+  },
+  "ансуз руна стихия": {
+   "tag": "home",
+   "source": "base",
+   "position": 98,
+   "url": "https://runico.ru/runes/ansuz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runoznanie.blogspot.com",
+    "vk.ru",
+    "runir.ru",
+    "vk.ru",
+    "www.arcanum.ru",
+    "www.arcanum.ru",
+    "magicclover.ru",
+    "actro.online",
+    "runavitalis.ru",
+    "mk999.one"
+   ]
+  },
+  "что такое форсети": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/pantheon/forseti.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "thetroth.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "runi-zovsevera.ru",
+    "wayoftherunes.com",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "www.youtube.com",
+    "www.livelib.ru"
+   ]
+  },
+  "руны их обозначение": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "velantra.ru",
+    "magic-runes.com",
+    "runico.ru",
+    "santera.ru",
+    "www.predskazanie.ru",
+    "pandorium.app"
+   ]
+  },
+  "рассчитать руну судьбы": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "runacode.sever.land",
+    "karianaseid.com",
+    "tragos.ru",
+    "runacode.ru",
+    "occclav.com",
+    "runico.ru",
+    "elarus.ru",
+    "runacode.ru"
+   ]
+  },
+  "миры древа иггдрасиль и его жители": {
+   "tag": "home",
+   "source": "base",
+   "position": 88,
+   "url": "https://runico.ru/derevo-iggdrasil.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "silvermaproject.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "dommagii.com",
+    "dommagii.com",
+    "www.b17.ru",
+    "vk.ru",
+    "symbolos.ru",
+    "www.laconlife.ru",
+    "xn--80aejvmu5h.xn--80aswg"
+   ]
+  },
+  "все названия рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "santera.ru",
+    "goroskop-365.ru",
+    "ru.ruwiki.ru",
+    "pandorium.app",
+    "happywitch.ru",
+    "runico.ru",
+    "magic-runes.com",
+    "gadalkindom.ru",
+    "elarus.ru"
+   ]
+  },
+  "значение рун гадание": {
+   "tag": "home",
+   "source": "base",
+   "position": 24,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "magya-online.ru",
+    "gadalkindom.ru",
+    "celticforest.ru",
+    "www.predskazanie.ru",
+    "astrohelper.ru",
+    "www.astrocentr.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "chernayamagiya.com",
+    "celticforest.ru"
+   ]
+  },
+  "узнать личную руну": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "tragos.ru",
+    "magic-runes.com",
+    "elarus.ru",
+    "runico.ru",
+    "magya-online.ru",
+    "karianaseid.com",
+    "occclav.com",
+    "runacode.sever.land",
+    "runacode.ru"
+   ]
+  },
+  "название всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "santera.ru",
+    "ru.ruwiki.ru",
+    "happywitch.ru",
+    "pandorium.app",
+    "goroskop-365.ru",
+    "gadalkindom.ru",
+    "runico.ru",
+    "arzamas.academy",
+    "elarus.ru"
+   ]
+  },
+  "скандинавские руны все": {
+   "tag": "home",
+   "source": "base",
+   "position": 16,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "www.predskazanie.ru",
+    "gadalkindom.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "tr-page.yandex.ru",
+    "goroskop-365.ru"
+   ]
+  },
+  "бог плодородия фрейр": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/pantheon/freyr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "silvermaproject.ru",
+    "ru.ruwiki.ru",
+    "beliyles.com",
+    "dzen.ru",
+    "tikitotem.ru",
+    "runico.ru",
+    "runi-zovsevera.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "цвет руны перт": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/perthro.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "horo.mail.ru",
+    "elarus.ru",
+    "runico.ru",
+    "runoznanie.blogspot.com",
+    "ru.wikipedia.org",
+    "i-futhark.com",
+    "dzen.ru",
+    "magia.fandom.com",
+    "magicclover.ru"
+   ]
+  },
+  "что означает руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "pandorium.app",
+    "magic-runes.com",
+    "runico.ru",
+    "arzamas.academy",
+    "magya-online.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "22 руна футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 20,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "meanings.ru",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "magia.fandom.com",
+    "pandorium.app",
+    "vk.ru",
+    "magiachisel.ru",
+    "dzen.ru"
+   ]
+  },
+  "один и руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/pantheon/odin.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "dzen.ru",
+    "dommagii.com",
+    "znanierussia.ru",
+    "vk.ru",
+    "runico.ru",
+    "runarium.ru",
+    "www.b17.ru",
+    "ru.ruwiki.ru",
+    "dzen.ru"
+   ]
+  },
+  "путь одина мудрость": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/pantheon/odin.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "silvermaproject.ru",
+    "kartaslov.ru",
+    "runico.ru",
+    "znanierussia.ru",
+    "www.livemaster.ru",
+    "runi-zovsevera.ru",
+    "ru.wikipedia.org",
+    "www.youtube.com",
+    "runarium.ru",
+    "thetroth.org"
+   ]
+  },
+  "магни что это": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/pantheon/magni.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "xn--h1ajim.xn--p1ai",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "wayoftherunes.com",
+    "tr-page.yandex.ru",
+    "godofwar.fandom.com",
+    "tr-page.yandex.ru",
+    "fanfics.me",
+    "maelinhon.org"
+   ]
+  },
+  "фрейя это кто": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "xn--h1ajim.xn--p1ai",
+    "xn--80aejvmu5h.xn--80aswg",
+    "dzen.ru",
+    "runarium.ru",
+    "thetroth.org",
+    "safita.pro",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "скандинавский бог бальдр": {
+   "tag": "home",
+   "source": "base",
+   "position": 89,
+   "url": "https://runico.ru/pantheon/baldr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "dzen.ru",
+    "ru.ruwiki.ru",
+    "wiki2.org",
+    "mythus.fandom.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "dzen.ru",
+    "runarium.ru",
+    "dzen.ru",
+    "dzen.ru"
+   ]
+  },
+  "описание всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "santera.ru",
+    "happywitch.ru",
+    "magic-runes.com",
+    "velantra.ru",
+    "gadalkindom.ru",
+    "pandorium.app",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "runico.ru"
+   ]
+  },
+  "ату не руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "chernayamagiya.com",
+    "dzen.ru",
+    "runico.ru",
+    "magiclife.su",
+    "dzen.ru",
+    "magiclife.su",
+    "kerebonomata.ru",
+    "beregrun.ru",
+    "vk.ru",
+    "fatebydate.ru"
+   ]
+  },
+  "руны в психологии": {
+   "tag": "home",
+   "source": "base",
+   "position": 65,
+   "url": "https://runico.ru/stati/runy-psihologiya.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.litres.ru",
+    "research-journal.org",
+    "www.b17.ru",
+    "www.b17.ru",
+    "www.b17.ru",
+    "www.b17.ru",
+    "symbolos.ru",
+    "www.b17.ru",
+    "alexandrafilinn.com",
+    "dzen.ru"
+   ]
+  },
+  "воин бога ингви": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "www.astromeridian.ru",
+    "thetroth.org",
+    "runarium.ru",
+    "tr-page.yandex.ru",
+    "bolivar1958ds.mirtesen.ru",
+    "safita.pro",
+    "ru-sled.ru",
+    "m.vk.ru",
+    "www.livelib.ru"
+   ]
+  },
+  "тор сын зевса": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/pantheon/thor.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "anime-characters-fight.fandom.com",
+    "ru.ruwiki.ru",
+    "dzen.ru",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "runico.ru",
+    "fantasticbeings.fandom.com",
+    "tr-page.yandex.ru",
+    "runarium.ru"
+   ]
+  },
+  "руны гадание расшифровка": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "magya-online.ru",
+    "celticforest.ru",
+    "astrohelper.ru",
+    "www.predskazanie.ru",
+    "gadalkindom.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "happywitch.ru",
+    "chernayamagiya.com",
+    "xn--80azim.xn--p1acf"
+   ]
+  },
+  "магни скандинавская мифология": {
+   "tag": "home",
+   "source": "base",
+   "position": 35,
+   "url": "https://runico.ru/pantheon/magni.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "wayoftherunes.com",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "ixbt.games",
+    "ru.ruwiki.ru",
+    "www.mirf.ru",
+    "maelinhon.org"
+   ]
+  },
+  "руна уруз изображение": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.shutterstock.com",
+    "ru.pinterest.com",
+    "dzen.ru",
+    "ru.ruwiki.ru",
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "www.vectorstock.com",
+    "gadalkindom.ru",
+    "vk.ru",
+    "xn--80aejvmu5h.xn--80aswg"
+   ]
+  },
+  "значение 24 рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mindeep.ru",
+    "magic-runes.com",
+    "velantra.ru",
+    "pandorium.app",
+    "astralika.com",
+    "goroskop-365.ru",
+    "tarotcompanion.ru",
+    "runico.ru",
+    "arcanika.com",
+    "vk.ru"
+   ]
+  },
+  "онлайн расчет руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "karianaseid.com",
+    "occclav.com",
+    "runacode.sever.land",
+    "tragos.ru",
+    "runacode.ru",
+    "runacode.ru",
+    "runacode.ru",
+    "magya-online.ru"
+   ]
+  },
+  "руны описание значение": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "actro.online",
+    "magic-runes.com",
+    "pandorium.app",
+    "ru.wikipedia.org",
+    "astrohelper.ru",
+    "gadalkindom.ru"
+   ]
+  },
+  "полный рунический футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "velantra.ru",
+    "tr-page.yandex.ru",
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "runico.ru",
+    "www.youtube.com",
+    "magicclover.ru"
+   ]
+  },
+  "описание скандинавских богов": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/pantheon/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "riordan.fandom.com",
+    "runico.ru",
+    "dzen.ru",
+    "blog.mann-ivanov-ferber.ru",
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "tonkosti.ru",
+    "www.mirf.ru",
+    "tr-page.yandex.ru",
+    "www.laconlife.ru"
+   ]
+  },
+  "руна как определить": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "magic-runes.com",
+    "mk999.one",
+    "elarus.ru",
+    "voronwood.ru",
+    "magya-online.ru",
+    "runico.ru",
+    "www.runichub.com",
+    "runacode.sever.land",
+    "www.solarvanir.org"
+   ]
+  },
+  "архетип руны дагаз": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/dagaz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.astromeridian.ru",
+    "vk.ru",
+    "www.litres.ru",
+    "www.astromeridian.ru",
+    "runico.ru",
+    "meanings.ru",
+    "gadalkindom.ru",
+    "pandorium.app",
+    "vk.ru",
+    "magicclover.ru"
+   ]
+  },
+  "расшифровать набор рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "elarus.ru",
+    "gadalkindom.ru",
+    "magic-runes.com",
+    "tr-page.yandex.ru",
+    "happywitch.ru",
+    "tayniymir.com",
+    "magya-online.ru",
+    "elarus.ru",
+    "goroskop-365.ru"
    ]
   }
  }
