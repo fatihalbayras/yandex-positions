@@ -1,6 +1,11 @@
 name: yandex-positions-runico-submit
 
 on:
+  schedule:
+    # 00:50 МСК = 21:50 UTC (отложенный режим Search API: окно 00:00-06:00 МСК).
+    # Идемпотентно: submit пропускает ключи, уже отправленные (есть в state) —
+    # когда семантика полностью собрана, этот прогон просто ничего не делает.
+    - cron: '50 21 * * *'
   workflow_dispatch:
 
 permissions:

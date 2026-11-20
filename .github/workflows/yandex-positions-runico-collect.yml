@@ -1,6 +1,9 @@
 name: yandex-positions-runico-collect
 
 on:
+  schedule:
+    # 05:50 МСК = 02:50 UTC (async обрабатывается 5+ минут, результаты живут 8-12 ч)
+    - cron: '50 2 * * *'
   workflow_dispatch:
 
 permissions:

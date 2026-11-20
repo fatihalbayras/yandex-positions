@@ -1,6 +1,9 @@
 name: yandex-positions-onlineastrolog-collect
 
 on:
+  schedule:
+    # 05:10 МСК = 02:10 UTC
+    - cron: '10 2 * * *'
   workflow_dispatch:
 
 permissions:

@@ -1,6 +1,10 @@
 name: yandex-positions-onlineastrolog-submit
 
 on:
+  schedule:
+    # 00:10 МСК = 21:10 UTC. Идемпотентно: submit пропускает уже отправленные
+    # ключи — когда семантика полностью собрана, прогон ничего не делает.
+    - cron: '10 21 * * *'
   workflow_dispatch:
 
 permissions:
