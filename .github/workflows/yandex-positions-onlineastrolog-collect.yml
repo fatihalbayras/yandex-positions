@@ -15,6 +15,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Collect async position results (parallel)
+        if: always()
         env:
           YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
           YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
@@ -22,6 +23,7 @@ jobs:
           YP_SITE: 'onlineastrolog.ru'
         run: python tools/yandex-positions-onlineastrolog/collect_parallel.py
       - name: Commit results
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
