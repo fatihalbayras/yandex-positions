@@ -1,0 +1,32 @@
+name: wordstat-freq-onlineastrolog
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect exact Wordstat frequency (region Russia)
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          WORDSTAT_REGION: '225'
+        run: python tools/wordstat-freq-onlineastrolog/collect.py
+      - name: Commit cache
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
+          git add tools/wordstat-freq-onlineastrolog/freq_cache.json
+          git commit -m "wordstat-freq onlineastrolog: $(date -u +%Y-%m-%d_%H:%M)" || echo "nothing to commit"
+          git push
