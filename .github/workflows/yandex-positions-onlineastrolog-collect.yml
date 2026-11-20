@@ -1,7 +1,9 @@
 name: yandex-positions-onlineastrolog-collect
 
 on:
-  # cron ВЫКЛЮЧЕН — нет активной задачи. Вернуть: - cron: '10 2 * * *'  # 05:10 МСК
+  schedule:
+    # 05:10 МСК = 02:10 UTC. Включён обратно 20.11 вечером (см. submit.yml).
+    - cron: '10 2 * * *'
   workflow_dispatch:
 
 permissions:
