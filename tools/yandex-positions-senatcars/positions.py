@@ -78,11 +78,11 @@ def api(path: str, body=None, retries: int = 8):
                 time.sleep(wait)
                 continue
             raise RuntimeError(f"HTTP {e.code} for {path}: {payload}")
-        except urllib.error.URLError:
+        except (urllib.error.URLError, OSError) as e:  # сетевые обрывы (RemoteDisconnected и т.п.) — тоже ретраим
             if attempt < retries - 1:
                 time.sleep(10 * (attempt + 1))
                 continue
-            raise
+            raise RuntimeError(f"network error: {e!r}")
     raise RuntimeError("не удалось выполнить запрос после ретраев")
 
 
@@ -100,11 +100,11 @@ def api_op(opid: str, retries: int = 8):
                 time.sleep(10 * (attempt + 1))
                 continue
             raise RuntimeError(f"HTTP {e.code} for operation {opid}: {payload}")
-        except urllib.error.URLError:
+        except (urllib.error.URLError, OSError) as e:  # сетевые обрывы (RemoteDisconnected и т.п.) — тоже ретраим
             if attempt < retries - 1:
                 time.sleep(10 * (attempt + 1))
                 continue
-            raise
+            raise RuntimeError(f"network error: {e!r}")
 
 
 def read_keyword_file(path: Path, source: str):
