@@ -33,10 +33,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase || true
           git add tools/yandex-positions-senatcars/state tools/yandex-positions-senatcars/queue
           git commit -m "positions: submit fallback $(date -u +%Y-%m-%d)" || echo "nothing to commit"
-          git push
+          git push || (git fetch origin main && git rebase origin/main && git push)
 
       - name: Wait for async processing
         if: always()
@@ -54,7 +53,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase || true
           git add tools/yandex-positions-senatcars/results
           git commit -m "positions: early collect $(date -u +%Y-%m-%d)" || echo "nothing to commit"
-          git push
+          git push || (git fetch origin main && git rebase origin/main && git push)

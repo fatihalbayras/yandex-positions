@@ -26,7 +26,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase || true
           git add tools/wordstat-freq-onlineastrolog/freq_cache.json
           git commit -m "wordstat-freq onlineastrolog: $(date -u +%Y-%m-%d_%H:%M)" || echo "nothing to commit"
-          git push
+          git push || (git fetch origin main && git rebase origin/main && git push)

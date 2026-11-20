@@ -31,10 +31,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase || true
           git add tools/yandex-positions-runico/state tools/yandex-positions-runico/queue
           git commit -m "runico positions: submit $(date -u +%Y-%m-%d)" || echo "nothing to commit"
-          git push
+          git push || (git fetch origin main && git rebase origin/main && git push)
 
       - name: Wait for async processing
         if: always()
@@ -52,7 +51,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase || true
           git add tools/yandex-positions-runico/results
           git commit -m "runico positions: early collect $(date -u +%Y-%m-%d)" || echo "nothing to commit"
-          git push
+          git push || (git fetch origin main && git rebase origin/main && git push)
