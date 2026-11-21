@@ -1,0 +1,55 @@
+name: yandex-positions-ikigaiauto-pm-submit
+
+on:
+  schedule:
+    # 02:45 МСК = 23:45 UTC (отложенный режим Search API: окно 00:00-06:00 МСК).
+    # Сдвиг от ikigaiauto-vl (01:15) и ikigaiauto-ys (02:10) — общая квота 1 запрос/сек на API-ключ.
+    - cron: '45 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Submit async position requests
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '50'
+          YP_SITE: 'ikigaiauto.ru'
+        run: python tools/yandex-positions-ikigaiauto-pm/positions.py submit
+      - name: Commit state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/yandex-positions-ikigaiauto-pm/state tools/yandex-positions-ikigaiauto-pm/queue
+          git commit -m "ikigaiauto-pm positions: submit $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push || (git fetch origin main && git rebase origin/main && git push)
+
+      - name: Wait for async processing
+        if: always()
+        run: sleep 300
+      - name: Collect results (parallel, early grab)
+        if: always()
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '50'
+          YP_SITE: 'ikigaiauto.ru'
+        run: python tools/yandex-positions-ikigaiauto-pm/collect_parallel.py
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/yandex-positions-ikigaiauto-pm/results
+          git commit -m "ikigaiauto-pm positions: early collect $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push || (git fetch origin main && git rebase origin/main && git push)
