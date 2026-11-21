@@ -1,0 +1,4010 @@
+{
+ "date": "2026-11-21",
+ "region": "213",
+ "site": "runico.ru",
+ "total": 1124,
+ "done": 200,
+ "pending": [],
+ "positions": {
+  "ругы": {
+   "tag": "home",
+   "source": "base",
+   "position": 26,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "elarus.ru",
+    "happywitch.ru",
+    "www.astrocentr.ru",
+    "gadalkindom.ru",
+    "www.predskazanie.ru",
+    "pandorium.app",
+    "astrology-online.ru"
+   ]
+  },
+  "балдр": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "silvermaproject.ru",
+    "godofwar.fandom.com",
+    "tr-page.yandex.ru",
+    "northern.thesaurusdeorum.com",
+    "runarium.ru",
+    "www.livelib.ru",
+    "norroen.info",
+    "dommagii.com"
+   ]
+  },
+  "othala": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "mk999.one",
+    "ru.ruwiki.ru",
+    "santera.ru",
+    "elarus.ru",
+    "labyrinthos.co",
+    "runarium.ru",
+    "actro.online",
+    "horo.mail.ru"
+   ]
+  },
+  "futhark": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "runy.pro",
+    "runico.ru",
+    "xn--h1ajim.xn--p1ai",
+    "78tarot.ru",
+    "surmarket.ru",
+    "ruyan-master.ru",
+    "safita.pro",
+    "pikabu.ru",
+    "pandorium.app"
+   ]
+  },
+  "futark": {
+   "tag": "home",
+   "source": "base",
+   "position": 21,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "xn--h1ajim.xn--p1ai",
+    "www.youtube.com",
+    "www.avito.ru",
+    "www.youtube.com",
+    "magia.fandom.com",
+    "wiki2.org",
+    "runarium.ru",
+    "www.avito.ru"
+   ]
+  },
+  "руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 14,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.runa.ru",
+    "arzamas.academy",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "runi-zovsevera.ru",
+    "ru.wiktionary.org",
+    "kartaslov.ru",
+    "www.predskazanie.ru",
+    "happywitch.ru"
+   ]
+  },
+  "runy": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "elarus.ru",
+    "www.ozon.ru",
+    "market.yandex.ru",
+    "dimagamagic.github.io",
+    "chernayamagiya.com",
+    "happywitch.ru",
+    "astrology-online.ru"
+   ]
+  },
+  "freyr": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "godofwar.fandom.com",
+    "ru.ruwiki.ru",
+    "mythopedia.com",
+    "www.worldhistory.org",
+    "www.greekmythology.com",
+    "silvermaproject.ru",
+    "norse-mythology.org",
+    "mythus.fandom.com",
+    "beliyles.com"
+   ]
+  },
+  "рунакод": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "runacode.ru",
+    "runacode.ru",
+    "occclav.com",
+    "runacode.sever.land",
+    "runacode.ru",
+    "magic-runes.com",
+    "karianaseid.com",
+    "runacode.ru",
+    "mk999.one"
+   ]
+  },
+  "рунны": {
+   "tag": "home",
+   "source": "base",
+   "position": 23,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "elarus.ru",
+    "happywitch.ru",
+    "runi-zovsevera.ru",
+    "dimagamagic.github.io",
+    "www.ozon.ru",
+    "market.yandex.ru",
+    "chernayamagiya.com"
+   ]
+  },
+  "футарх": {
+   "tag": "home",
+   "source": "base",
+   "position": 20,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "checko.ru",
+    "www.livemaster.ru",
+    "www.youtube.com",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "b2b.house",
+    "tr-page.yandex.ru",
+    "www.ozon.ru",
+    "www.youtube.com"
+   ]
+  },
+  "торм": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "www.consultant.ru",
+    "www.consultant.ru",
+    "dnd.fandom.com",
+    "xn--h1ajim.xn--p1ai",
+    "www.nalog.gov.ru",
+    "tr-page.yandex.ru",
+    "www.nalog.gov.ru",
+    "www.consultant.ru",
+    "5e14.ttg.club"
+   ]
+  },
+  "футарак": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "tr-page.yandex.ru",
+    "magia.fandom.com",
+    "runy.pro",
+    "elarus.ru",
+    "ru.pinterest.com",
+    "veles.bz",
+    "kartaslov.ru",
+    "gadalkindom.ru",
+    "runico.ru"
+   ]
+  },
+  "рууны": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "xn--h1ajim.xn--p1ai",
+    "gadanie.center",
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "runico.ru",
+    "chernayamagiya.com",
+    "www.leagueofgraphs.com",
+    "ru.pinterest.com",
+    "www.predskazanie.ru",
+    "www.chitai-gorod.ru"
+   ]
+  },
+  "фрейром": {
+   "tag": "home",
+   "source": "base",
+   "position": 43,
+   "url": "https://runico.ru/pantheon/freyr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "beliyles.com",
+    "silvermaproject.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "thetroth.org",
+    "sapphirebrush.com",
+    "runi-zovsevera.ru",
+    "xn--80aejvmu5h.xn--80aswg"
+   ]
+  },
+  "руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "arzamas.academy",
+    "elarus.ru",
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "happywitch.ru",
+    "www.predskazanie.ru",
+    "runico.ru",
+    "astrology-online.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "goroskop-365.ru"
+   ]
+  },
+  "футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "magia.fandom.com",
+    "arzamas.academy",
+    "kartaslov.ru",
+    "runy.pro",
+    "runico.ru",
+    "78tarot.ru",
+    "ruyan-master.ru"
+   ]
+  },
+  "sowilo руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 96,
+   "url": "https://runico.ru/runes/sowilo.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "runarium.ru",
+    "astro7.su",
+    "xn--80aejvmu5h.xn--80aswg",
+    "mk999.one",
+    "meanings.ru",
+    "occclav.com"
+   ]
+  },
+  "24 руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "pandorium.app",
+    "velantra.ru",
+    "runico.ru",
+    "magic-runes.com",
+    "tr-page.yandex.ru",
+    "vesbook.ru",
+    "goroskop-365.ru",
+    "wayoftherunes.com",
+    "www.24-runes.ru",
+    "runico.ru"
+   ]
+  },
+  "азбука рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 20,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "ru.pinterest.com",
+    "ru.ruwiki.ru",
+    "ru.pinterest.com",
+    "drevlit.ru",
+    "www.litres.ru",
+    "elarus.ru",
+    "vesbook.ru"
+   ]
+  },
+  "атт тюра": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/othala.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "runico.ru",
+    "runoznanie.blogspot.com",
+    "happywitch.ru",
+    "runico.ru",
+    "rumoon.com",
+    "magicclover.ru",
+    "vk.ru",
+    "vk.ru",
+    "vk.ru"
+   ]
+  },
+  "виса фрейе": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "chernayamagiya.com",
+    "vk.ru",
+    "www.freyja-goddess.ru",
+    "stihi.ru",
+    "chernayamagiya.com",
+    "vk.ru",
+    "dzen.ru",
+    "azaltamagua.com",
+    "vk.ru",
+    "chernayamagiya.com"
+   ]
+  },
+  "все руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "santera.ru",
+    "goroskop-365.ru",
+    "runi-zovsevera.ru",
+    "pandorium.app",
+    "runico.ru",
+    "ru.ruwiki.ru",
+    "magic-runes.com",
+    "elarus.ru",
+    "happywitch.ru"
+   ]
+  },
+  "атт хеймдалля": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "pandorium.app",
+    "www.livelib.ru",
+    "runarium.ru",
+    "m.vk.ru",
+    "vk.ru",
+    "rumoon.com",
+    "runoznanie.blogspot.com",
+    "happywitch.ru",
+    "vk.ru"
+   ]
+  },
+  "бросить руну": {
+   "tag": "home",
+   "source": "base",
+   "position": 43,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "www.opakyl.ru",
+    "www.predskazanie.ru",
+    "www.predskazanie.ru",
+    "tragos.ru",
+    "dzen.ru",
+    "www.astrocentr.ru",
+    "horo.mail.ru",
+    "gadalkindom.ru",
+    "magya-online.ru"
+   ]
+  },
+  "германские руны": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "habr.com",
+    "www.ozon.ru",
+    "dzen.ru",
+    "www.garshin.ru",
+    "surmarket.ru",
+    "www.wildberries.ru",
+    "dzen.ru",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "бинд руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 15,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "vk.ru",
+    "ru.pinterest.com",
+    "annerbe.ucoz.com",
+    "maelinhon.org",
+    "chernayamagiya.com",
+    "maelinhon.org",
+    "vk.ru",
+    "gadalkindom.ru",
+    "www.astromeridian.ru"
+   ]
+  },
+  "древняя руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "ru.wikipedia.org",
+    "harrypotter.fandom.com",
+    "azbyka.ru",
+    "elarus.ru",
+    "vesbook.ru",
+    "dzen.ru",
+    "goroskop-365.ru"
+   ]
+  },
+  "знак футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "ru.wikipedia.org",
+    "runico.ru",
+    "arzamas.academy",
+    "pandorium.app",
+    "ruyan-master.ru",
+    "magia.fandom.com",
+    "runy.pro"
+   ]
+  },
+  "древние руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 54,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "azbyka.ru",
+    "harrypotter.fandom.com",
+    "tr-page.yandex.ru",
+    "foxford.ru",
+    "drevlit.ru"
+   ]
+  },
+  "знаки рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "ru.ruwiki.ru",
+    "pandorium.app",
+    "xn--80aejvmu5h.xn--80aswg",
+    "gadalkindom.ru",
+    "magic-runes.com"
+   ]
+  },
+  "ирк рассчитать": {
+   "tag": "home",
+   "source": "base",
+   "position": 18,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "runacode.ru",
+    "runacode.sever.land",
+    "magic-runes.com",
+    "runacode.ru",
+    "karianaseid.com",
+    "inpot.ru",
+    "magia.mk999.one",
+    "occclav.com",
+    "runacode.ru"
+   ]
+  },
+  "кинуть руну": {
+   "tag": "home",
+   "source": "base",
+   "position": 86,
+   "url": "https://runico.ru/gadanie.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "tragos.ru",
+    "gadanie.center",
+    "www.opakyl.ru",
+    "www.predskazanie.ru",
+    "www.astrocentr.ru",
+    "magya-online.ru",
+    "tragos.ru",
+    "dzen.ru",
+    "gadalkindom.ru"
+   ]
+  },
+  "знаки тюра": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "www.zevira.net",
+    "xn--80aejvmu5h.xn--80aswg",
+    "runico.ru",
+    "happywitch.ru",
+    "xn--m1afj7a.xn--80adxhks",
+    "goroskop-365.ru",
+    "runavitalis.ru",
+    "arsmagica.org"
+   ]
+  },
+  "ирк расчет": {
+   "tag": "home",
+   "source": "base",
+   "position": 77,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "karianaseid.com",
+    "runacode.sever.land",
+    "runacode.ru",
+    "occclav.com",
+    "runacode.ru",
+    "runacode-jotunheim.ru",
+    "mk999.one",
+    "occclav.com"
+   ]
+  },
+  "младший футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "norroen.info",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "ru.wikipedia.org",
+    "dzen.ru",
+    "magia.fandom.com",
+    "www.thef.info",
+    "ru.ruwiki.ru",
+    "78tarot.ru"
+   ]
+  },
+  "описание рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "magic-runes.com",
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "gadalkindom.ru",
+    "santera.ru",
+    "www.predskazanie.ru",
+    "xn--80aejvmu5h.xn--80aswg"
+   ]
+  },
+  "название рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 18,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "happywitch.ru",
+    "www.wikihow.com",
+    "magia.fandom.com",
+    "cyclowiki.org",
+    "tr-page.yandex.ru",
+    "santera.ru",
+    "www.predskazanie.ru",
+    "gadalkindom.ru"
+   ]
+  },
+  "кинуть руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 69,
+   "url": "https://runico.ru/gadanie.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "tragos.ru",
+    "v-kosmose.com",
+    "tragos.ru",
+    "www.astrocentr.ru",
+    "gadanie.center",
+    "goroskop365.ru",
+    "magya-online.ru",
+    "gadanie.online",
+    "horo.mail.ru"
+   ]
+  },
+  "оружие тюра": {
+   "tag": "home",
+   "source": "base",
+   "position": 50,
+   "url": "https://runico.ru/pantheon/tyr.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "ru.wikipedia.org",
+    "tr-page.yandex.ru",
+    "www.youtube.com",
+    "godofwar.fandom.com",
+    "dzen.ru",
+    "steamcommunity.com",
+    "dzen.ru"
+   ]
+  },
+  "основные руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "ru.ruwiki.ru",
+    "elarus.ru",
+    "santera.ru",
+    "runico.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "arzamas.academy",
+    "gadalkindom.ru"
+   ]
+  },
+  "первый атт": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "dzen.ru",
+    "runir.ru",
+    "vk.ru",
+    "mk999.one",
+    "www.enmerkar.com",
+    "kartaslov.ru",
+    "vk.ru",
+    "runico.ru",
+    "rumoon.com"
+   ]
+  },
+  "подношения фрейе": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "dzen.ru",
+    "chernayamagiya.com",
+    "dzen.ru",
+    "m.vk.ru",
+    "runi-zovsevera.ru",
+    "silvermaproject.ru",
+    "chernayamagiya.com",
+    "vk.ru",
+    "dzen.ru",
+    "northern.thesaurusdeorum.com"
+   ]
+  },
+  "порядок рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "web.archive.org",
+    "ru.ruwiki.ru",
+    "pandorium.app",
+    "ru.ruwiki.ru",
+    "dhog.org",
+    "happywitch.ru",
+    "vk.ru",
+    "gadalkindom.ru",
+    "magia.fandom.com",
+    "alexandrafilinn.com"
+   ]
+  },
+  "послания рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "dzen.ru",
+    "books.yandex.ru",
+    "dzen.ru",
+    "www.astrocentr.ru",
+    "dzen.ru",
+    "happywitch.ru",
+    "celticforest.ru",
+    "dzen.ru",
+    "dzen.ru",
+    "www.astrocentr.ru"
+   ]
+  },
+  "про руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "astrology-online.ru",
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "elarus.ru",
+    "www.predskazanie.ru",
+    "ru.ruwiki.ru",
+    "runi-zovsevera.ru",
+    "happywitch.ru",
+    "runico.ru",
+    "azbyka.ru"
+   ]
+  },
+  "рог хеймдалля": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "chernayamagiya.com",
+    "runi-zovsevera.ru",
+    "chernayamagiya.com",
+    "vk.ru",
+    "tr-page.yandex.ru",
+    "www.velyarunavaangel.org",
+    "dommagii.com",
+    "silvermaproject.ru",
+    "runarium.ru",
+    "www.thef.info"
+   ]
+  },
+  "руна 11": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "m.vk.ru",
+    "ru.ruwiki.ru",
+    "runi-zovsevera.ru",
+    "horo.mail.ru",
+    "runarium.ru",
+    "esoterics.wikireading.ru",
+    "pandorium.app",
+    "russkie-runy.ru",
+    "dzen.ru"
+   ]
+  },
+  "руна 24": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "russkie-runy.ru",
+    "ru.wikipedia.org",
+    "www.radugazvukov.ru",
+    "runico.ru",
+    "velantra.ru",
+    "goroskop-365.ru",
+    "dzen.ru",
+    "infosoratniki.ru",
+    "russkie-runy.ru",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "происхождение рун": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "xn--h1ajim.xn--p1ai",
+    "alexandrafilinn.com",
+    "rodnoverie.org",
+    "np.rhga.ru",
+    "kartaslov.ru",
+    "azbyka.ru",
+    "nasledie.digital",
+    "swsu.ru"
+   ]
+  },
+  "руна ас": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "wiki2.org",
+    "magiachisel.ru",
+    "www.arcanum.ru",
+    "elarus.ru",
+    "actro.online",
+    "www.solarvanir.org",
+    "runarium.ru",
+    "santera.ru",
+    "meanings.ru"
+   ]
+  },
+  "руна бабочка": {
+   "tag": "home",
+   "source": "base",
+   "position": 61,
+   "url": "https://runico.ru/runes/dagaz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "runarium.ru",
+    "meanings.ru",
+    "ru.ruwiki.ru",
+    "www.arcanum.ru",
+    "lunaro.ru",
+    "www.arcanum.ru",
+    "magia.fandom.com",
+    "goroskop365.ru",
+    "www.astromeridian.ru"
+   ]
+  },
+  "руна жертвы": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/gebo.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "mk999.one",
+    "runarium.ru",
+    "web.archive.org",
+    "magic-runes.com",
+    "actro.online",
+    "horo.mail.ru",
+    "www.solarvanir.org",
+    "goroskop365.ru",
+    "pandorium.app"
+   ]
+  },
+  "руна завершения": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/ingwaz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "lunaro.ru",
+    "horo.mail.ru",
+    "ru.wikipedia.org",
+    "meanings.ru",
+    "elarus.ru",
+    "runoznanie.blogspot.com",
+    "vk.ru",
+    "runico.ru",
+    "meanings.ru"
+   ]
+  },
+  "руна возрождения": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "russkie-runy.ru",
+    "ru.wikipedia.org",
+    "dzen.ru",
+    "magia.fandom.com",
+    "meanings.ru",
+    "tarotman.ru",
+    "meanings.ru",
+    "xn--h1ajim.xn--p1ai",
+    "lmagic.info",
+    "magya-online.ru"
+   ]
+  },
+  "руна дар": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/gebo.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "web.archive.org",
+    "runico.ru",
+    "russkie-runy.ru",
+    "vk.ru",
+    "xn--h1ajim.xn--p1ai",
+    "xn--80azim.xn--p1acf",
+    "pandorium.app",
+    "xn--80aejvmu5h.xn--80aswg",
+    "goroskop365.ru",
+    "vk.ru"
+   ]
+  },
+  "руна молния": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "runavitalis.ru",
+    "elarus.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "mistymag.ru",
+    "goroskop-365.ru",
+    "www.arcanum.ru",
+    "dragonage.fandom.com",
+    "dragonage.fandom.com",
+    "gadalkindom.ru"
+   ]
+  },
+  "руна мужества": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "lunaro.ru",
+    "web.archive.org",
+    "velantra.ru",
+    "elarus.ru",
+    "meanings.ru",
+    "meanings.ru",
+    "astrohelper.ru",
+    "horo.mail.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "magia.fandom.com"
+   ]
+  },
+  "руна природы": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "elarus.ru",
+    "tr-page.yandex.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "runico.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "goroskop-365.ru",
+    "kartaslov.ru",
+    "happywitch.ru",
+    "ru.wikipedia.org"
+   ]
+  },
+  "руна истина": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "t.me",
+    "goroskop-365.ru",
+    "russkie-runy.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "pandorium.app",
+    "iknigi.net",
+    "chernayamagiya.com",
+    "dzen.ru",
+    "vesbook.ru"
+   ]
+  },
+  "руна просветления": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "russkie-runy.ru",
+    "dzen.ru",
+    "infosoratniki.ru",
+    "mk999.one",
+    "magicclover.ru",
+    "www.litres.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "magia.fandom.com",
+    "rutube.ru",
+    "www.youtube.com"
+   ]
+  },
+  "руна рождения": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "wayoftherunes.com",
+    "magic-runes.com",
+    "karianaseid.com",
+    "runico.ru",
+    "occclav.com",
+    "magya-online.ru",
+    "vesti-yamal.ru",
+    "mk999.one",
+    "runacode.sever.land"
+   ]
+  },
+  "руна связи": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "horo.mail.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "magia.fandom.com",
+    "dzen.ru",
+    "wiki2.org",
+    "vk.ru",
+    "runarium.ru",
+    "magicclover.ru",
+    "dzen.ru"
+   ]
+  },
+  "руна радость": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "runolad.ru",
+    "pandorium.app",
+    "russkie-runy.ru",
+    "svargaloka.ru",
+    "ru.ruwiki.ru",
+    "www.wildberries.ru",
+    "ru.wikipedia.org",
+    "dzen.ru",
+    "goroskop365.ru",
+    "lunaro.ru"
+   ]
+  },
+  "руна ромб": {
+   "tag": "home",
+   "source": "base",
+   "position": 68,
+   "url": "https://runico.ru/runes/ingwaz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "pandorium.app",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "velantra.ru",
+    "actro.online",
+    "horo.mail.ru",
+    "veles.bz",
+    "xn--80azim.xn--p1acf"
+   ]
+  },
+  "руна снежинка": {
+   "tag": "home",
+   "source": "base",
+   "position": 68,
+   "url": "https://runico.ru/runes/hagalaz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "xn--80azim.xn--p1acf",
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "meanings.ru",
+    "goroskop365.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "actro.online",
+    "www.arcanum.ru",
+    "proza.ru",
+    "www.wildberries.ru"
+   ]
+  },
+  "руна столкновения": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "dragonage.fandom.com",
+    "showgamer.com",
+    "mmorpg-aion2.ru",
+    "shugo.gg",
+    "metabot.gg",
+    "aion2.gaming.tools",
+    "samlib.ru",
+    "wikily.gg",
+    "dragonage.fandom.com",
+    "dbaion2.ru"
+   ]
+  },
+  "руна тень": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "gadalkindom.ru",
+    "vk.ru",
+    "chernayamagiya.com",
+    "runico.ru",
+    "bastiliya.com",
+    "vk.ru",
+    "amrita-spb.ru",
+    "maelinhon.org",
+    "gadalkindom.ru",
+    "runico.ru"
+   ]
+  },
+  "руна флажок": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/wunjo.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "dzen.ru",
+    "ru.wikipedia.org",
+    "runico.ru",
+    "homiwork.com",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "www.arcanum.ru",
+    "ru.pinterest.com",
+    "www.blog.arcanum.ru",
+    "horo.mail.ru"
+   ]
+  },
+  "руна футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "pandorium.app",
+    "ru.wikipedia.org",
+    "runico.ru",
+    "goroskop-365.ru",
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "magia.fandom.com",
+    "magic-runes.com",
+    "ruyan-master.ru",
+    "arzamas.academy"
+   ]
+  },
+  "руна шип": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/thurisaz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "runarium.ru",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "xn--80azim.xn--p1acf",
+    "mk999.one",
+    "www.astromeridian.ru",
+    "elarus.ru",
+    "astro7.su"
+   ]
+  },
+  "руническая нумерология": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "nacmp.ru",
+    "elarus.ru",
+    "mk999.one",
+    "runico.ru",
+    "magic-runes.com",
+    "runacode.ru",
+    "occclav.com",
+    "mk999.one",
+    "tragos.ru",
+    "runacode.sever.land"
+   ]
+  },
+  "рунические знаки": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "happywitch.ru",
+    "runico.ru",
+    "arzamas.academy",
+    "goroskop-365.ru",
+    "ru.ruwiki.ru",
+    "runi-zovsevera.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "pandorium.app"
+   ]
+  },
+  "руническая письменность": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "kartaslov.ru",
+    "nbdrx.ru",
+    "archaeolog.ru",
+    "habr.com",
+    "www.primavista.ru",
+    "np.rhga.ru",
+    "spravochnick.ru"
+   ]
+  },
+  "рунические символы": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "happywitch.ru",
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "arzamas.academy",
+    "runico.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "runi-zovsevera.ru"
+   ]
+  },
+  "рунические цифры": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runacode.ru",
+    "ru.pinterest.com",
+    "nacmp.ru",
+    "www.istockphoto.com",
+    "polinasukhova.com",
+    "occclav.com",
+    "tr-page.yandex.ru",
+    "elarus.ru",
+    "mk999.one",
+    "runico.ru"
+   ]
+  },
+  "рунический алфавит": {
+   "tag": "home",
+   "source": "base",
+   "position": 18,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "xn--h1ajim.xn--p1ai",
+    "runy.pro",
+    "ru.ruwiki.ru",
+    "drevlit.ru",
+    "78tarot.ru",
+    "www.garshin.ru",
+    "tr-page.yandex.ru",
+    "elarus.ru"
+   ]
+  },
+  "рунический атт": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "www.enmerkar.com",
+    "vk.ru",
+    "runarium.ru",
+    "runico.ru",
+    "runoznanie.blogspot.com",
+    "dzen.ru",
+    "magicclover.ru",
+    "elarus.ru",
+    "runir.ru"
+   ]
+  },
+  "рунический гороскоп": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tragos.ru",
+    "chernayamagiya.com",
+    "www.litres.ru",
+    "voronwood.ru",
+    "tragos.ru",
+    "gadanieonlain.com",
+    "v-kosmose.com",
+    "runacode.ru",
+    "inpot.ru",
+    "ridero.ru"
+   ]
+  },
+  "рунический калькулятор": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "runacode.sever.land",
+    "karianaseid.com",
+    "runacode.ru",
+    "runacode.ru",
+    "occclav.com",
+    "irc.runa-odin.com",
+    "occclav.com",
+    "runico.ru"
+   ]
+  },
+  "рунический ряд": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "runico.ru",
+    "ru.ruwiki.ru",
+    "dimagamagic.github.io",
+    "arzamas.academy",
+    "www.youtube.com",
+    "xn--h1ajim.xn--p1ai"
+   ]
+  },
+  "руническое древо": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/derevo-iggdrasil.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "ru.wikipedia.org",
+    "dommagii.com",
+    "silvermaproject.ru",
+    "ru.ruwiki.ru",
+    "ru.wikipedia.org",
+    "www.pravenc.ru",
+    "author.today",
+    "ru.pinterest.com",
+    "runico.ru"
+   ]
+  },
+  "рунные символы": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "xn--80aejvmu5h.xn--80aswg",
+    "goroskop-365.ru",
+    "santera.ru",
+    "runico.ru",
+    "runi-zovsevera.ru"
+   ]
+  },
+  "рунический футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "pandorium.app",
+    "magia.fandom.com",
+    "runico.ru",
+    "runy.pro",
+    "ruyan-master.ru",
+    "goroskop-365.ru",
+    "78tarot.ru"
+   ]
+  },
+  "рунный футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "runico.ru",
+    "ru.ruwiki.ru",
+    "magia.fandom.com",
+    "tr-page.yandex.ru",
+    "goroskop-365.ru",
+    "ruyan-master.ru",
+    "surmarket.ru",
+    "www.youtube.com"
+   ]
+  },
+  "рунный калькулятор": {
+   "tag": "home",
+   "source": "base",
+   "position": 22,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "alloder.pro",
+    "magic-runes.com",
+    "karianaseid.com",
+    "runacode.ru",
+    "runacode.sever.land",
+    "occclav.com",
+    "diablo2runecalculator.com",
+    "mk999.one",
+    "alloder.pro"
+   ]
+  },
+  "руны алфавит": {
+   "tag": "home",
+   "source": "base",
+   "position": 23,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "ru.pinterest.com",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "runy.pro",
+    "elarus.ru",
+    "elarus.ru",
+    "drevlit.ru",
+    "www.garshin.ru"
+   ]
+  },
+  "руны азбука": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "ru.pinterest.com",
+    "drevlit.ru",
+    "xn--h1ajim.xn--p1ai",
+    "elarus.ru",
+    "elarus.ru",
+    "books.yandex.ru"
+   ]
+  },
+  "рунный алфавит": {
+   "tag": "home",
+   "source": "base",
+   "position": 18,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "elarus.ru",
+    "ru.pinterest.com",
+    "runy.pro",
+    "magia.fandom.com",
+    "elarus.ru",
+    "vesbook.ru"
+   ]
+  },
+  "руны викингов": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "www.giftman.ru",
+    "elarus.ru",
+    "www.ozon.ru",
+    "goroskop-365.ru",
+    "voronwood.ru",
+    "tr-page.yandex.ru",
+    "arzamas.academy",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "руны жизни": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "xn--h1ajim.xn--p1ai",
+    "elarus.ru",
+    "horo.mail.ru",
+    "magia.fandom.com",
+    "santera.ru",
+    "happywitch.ru",
+    "runico.ru",
+    "www.predskazanie.ru",
+    "lenta.ru"
+   ]
+  },
+  "руны з": {
+   "tag": "home",
+   "source": "base",
+   "position": 27,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "astrology-online.ru",
+    "dzen.ru",
+    "www.predskazanie.ru",
+    "www.predskazanie.ru",
+    "santera.ru",
+    "runoznanie.blogspot.com",
+    "arzamas.academy",
+    "elarus.ru",
+    "dzen.ru"
+   ]
+  },
+  "вотан": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.ruwiki.ru",
+    "ar.culture.ru",
+    "zlodei.fandom.com",
+    "m.pravenc.ru",
+    "znanierussia.ru",
+    "varvar.ru",
+    "wotan.ru",
+    "kartaslov.ru",
+    "fantasticbeings.fandom.com",
+    "disciples.fandom.com"
+   ]
+  },
+  "руны картинки": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.freepik.com",
+    "ru.freepik.com",
+    "www.istockphoto.com",
+    "ru.dreamstime.com",
+    "ru.wikipedia.org",
+    "www.shutterstock.com",
+    "www.istockphoto.com",
+    "www.shutterstock.com",
+    "ru.pinterest.com",
+    "ru.freepik.com"
+   ]
+  },
+  "sowilo": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.sowilo.ru",
+    "ru.wikipedia.org",
+    "www.sowilo.ru",
+    "ru.ruwiki.ru",
+    "www.sowilo.ru",
+    "www.sowilo.ru",
+    "www.sowilo.ru",
+    "www.sowilo.ru",
+    "dzen.ru",
+    "la-porte-du-bonheur.com"
+   ]
+  },
+  "руны играть": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "yandex.ru",
+    "yandex.ru",
+    "yandex.ru",
+    "yandex.ru",
+    "allwebgames.com",
+    "www.min2win.ru",
+    "yandex.ru",
+    "yandex.ru",
+    "www.min2win.ru",
+    "www.marabond.ru"
+   ]
+  },
+  "руны книга": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.ozon.ru",
+    "www.ozon.ru",
+    "www.wildberries.ru",
+    "www.wildberries.ru",
+    "www.wildberries.ru",
+    "www.ozon.ru",
+    "www.ozon.ru",
+    "happywitch.ru",
+    "www.ozon.ru",
+    "www.ozon.ru"
+   ]
+  },
+  "руны история": {
+   "tag": "home",
+   "source": "base",
+   "position": 64,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "xn--h1ajim.xn--p1ai",
+    "alexandrafilinn.com",
+    "rodnoverie.org",
+    "nasledie.digital",
+    "kartaslov.ru",
+    "www.karvin.ru",
+    "dzen.ru",
+    "kartaslov.ru"
+   ]
+  },
+  "руны названия": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "santera.ru",
+    "ru.ruwiki.ru",
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "elarus.ru",
+    "arzamas.academy",
+    "magic-runes.com",
+    "runico.ru"
+   ]
+  },
+  "руны объединение": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "yandex.ru",
+    "allwebgames.com",
+    "igroutka.ru",
+    "chernayamagiya.com",
+    "yandex.ru",
+    "apkpure.net",
+    "yandex.uz",
+    "playhop.com",
+    "gamecreating.ru",
+    "yandex.kz"
+   ]
+  },
+  "руны сайт": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "astrology-online.ru",
+    "www.predskazanie.ru",
+    "runy.pro",
+    "runico.ru",
+    "www.astrocentr.ru",
+    "goroskop365.ru",
+    "goroskop365.ru",
+    "tragos.ru",
+    "chernayamagiya.com",
+    "runolad.ru"
+   ]
+  },
+  "руны скачать": {
+   "tag": "home",
+   "source": "base",
+   "position": 31,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.freepik.com",
+    "www.magnific.com",
+    "ru.freepik.com",
+    "klex.ru",
+    "ru.freepik.com",
+    "www.shutterstock.com",
+    "www.rustore.ru",
+    "ru.dreamstime.com",
+    "www.rustore.ru",
+    "www.rustore.ru"
+   ]
+  },
+  "руны список": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "runico.ru",
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "ru.ruwiki.ru",
+    "gadalkindom.ru",
+    "surmarket.ru",
+    "elarus.ru"
+   ]
+  },
+  "руны природы": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "vk.ru",
+    "tr-page.yandex.ru",
+    "runico.ru",
+    "runavitalis.ru",
+    "www.istockphoto.com",
+    "kartaslov.ru",
+    "pandorium.app",
+    "xn--80aejvmu5h.xn--80aswg",
+    "300.ya.ru"
+   ]
+  },
+  "руны славян": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "slavyanskieoberegi.ru",
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "xn--80aejvmu5h.xn--80aswg",
+    "traditio.wiki",
+    "dzen.ru",
+    "www.ozon.ru",
+    "vesbook.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "руны символы": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "happywitch.ru",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "emojidb.org",
+    "xn--80aejvmu5h.xn--80aswg",
+    "symbl.cc",
+    "runi-zovsevera.ru",
+    "ru.pinterest.com"
+   ]
+  },
+  "руны трактовка": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "www.predskazanie.ru",
+    "gadalkindom.ru",
+    "astrohelper.ru",
+    "happywitch.ru",
+    "celticforest.ru",
+    "actro.online",
+    "pandorium.app",
+    "magya-online.ru",
+    "magic-runes.com"
+   ]
+  },
+  "руны словарь": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "azorinal.ru",
+    "santera.ru",
+    "www.astrocentr.ru",
+    "books.yandex.ru",
+    "goroskop-365.ru",
+    "dimagamagic.github.io",
+    "magic-runes.com",
+    "meanings.ru",
+    "dic.academic.ru",
+    "runico.ru"
+   ]
+  },
+  "руны фартук": {
+   "tag": "home",
+   "source": "base",
+   "position": 16,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.ozon.ru",
+    "www.avito.ru",
+    "veles.bz",
+    "www.ozon.ru",
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "dzen.ru",
+    "gangotri.ru",
+    "m.vk.ru",
+    "www.vsemayki.ru"
+   ]
+  },
+  "руны цифры": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "nacmp.ru",
+    "polinasukhova.com",
+    "ru.pinterest.com",
+    "elarus.ru",
+    "www.wildberries.ru",
+    "runacode.ru",
+    "occclav.com",
+    "runico.ru",
+    "magic-runes.com",
+    "tragos.ru"
+   ]
+  },
+  "руны это": {
+   "tag": "home",
+   "source": "base",
+   "position": 39,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "kartaslov.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "runi-zovsevera.ru",
+    "nasledie.digital",
+    "elarus.ru",
+    "foxford.ru",
+    "lunaro.ru"
+   ]
+  },
+  "руны числа": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "nacmp.ru",
+    "occclav.com",
+    "runacode.ru",
+    "elarus.ru",
+    "runico.ru",
+    "mk999.one",
+    "magic-runes.com",
+    "ru.wikipedia.org",
+    "tragos.ru",
+    "runacode.sever.land"
+   ]
+  },
+  "символы рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "emojidb.org",
+    "ru.pinterest.com",
+    "tr-page.yandex.ru",
+    "www.shutterstock.com",
+    "gadalkindom.ru"
+   ]
+  },
+  "символика рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "magic-runes.com",
+    "xn--80aejvmu5h.xn--80aswg",
+    "www.predskazanie.ru"
+   ]
+  },
+  "скандинавские руны": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "www.giftman.ru",
+    "goroskop-365.ru",
+    "voronwood.ru",
+    "www.ozon.ru",
+    "market.yandex.ru",
+    "market.yandex.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "руны/1 атт": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runir.ru",
+    "dzen.ru",
+    "vk.ru",
+    "www.livelib.ru",
+    "mk999.one",
+    "runico.ru",
+    "runoznanie.blogspot.com",
+    "www.enmerkar.com",
+    "elarus.ru",
+    "magicclover.ru"
+   ]
+  },
+  "скандинавский футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "magia.fandom.com",
+    "arzamas.academy",
+    "happywitch.ru",
+    "tr-page.yandex.ru",
+    "runico.ru",
+    "www.ozon.ru",
+    "veles.bz"
+   ]
+  },
+  "словарь рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 15,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "velantra.ru",
+    "dimagamagic.github.io",
+    "santera.ru",
+    "azorinal.ru",
+    "www.predskazanie.ru",
+    "www.astrocentr.ru",
+    "books.yandex.ru",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "meanings.ru"
+   ]
+  },
+  "смысл рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "magic-runes.com",
+    "www.predskazanie.ru",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "xn--80aejvmu5h.xn--80aswg",
+    "actro.online",
+    "elarus.ru",
+    "astrohelper.ru"
+   ]
+  },
+  "снежинка руны": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "chernayamagiya.com"
+   ]
+  },
+  "список рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "ru.wikipedia.org",
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "pandorium.app",
+    "elarus.ru",
+    "goroskop-365.ru",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "magic-runes.com"
+   ]
+  },
+  "солнечные руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 18,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "chernayamagiya.com",
+    "maelinhon.org",
+    "vk.ru",
+    "chernayamagiya.com",
+    "tr-page.yandex.ru",
+    "www.wildberries.ru",
+    "chernayamagiya.com",
+    "dzen.ru",
+    "horo.mail.ru",
+    "mx.pinterest.com"
+   ]
+  },
+  "старшие руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "velantra.ru",
+    "pandorium.app",
+    "goroskop-365.ru",
+    "tr-page.yandex.ru",
+    "ruyan-master.ru",
+    "blog.beregy.ru",
+    "surmarket.ru",
+    "magic-runes.com",
+    "dzen.ru"
+   ]
+  },
+  "старший фуртак": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "runico.ru",
+    "pandorium.app",
+    "ruyan-master.ru",
+    "surmarket.ru",
+    "fatebydate.ru",
+    "www.youtube.com",
+    "tr-page.yandex.ru",
+    "www.ozon.ru",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "старший футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "pandorium.app",
+    "ru.ruwiki.ru",
+    "ruyan-master.ru",
+    "blog.replicahouse.ru",
+    "surmarket.ru",
+    "goroskop-365.ru",
+    "www.youtube.com",
+    "wayoftherunes.com"
+   ]
+  },
+  "старший футарх": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "surmarket.ru",
+    "pandorium.app",
+    "ruyan-master.ru",
+    "www.youtube.com",
+    "tr-page.yandex.ru",
+    "norroen.info",
+    "www.ozon.ru"
+   ]
+  },
+  "старый футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 19,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "en.wikipedia.org",
+    "ru.ruwiki.ru",
+    "www.wikihow.com",
+    "magia.fandom.com",
+    "pikabu.ru",
+    "www.wikihow.com",
+    "ru.wikipedia.org",
+    "www.youtube.com",
+    "www.ozon.ru",
+    "dzen.ru"
+   ]
+  },
+  "страж бивреста": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/pantheon/heimdall.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "marvel.fandom.com",
+    "runico.ru",
+    "runarium.ru",
+    "occclav.com",
+    "ru.ruwiki.ru",
+    "monbook.ru",
+    "www.youtube.com",
+    "silvermaproject.ru",
+    "www.youtube.com"
+   ]
+  },
+  "трактование рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 10,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "goroskop-365.ru",
+    "astrohelper.ru",
+    "pandorium.app",
+    "magic-runes.com",
+    "celticforest.ru",
+    "happywitch.ru",
+    "actro.online",
+    "www.astrocentr.ru",
+    "runico.ru"
+   ]
+  },
+  "фуртак рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 3,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "velantra.ru",
+    "tr-page.yandex.ru",
+    "pandorium.app",
+    "magia.fandom.com",
+    "runy.pro",
+    "veles.bz",
+    "www.youtube.com"
+   ]
+  },
+  "футарк алфавит": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "runy.pro",
+    "arzamas.academy",
+    "tr-page.yandex.ru",
+    "www.garshin.ru",
+    "dzen.ru",
+    "kartaslov.ru",
+    "78tarot.ru",
+    "magia.fandom.com"
+   ]
+  },
+  "футарк рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "tr-page.yandex.ru",
+    "ru.ruwiki.ru",
+    "pandorium.app",
+    "runico.ru",
+    "goroskop-365.ru",
+    "magia.fandom.com",
+    "runy.pro",
+    "ruyan-master.ru",
+    "magic-runes.com"
+   ]
+  },
+  "футарк руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "velantra.ru",
+    "ru.wikipedia.org",
+    "pandorium.app",
+    "magia.fandom.com",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "goroskop-365.ru",
+    "arzamas.academy",
+    "runy.pro"
+   ]
+  },
+  "13 руна футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 17,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "xn--h1ajim.xn--p1ai",
+    "vk.ru",
+    "dzen.ru",
+    "www.arcanum.ru",
+    "runoznanie.blogspot.com",
+    "elarus.ru",
+    "dzen.ru",
+    "esoterics.wikireading.ru",
+    "magia.fandom.com"
+   ]
+  },
+  "футарк это": {
+   "tag": "home",
+   "source": "base",
+   "position": 27,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "kartaslov.ru",
+    "magia.fandom.com",
+    "runarium.ru",
+    "runy.pro",
+    "78tarot.ru",
+    "tr-page.yandex.ru",
+    "arzamas.academy",
+    "elarus.ru"
+   ]
+  },
+  "15 руна футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 22,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "dzen.ru",
+    "runavitalis.ru",
+    "esoterics.wikireading.ru",
+    "dzen.ru",
+    "meanings.ru",
+    "runarium.ru"
+   ]
+  },
+  "24 руны футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "velantra.ru",
+    "pandorium.app",
+    "magic-runes.com",
+    "tarotcompanion.ru",
+    "wayoftherunes.com",
+    "tr-page.yandex.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "dzen.ru"
+   ]
+  },
+  "4 руна футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/ansuz.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "vk.ru",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "meanings.ru",
+    "wiki2.org",
+    "lunaro.ru",
+    "actro.online",
+    "horo.mail.ru"
+   ]
+  },
+  "7 руна футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/gebo.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "runico.ru",
+    "dzen.ru",
+    "elarus.ru",
+    "lunaro.ru",
+    "mk999.one",
+    "esoterics.wikireading.ru",
+    "pandorium.app"
+   ]
+  },
+  "8 руна футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 26,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "lunaro.ru",
+    "magia.fandom.com",
+    "xn--h1ajim.xn--p1ai",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "dzen.ru",
+    "tarotman.ru",
+    "esoterics.wikireading.ru",
+    "dzen.ru"
+   ]
+  },
+  "все руны картинки": {
+   "tag": "home",
+   "source": "base",
+   "position": 25,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.freepik.com",
+    "ru.wikipedia.org",
+    "ru.freepik.com",
+    "ru.pinterest.com",
+    "ru.pinterest.com",
+    "ru.pinterest.com",
+    "www.shutterstock.com",
+    "ru.dreamstime.com",
+    "www.shutterstock.com",
+    "happywitch.ru"
+   ]
+  },
+  "все руны фото": {
+   "tag": "home",
+   "source": "base",
+   "position": 19,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.freepik.com",
+    "ru.freepik.com",
+    "ru.pinterest.com",
+    "ru.pinterest.com",
+    "ru.pinterest.com",
+    "ru.ruwiki.ru",
+    "ru.dreamstime.com",
+    "elarus.ru",
+    "santera.ru"
+   ]
+  },
+  "aenfhr 4 'nn": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "magia.fandom.com",
+    "magicclover.ru",
+    "vk.ru",
+    "runico.ru",
+    "www.youtube.com",
+    "goroskop-365.ru",
+    "veles.bz"
+   ]
+  },
+  "ирк рассчитать онлайн": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "runacode.sever.land",
+    "karianaseid.com",
+    "runacode.ru",
+    "irc.runa-odin.com",
+    "runacode.ru",
+    "occclav.com",
+    "runacode.ru",
+    "occclav.com"
+   ]
+  },
+  "игра руны объединение": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "yandex.ru",
+    "allwebgames.com",
+    "igroutka.ru",
+    "play.google.com",
+    "yandex.ru",
+    "yandex.kz",
+    "yandex.ru",
+    "yandex.by",
+    "yandex.by",
+    "yandex.uz"
+   ]
+  },
+  "все скандинавские руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 14,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "ru.ruwiki.ru",
+    "elarus.ru",
+    "www.predskazanie.ru",
+    "tr-page.yandex.ru",
+    "gadalkindom.ru",
+    "goroskop-365.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "как читать руны": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "dzen.ru",
+    "tr-page.yandex.ru",
+    "www.litres.ru",
+    "books.yandex.ru",
+    "books.yandex.ru",
+    "dzen.ru",
+    "dzen.ru",
+    "magic-runes.com",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "какие бывают руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "dzen.ru",
+    "arzamas.academy",
+    "elarus.ru",
+    "elarus.ru",
+    "santera.ru",
+    "runico.ru",
+    "cyclowiki.org",
+    "goroskop-365.ru"
+   ]
+  },
+  "кинуть руны онлайн": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "arhangel.ru",
+    "tragos.ru",
+    "www.astrocentr.ru",
+    "magya-online.ru",
+    "arhangel.ru",
+    "v-kosmose.com",
+    "horo.mail.ru",
+    "horo.mail.ru",
+    "horo.mail.ru"
+   ]
+  },
+  "название всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "santera.ru",
+    "happywitch.ru",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "gadalkindom.ru",
+    "runico.ru",
+    "elarus.ru",
+    "arzamas.academy"
+   ]
+  },
+  "огонь девяти миров": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vkvideo.ru",
+    "m.vkvideo.ru",
+    "my.mail.ru",
+    "vkvideo.ru",
+    "vkvideo.ru",
+    "m.vk.ru",
+    "m.vk.ru",
+    "ru.wikipedia.org",
+    "vkvideo.ru",
+    "www.youtube.com"
+   ]
+  },
+  "описание всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "magic-runes.com",
+    "velantra.ru",
+    "gadalkindom.ru",
+    "elarus.ru",
+    "pandorium.app",
+    "ru.wikipedia.org",
+    "actro.online"
+   ]
+  },
+  "показать все руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "santera.ru",
+    "pandorium.app",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "dzen.ru",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "названия рун скандинавских": {
+   "tag": "home",
+   "source": "base",
+   "position": 15,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "magic-runes.com",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "santera.ru",
+    "magia.fandom.com",
+    "www.predskazanie.ru"
+   ]
+  },
+  "расчет рунического кода": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runicheskiy-kod.html",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "mk999.one",
+    "magic-runes.com",
+    "runacode.ru",
+    "runacode.sever.land",
+    "occclav.com",
+    "runacode.ru",
+    "runacode.ru",
+    "karianaseid.com",
+    "elarus.ru",
+    "occclav.com"
+   ]
+  },
+  "первый атт футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "www.livelib.ru",
+    "dzen.ru",
+    "mk999.one",
+    "vk.ru",
+    "runir.ru",
+    "runico.ru",
+    "rumoon.com",
+    "vk.ru",
+    "vk.ru"
+   ]
+  },
+  "рунические символы славян": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "slavyanskieoberegi.ru",
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "dzen.ru",
+    "ru.wikipedia.org",
+    "xn--80aejvmu5h.xn--80aswg",
+    "traditio.wiki",
+    "ru.pinterest.com",
+    "elarus.ru",
+    "veles.bz"
+   ]
+  },
+  "расшифровать руны онлайн": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "lord-gpt.com",
+    "tragos.ru",
+    "mk999.one",
+    "magic-runes.com",
+    "runico.ru",
+    "elarus.ru",
+    "mogura.ru",
+    "goroskop365.ru",
+    "astrohelper.ru",
+    "celticforest.ru"
+   ]
+  },
+  "руна старшего футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "pandorium.app",
+    "runico.ru",
+    "goroskop-365.ru",
+    "tr-page.yandex.ru",
+    "magic-runes.com",
+    "ruyan-master.ru",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "surmarket.ru",
+    "www.ozon.ru"
+   ]
+  },
+  "рунический алфавит футарк": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "runy.pro",
+    "78tarot.ru",
+    "magia.fandom.com",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "arzamas.academy",
+    "runico.ru",
+    "elarus.ru"
+   ]
+  },
+  "рунический футарк скандинавский": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "magia.fandom.com",
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "veles.bz",
+    "arzamas.academy",
+    "www.ozon.ru",
+    "tr-page.yandex.ru",
+    "magic-runes.com"
+   ]
+  },
+  "руны 1 атт": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runir.ru",
+    "dzen.ru",
+    "vk.ru",
+    "www.livelib.ru",
+    "mk999.one",
+    "runico.ru",
+    "runoznanie.blogspot.com",
+    "www.enmerkar.com",
+    "magicclover.ru",
+    "vk.ru"
+   ]
+  },
+  "руны 21 век": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "vk.ru",
+    "chernayamagiya.com",
+    "static-internal.insales.ru",
+    "m.vk.ru",
+    "m.vk.ru",
+    "chernayamagiya.com",
+    "vk.ru",
+    "vk.ru",
+    "vk.ru"
+   ]
+  },
+  "руны все символы": {
+   "tag": "home",
+   "source": "base",
+   "position": 6,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "santera.ru",
+    "runico.ru",
+    "goroskop-365.ru",
+    "gadalkindom.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "руны высшего футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "tr-page.yandex.ru",
+    "velantra.ru",
+    "pandorium.app",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "magia.fandom.com",
+    "dzen.ru"
+   ]
+  },
+  "руны 2 атт": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "www.youtube.com",
+    "vk.ru",
+    "runico.ru",
+    "magicclover.ru",
+    "vk.ru",
+    "runoznanie.blogspot.com",
+    "www.youtube.com",
+    "mage.school",
+    "happywitch.ru"
+   ]
+  },
+  "руны и знаки": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "happywitch.ru",
+    "runico.ru",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "goroskop-365.ru",
+    "gadalkindom.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "pandorium.app"
+   ]
+  },
+  "руны и их": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "runico.ru",
+    "elarus.ru",
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "www.predskazanie.ru",
+    "santera.ru",
+    "arzamas.academy",
+    "ru.ruwiki.ru"
+   ]
+  },
+  "руны для начинающих": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.wildberries.ru",
+    "www.litres.ru",
+    "www.ozon.ru",
+    "books.yandex.ru",
+    "www.litres.ru",
+    "books.yandex.ru",
+    "books.yandex.ru",
+    "books.yandex.ru",
+    "books.yandex.ru",
+    "books.yandex.ru"
+   ]
+  },
+  "руны и символы": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "happywitch.ru",
+    "ru.ruwiki.ru",
+    "arzamas.academy",
+    "ru.wikipedia.org",
+    "ru.pinterest.com",
+    "emojidb.org",
+    "xn--80aejvmu5h.xn--80aswg",
+    "symbl.cc"
+   ]
+  },
+  "руны и смыслы": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "happywitch.ru",
+    "pandorium.app",
+    "www.predskazanie.ru",
+    "dzen.ru",
+    "elarus.ru",
+    "runico.ru",
+    "ru.wikipedia.org",
+    "santera.ru"
+   ]
+  },
+  "руны на деньги": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "chernayamagiya.com",
+    "chernayamagiya.com",
+    "eiva-info.ru",
+    "lisa.ru",
+    "voronwood.ru",
+    "tarotman.ru",
+    "ru.pinterest.com",
+    "mistymag.ru",
+    "www.ozon.ru"
+   ]
+  },
+  "руны онлайн бесплатно": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "horo.mail.ru",
+    "www.astrocentr.ru",
+    "tragos.ru",
+    "goroskop365.ru",
+    "gadanie.online",
+    "v-kosmose.com",
+    "magya-online.ru",
+    "horo.mail.ru",
+    "horo.mail.ru"
+   ]
+  },
+  "руны первого атта": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runir.ru",
+    "vk.ru",
+    "dzen.ru",
+    "esoterics.wikireading.ru",
+    "runico.ru",
+    "mk999.one",
+    "rumoon.com",
+    "vk.ru",
+    "runoznanie.blogspot.com",
+    "magicclover.ru"
+   ]
+  },
+  "руны первого футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 4,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "arzamas.academy",
+    "ru.ruwiki.ru",
+    "runico.ru",
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "magicclover.ru",
+    "ru.ruwiki.ru",
+    "goroskop-365.ru",
+    "runy.pro"
+   ]
+  },
+  "руны по порядку": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "ru.ruwiki.ru",
+    "magia.fandom.com",
+    "happywitch.ru",
+    "runy.pro",
+    "runico.ru",
+    "pandorium.app",
+    "elarus.ru",
+    "xn--h1ajim.xn--p1ai"
+   ]
+  },
+  "руны с названиями": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "ru.wikipedia.org",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "pandorium.app",
+    "happywitch.ru",
+    "magic-runes.com",
+    "runico.ru",
+    "ru.ruwiki.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "руны с описанием": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "happywitch.ru",
+    "elarus.ru",
+    "santera.ru",
+    "www.predskazanie.ru",
+    "astrohelper.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "gadalkindom.ru"
+   ]
+  },
+  "руны с нуля": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "magic-runes.com",
+    "elarus.ru",
+    "runi-zovsevera.ru",
+    "dzen.ru",
+    "books.yandex.ru",
+    "dzen.ru",
+    "xn----jtbfcadapvnxgnbadm6p.xn--p1ai",
+    "www.litres.ru",
+    "alexandrafilinn.com",
+    "dzen.ru"
+   ]
+  },
+  "руны сколько их": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "happywitch.ru",
+    "runi-zovsevera.ru",
+    "dzen.ru",
+    "arzamas.academy",
+    "gadalkindom.ru",
+    "runico.ru",
+    "vk.ru",
+    "elarus.ru"
+   ]
+  },
+  "руны старшего футарка": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "pandorium.app",
+    "velantra.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "dzen.ru",
+    "goroskop-365.ru",
+    "wayoftherunes.com",
+    "ruyan-master.ru",
+    "magia.fandom.com"
+   ]
+  },
+  "руны третьего атта": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "vk.ru",
+    "esoterics.wikireading.ru",
+    "rumoon.com",
+    "forum.magiccandles.ru",
+    "dzen.ru",
+    "vk.ru",
+    "velantra.ru",
+    "runico.ru",
+    "dzen.ru",
+    "kerebonomata.ru"
+   ]
+  },
+  "руны старшего футарха": {
+   "tag": "home",
+   "source": "base",
+   "position": 1,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "runico.ru",
+    "velantra.ru",
+    "pandorium.app",
+    "tr-page.yandex.ru",
+    "goroskop-365.ru",
+    "fatebydate.ru",
+    "dzen.ru",
+    "www.ozon.ru",
+    "magic-runes.com",
+    "runico.ru"
+   ]
+  },
+  "руны футарк фото": {
+   "tag": "home",
+   "source": "base",
+   "position": 12,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.pinterest.com",
+    "www.istockphoto.com",
+    "ru.wikipedia.org",
+    "arzamas.academy",
+    "ru.freepik.com",
+    "gangotri.ru",
+    "www.livemaster.ru",
+    "www.wildberries.ru",
+    "www.shutterstock.com",
+    "www.ozon.ru"
+   ]
+  },
+  "скандинавские руны список": {
+   "tag": "home",
+   "source": "base",
+   "position": 13,
+   "url": "https://runico.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "elarus.ru",
+    "ru.ruwiki.ru",
+    "magic-runes.com",
+    "gadalkindom.ru",
+    "goroskop-365.ru",
+    "santera.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "руны футарка таблица": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "safita.pro",
+    "blog.replicahouse.ru",
+    "magia.fandom.com",
+    "runico.ru",
+    "dzen.ru",
+    "vved-v-germ-phil.cvsw.ru",
+    "norroen.info",
+    "wayoftherunes.com",
+    "velantra.ru"
+   ]
+  },
+  "руны онлайн": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.predskazanie.ru",
+    "goroskop365.ru",
+    "tragos.ru",
+    "horo.mail.ru",
+    "www.astrocentr.ru",
+    "magya-online.ru",
+    "tragos.ru",
+    "gadanie.online",
+    "horo.mail.ru",
+    "goroskopes.narod.ru"
+   ]
+  },
+  "список всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 5,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "santera.ru",
+    "ru.wikipedia.org",
+    "goroskop-365.ru",
+    "pandorium.app",
+    "runico.ru",
+    "ru.ruwiki.ru",
+    "velantra.ru",
+    "magic-runes.com",
+    "goroskop-365.ru",
+    "surmarket.ru"
+   ]
+  },
+  "совместимость по рунам": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "kamenrun.ru",
+    "elarus.ru",
+    "astralika.com",
+    "www.astromeridian.ru",
+    "tragos.ru",
+    "zodicod.ru",
+    "inpot.ru",
+    "okkult.in",
+    "inpot.ru",
+    "gadalkindom.ru"
+   ]
+  },
+  "сообщение о торе": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "media.foxford.ru",
+    "runarium.ru",
+    "www.livelib.ru",
+    "silvermaproject.ru",
+    "fantasticbeings.fandom.com",
+    "dic.academic.ru",
+    "mifolog.com",
+    "riordan.fandom.com"
+   ]
+  },
+  "руны описание": {
+   "tag": "home",
+   "source": "base",
+   "position": 11,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "elarus.ru",
+    "happywitch.ru",
+    "ru.wikipedia.org",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "www.predskazanie.ru",
+    "pandorium.app",
+    "xn--80aejvmu5h.xn--80aswg",
+    "gadalkindom.ru",
+    "runi-zovsevera.ru"
+   ]
+  },
+  "фото всех рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 19,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.pinterest.com",
+    "ru.pinterest.com",
+    "ru.pinterest.com",
+    "ru.freepik.com",
+    "ru.pinterest.com",
+    "happywitch.ru",
+    "mk999.one",
+    "elarus.ru",
+    "ru.pinterest.com"
+   ]
+  },
+  "старший футарк руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 2,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "velantra.ru",
+    "runico.ru",
+    "ruyan-master.ru",
+    "pandorium.app",
+    "goroskop-365.ru",
+    "tr-page.yandex.ru",
+    "surmarket.ru",
+    "magic-runes.com",
+    "tr-page.yandex.ru",
+    "blog.beregy.ru"
+   ]
+  },
+  "футарк по порядку": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.ruwiki.ru",
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "tr-page.yandex.ru",
+    "magia.fandom.com",
+    "surmarket.ru",
+    "runy.pro",
+    "runico.ru",
+    "dzen.ru",
+    "happywitch.ru"
+   ]
+  },
+  "что значат руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "elarus.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "runico.ru",
+    "www.predskazanie.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "arzamas.academy"
+   ]
+  },
+  "что значит руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 9,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "xn--h1ajim.xn--p1ai",
+    "happywitch.ru",
+    "arzamas.academy",
+    "pandorium.app",
+    "goroskop-365.ru",
+    "magic-runes.com",
+    "runico.ru",
+    "xn--80aejvmu5h.xn--80aswg"
+   ]
+  },
+  "что означает руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "magic-runes.com",
+    "pandorium.app",
+    "elarus.ru",
+    "runico.ru",
+    "arzamas.academy",
+    "xn--80aejvmu5h.xn--80aswg",
+    "www.predskazanie.ru"
+   ]
+  },
+  "что обозначает руна": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "goroskop-365.ru",
+    "happywitch.ru",
+    "magic-runes.com",
+    "pandorium.app",
+    "elarus.ru",
+    "runico.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "ru.ruwiki.ru",
+    "www.predskazanie.ru"
+   ]
+  },
+  "футарк скандинавских рун": {
+   "tag": "home",
+   "source": "base",
+   "position": 8,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "magia.fandom.com",
+    "ru.ruwiki.ru",
+    "happywitch.ru",
+    "tr-page.yandex.ru",
+    "vk.ru",
+    "runico.ru",
+    "veles.bz",
+    "ru.wikipedia.org"
+   ]
+  },
+  "что означают руны": {
+   "tag": "home",
+   "source": "base",
+   "position": 7,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "happywitch.ru",
+    "goroskop-365.ru",
+    "ru.wikipedia.org",
+    "elarus.ru",
+    "pandorium.app",
+    "magic-runes.com",
+    "runico.ru",
+    "magya-online.ru",
+    "xn--80aejvmu5h.xn--80aswg",
+    "www.predskazanie.ru"
+   ]
+  }
+ }
+}
