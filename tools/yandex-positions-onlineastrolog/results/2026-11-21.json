@@ -1,0 +1,2770 @@
+{
+ "date": "2026-11-21",
+ "region": "213",
+ "site": "onlineastrolog.ru",
+ "total": 138,
+ "done": 138,
+ "pending": [],
+ "positions": {
+  "лилим": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru",
+    "xn--h1ajim.xn--p1ai",
+    "tr-page.yandex.ru",
+    "www.bestiary.us",
+    "tr-page.yandex.ru",
+    "terragald.fandom.com",
+    "www.youtube.com",
+    "en.namu.wiki"
+   ]
+  },
+  "история астрологии": {
+   "tag": "0. Методология",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "www.litres.ru",
+    "naked-science.ru",
+    "cyclowiki.org",
+    "rutube.ru",
+    "silvermaproject.ru",
+    "astro-kurs.ru",
+    "azbyka.ru",
+    "school-sova.ru"
+   ]
+  },
+  "древняя астрология": {
+   "tag": "0. Методология",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "web.archive.org",
+    "www.litres.ru",
+    "ru.ruwiki.ru",
+    "www.pravenc.ru",
+    "naked-science.ru",
+    "rutube.ru",
+    "astro-kurs.ru",
+    "blog.mann-ivanov-ferber.ru",
+    "azbyka.ru"
+   ]
+  },
+  "астрокартография астросик": {
+   "tag": "подсказки",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "horoscopes.astro-seek.com",
+    "astrology-seek.com",
+    "astro-zeus.ru",
+    "astrolloai.ru",
+    "rumoon.com",
+    "www.astro.com",
+    "astrocarto.net",
+    "astrologessa.ru",
+    "star-meet.com",
+    "astrolog4you.com"
+   ]
+  },
+  "юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "kartaslov.ru",
+    "iunona.su",
+    "ru.wiktionary.org",
+    "dic.academic.ru",
+    "junona-med.ru",
+    "mifology.fandom.com",
+    "azbyka.ru",
+    "docdoc.ru"
+   ]
+  },
+  "стелиум": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 2,
+   "url": "https://onlineastrolog.ru/stellium/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "simpleastrology.ru",
+    "onlineastrolog.ru",
+    "www.stelium.ru",
+    "aistre.ru",
+    "astrolog566.ru",
+    "astro-academia.ru",
+    "astro21.ru",
+    "sashacandor.ru",
+    "tr-page.yandex.ru",
+    "www.youtube.com"
+   ]
+  },
+  "астероид юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "cyclowiki.org",
+    "scientificrussia.ru",
+    "cyclowiki.org",
+    "www.youtube.com",
+    "dzen.ru",
+    "ekaterinburg.4glaza.ru",
+    "ru.wikiital.com",
+    "22century.ru"
+   ]
+  },
+  "астрология и психология": {
+   "tag": "0. Методология",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.litres.ru",
+    "tr-page.yandex.ru",
+    "www.b17.ru",
+    "dzen.ru",
+    "www.b17.ru",
+    "www.b17.ru",
+    "astro-academia.ru",
+    "mylablife.ru",
+    "www.b17.ru",
+    "www.b17.ru"
+   ]
+  },
+  "азитромицин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "stolichki.ru",
+    "stolichki.ru",
+    "stolichki.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "megapteka.ru",
+    "planetazdorovo.ru",
+    "gorzdrav.org",
+    "gorzdrav.org"
+   ]
+  },
+  "вертекс": {
+   "tag": "подсказки",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vertex.spb.ru",
+    "uteka.ru",
+    "uteka.ru",
+    "uteka.ru",
+    "uteka.ru",
+    "vertex-spb.ru",
+    "apteka.ru",
+    "www.eapteka.ru",
+    "apteka.ru",
+    "aveldent.ru"
+   ]
+  },
+  "астрокартография бесплатно": {
+   "tag": "подсказки",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "astrocarto.net",
+    "astro-zeus.ru",
+    "astrocartography.app",
+    "astrolium.com",
+    "astrocartography.app",
+    "star-meet.com",
+    "rumoon.com",
+    "astrologessa.ru",
+    "deluxeastrology.com",
+    "arcanika.com"
+   ]
+  },
+  "астрокартография онлайн": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "astrocartography.app",
+    "astro-zeus.ru",
+    "astrocarto.net",
+    "upastrology.com",
+    "deluxeastrology.com",
+    "upastrology.com",
+    "astrochart.co",
+    "horoscopes.astro-seek.com",
+    "astrology-seek.com",
+    "astrocarto.org"
+   ]
+  },
+  "астрокартография рассчитать": {
+   "tag": "подсказки",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "astrocartography.app",
+    "astro-zeus.ru",
+    "astrocarto.net",
+    "rumoon.com",
+    "astrolium.com",
+    "astrologessa.ru",
+    "star-meet.com",
+    "astrolium.com",
+    "astrolog4you.com",
+    "zvezdmap.ru"
+   ]
+  },
+  "бетагистин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "uteka.ru",
+    "stolichki.ru",
+    "stolichki.ru",
+    "uteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "planetazdorovo.ru",
+    "megapteka.ru",
+    "gorzdrav.org"
+   ]
+  },
+  "аторвастатин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "uteka.ru",
+    "uteka.ru",
+    "spb.uteka.ru",
+    "stolichki.ru",
+    "planetazdorovo.ru",
+    "stolichki.ru",
+    "stolichki.ru",
+    "zdravcity.ru",
+    "zdorov.ru",
+    "megapteka.ru"
+   ]
+  },
+  "валсартан вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "megapteka.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "polza.ru",
+    "gorzdrav.org",
+    "apteka.ru",
+    "zdravcity.ru",
+    "gorzdrav.org",
+    "apteka.ru"
+   ]
+  },
+  "вертекс вакансии": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "spb.hh.ru",
+    "career.vertex.spb.ru",
+    "hh.ru",
+    "dreamjob.ru",
+    "hh.ru",
+    "career.vertex.spb.ru",
+    "hh.ru",
+    "vertex.spb.ru",
+    "spb.hh.ru",
+    "vertex-awp.ru"
+   ]
+  },
+  "астрологическая карта": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "horoscopes.rambler.ru",
+    "geocult.ru",
+    "skillbox.ru",
+    "sotis-online.ru",
+    "www.vesti.ru",
+    "www.kp.ru",
+    "tragos.ru",
+    "gadalkindom.ru",
+    "www.thevoicemag.ru",
+    "goroskop365.ru"
+   ]
+  },
+  "вертекс 2": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "www.avito.ru",
+    "uteka.ru",
+    "www.avito.ru",
+    "shopozz.ru",
+    "www.nix.ru",
+    "www.nix.ru",
+    "shopozz.ru",
+    "shopozz.ru",
+    "shopozz.ru"
+   ]
+  },
+  "вертекс групп": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "checko.ru",
+    "hh.ru",
+    "vertex-group.pro",
+    "companies.rbc.ru",
+    "www.rusprofile.ru",
+    "dreamjob.ru",
+    "verxgroup.ru",
+    "verxgroup.ru",
+    "verxgroup.ru",
+    "verxgroup.ru"
+   ]
+  },
+  "вертекс крем": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "apteka.ru",
+    "megapteka.ru",
+    "uteka.ru",
+    "apteka.ru",
+    "uteka.ru",
+    "gorzdrav.org",
+    "stolichki.ru",
+    "planetazdorovo.ru",
+    "www.eapteka.ru"
+   ]
+  },
+  "вертекс сайт": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vertex.spb.ru",
+    "vertex-spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vk.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vertex-awp.ru"
+   ]
+  },
+  "вертекс производитель": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vertex.spb.ru",
+    "vertex-spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "aveldent.ru",
+    "phsv-apteka.ru",
+    "vertex.spb.ru",
+    "www.rigla.ru",
+    "uteka.ru",
+    "www.eapteka.ru"
+   ]
+  },
+  "вертекс препарат": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "uteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru"
+   ]
+  },
+  "вертекс телефон": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.ozon.ru",
+    "www.avito.ru",
+    "www.avito.ru",
+    "market.yandex.ru",
+    "divizion.com",
+    "www.avito.ru",
+    "www.kns.ru",
+    "technolider24.ru",
+    "quke.ru",
+    "www.wildberries.ru"
+   ]
+  },
+  "дирекции онлайн": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 22,
+   "url": "https://onlineastrolog.ru/progressii/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "eso3.com",
+    "xn--h1aebia8a.xn--p1ai",
+    "astrodoc.pro",
+    "destinykey.org",
+    "www.astroworld.ru",
+    "sotis-online.ru",
+    "celesta-astro.ru",
+    "astroguido.ru",
+    "astrolegenda.ru"
+   ]
+  },
+  "диосмин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "uteka.ru",
+    "planetazdorovo.ru",
+    "megapteka.ru",
+    "polza.ru",
+    "www.eapteka.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "apteka.ru",
+    "gorzdrav.org",
+    "gorzdrav.org"
+   ]
+  },
+  "дирекции рассчитать": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 59,
+   "url": "https://onlineastrolog.ru/progressii/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astrodoc.pro",
+    "xn--h1aebia8a.xn--p1ai",
+    "eso3.com",
+    "www.astroworld.ru",
+    "destinykey.org",
+    "astroguido.ru",
+    "chronos.mg",
+    "astrokolo.com",
+    "celesta-astro.ru"
+   ]
+  },
+  "вертекс шампунь": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "uteka.ru",
+    "apteka.ru",
+    "stolichki.ru",
+    "www.eapteka.ru",
+    "megapteka.ru",
+    "uteka.ru",
+    "zdravcity.ru",
+    "apteka.ru",
+    "www.eapteka.ru",
+    "apteka.ru"
+   ]
+  },
+  "дизайн человека": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "human-design.space",
+    "www.humdes.com",
+    "www.humdes.com",
+    "ravechart.org",
+    "www.humdes.com",
+    "www.humdes.com",
+    "t-j.ru",
+    "dizchel.ru",
+    "human-chart.pro",
+    "ru.wikipedia.org"
+   ]
+  },
+  "итоприд вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "planetazdorovo.ru",
+    "apteka.ru",
+    "www.eapteka.ru",
+    "www.eapteka.ru",
+    "gorzdrav.org",
+    "planetazdorovo.ru",
+    "gorzdrav.org",
+    "apteka.ru",
+    "apteka.ru"
+   ]
+  },
+  "карта рождения": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "fatematrix.pro",
+    "horoscopes.rambler.ru",
+    "inpot.ru",
+    "www.astroworld.ru",
+    "astrosha.ru",
+    "fatematrix.pro",
+    "astro.com.ru",
+    "ma-nu.ru",
+    "timbrica.com"
+   ]
+  },
+  "компания вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vertex-spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "spb.hh.ru",
+    "nn.hh.ru",
+    "phsv-apteka.ru",
+    "vertex.spb.ru",
+    "vk.ru"
+   ]
+  },
+  "кветиапин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "uteka.ru",
+    "uteka.ru",
+    "stolichki.ru",
+    "spb.uteka.ru",
+    "planetazdorovo.ru",
+    "zdorov.ru",
+    "megapteka.ru",
+    "apteka.ru",
+    "gorzdrav.org",
+    "megapteka.ru"
+   ]
+  },
+  "космограмма онлайн": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "www.lifexpert.ru",
+    "kosmogramma.ru",
+    "sotis-online.ru",
+    "eso3.com",
+    "horoscopes.rambler.ru",
+    "astrozet.net",
+    "gadalkindom.ru",
+    "astrohelper.ru",
+    "goroskop365.ru"
+   ]
+  },
+  "кетоконазол вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "apteka.ru",
+    "stolichki.ru",
+    "megapteka.ru",
+    "uteka.ru",
+    "www.eapteka.ru",
+    "apteka.ru",
+    "www.eapteka.ru",
+    "gorzdrav.org",
+    "apteka.ru",
+    "vitaexpress.ru"
+   ]
+  },
+  "колесо фортуны": {
+   "tag": "подсказки",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "randstuff.ru",
+    "ru.piliapp.com",
+    "randomup.ru",
+    "spinthewheel.io",
+    "convertilo.ru",
+    "randpad.ru",
+    "timbrica.com",
+    "choice-helper.herokuapp.com",
+    "calculat.io",
+    "ru.pointauc.com"
+   ]
+  },
+  "клотримазол вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.eapteka.ru",
+    "planetazdorovo.ru",
+    "megapteka.ru",
+    "uteka.ru",
+    "polza.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "zdravcity.ru",
+    "megapteka.ru"
+   ]
+  },
+  "клиника юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "junona-med.ru",
+    "yandex.ru",
+    "napopravku.ru",
+    "junona-med.ru",
+    "unona-clinic.ru",
+    "yandex.ru",
+    "junoclinic.ru",
+    "junona-med.ru",
+    "zoon.ru",
+    "2gis.ru"
+   ]
+  },
+  "лекарство вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "zdravcity.ru",
+    "www.eapteka.ru",
+    "uteka.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "megapteka.ru",
+    "uteka.ru",
+    "megapteka.ru",
+    "uteka.ru",
+    "uteka.ru"
+   ]
+  },
+  "левофлоксацин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "megapteka.ru",
+    "apteka.ru",
+    "megapteka.ru",
+    "gorzdrav.org",
+    "www.eapteka.ru",
+    "planetazdorovo.ru",
+    "gorzdrav.org",
+    "apteka.ru",
+    "apteka.ru"
+   ]
+  },
+  "монтелукаст вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "stolichki.ru",
+    "megapteka.ru",
+    "megapteka.ru",
+    "gorzdrav.org",
+    "stolichki.ru",
+    "megapteka.ru",
+    "megapteka.ru",
+    "stolichki.ru",
+    "gorzdrav.org"
+   ]
+  },
+  "лунный месяц": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tr-page.yandex.ru",
+    "yandex.ru",
+    "yandex.ru",
+    "znanierussia.ru",
+    "www.life-moon.pp.ru",
+    "ru.wikipedia.org",
+    "voshod-solnca.ru",
+    "ru.ruwiki.ru",
+    "my-calend.ru",
+    "starwalk.space"
+   ]
+  },
+  "мелоксикам вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "zdorov.ru",
+    "gorzdrav.org",
+    "www.eapteka.ru",
+    "megapteka.ru",
+    "polza.ru",
+    "planetazdorovo.ru",
+    "www.eapteka.ru"
+   ]
+  },
+  "мемантин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "stolichki.ru",
+    "stolichki.ru",
+    "megapteka.ru",
+    "apteka.ru",
+    "megapteka.ru",
+    "planetazdorovo.ru",
+    "megapteka.ru",
+    "planetazdorovo.ru",
+    "megapteka.ru"
+   ]
+  },
+  "набор юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "uteka.ru",
+    "stolichki.ru",
+    "apteka.ru",
+    "stolichki.ru",
+    "uteka.ru",
+    "planetazdorovo.ru",
+    "uteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "spb.uteka.ru"
+   ]
+  },
+  "натальная астрология": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "geocult.ru",
+    "wowastro.ru",
+    "sotis-online.ru",
+    "astrosuntime.cz",
+    "astroguru.ru",
+    "irinagrit.ru",
+    "horoscopes.rambler.ru",
+    "orionastro.ru",
+    "astro.com.ru"
+   ]
+  },
+  "направления астрологии": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 56,
+   "url": "https://onlineastrolog.ru/napravleniya-astrologii/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "dzen.ru",
+    "ru.ruwiki.ru",
+    "oraculix.ru",
+    "ru.ruwiki.ru",
+    "samotsvet.ru",
+    "www.litres.ru",
+    "astrosite.online",
+    "peopletalk.ru",
+    "www.youtube.com"
+   ]
+  },
+  "натальная карта": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro.com.ru",
+    "horoscopes.rambler.ru",
+    "astrofond.ru",
+    "irinagrit.ru",
+    "human-design.space",
+    "sotis-online.ru",
+    "tragos.ru",
+    "eso3.com",
+    "goroskop365.ru"
+   ]
+  },
+  "обучение астрологии": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "mylablife.ru",
+    "skillbox.ru",
+    "astroclass.ru",
+    "astrooma-school.ru",
+    "mupp-dpo.ru",
+    "astrolisssa.ru",
+    "astroinstitut.ru",
+    "astro-academia.ru",
+    "www.astrolog.ru",
+    "astrodata.pro"
+   ]
+  },
+  "орнидазол вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "stolichki.ru",
+    "planetazdorovo.ru",
+    "gorzdrav.org",
+    "www.eapteka.ru",
+    "zdorov.ru",
+    "apteka.ru",
+    "megapteka.ru",
+    "apteka-april.ru",
+    "www.asna.ru"
+   ]
+  },
+  "ооо вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "checko.ru",
+    "www.rusprofile.ru",
+    "hh.ru",
+    "companies.rbc.ru",
+    "zachestnyibiznes.ru",
+    "www.audit-it.ru",
+    "companies.rbc.ru",
+    "vertex-awp.ru",
+    "vertex-awp.ru",
+    "2gis.ru"
+   ]
+  },
+  "пко юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "iunona.su",
+    "iunona.su",
+    "iunona.su",
+    "iunona.su",
+    "www.rusprofile.ru",
+    "checko.ru",
+    "fpa.ru",
+    "findozor.net",
+    "www.sravni.ru",
+    "check.tochka.com"
+   ]
+  },
+  "периндоприл вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "uteka.ru",
+    "megapteka.ru",
+    "zdravcity.ru",
+    "www.eapteka.ru",
+    "gorzdrav.org",
+    "planetazdorovo.ru",
+    "megapteka.ru",
+    "apteka.ru",
+    "www.asna.ru"
+   ]
+  },
+  "ооо юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "iunona.su",
+    "iunona.su",
+    "iunona.su",
+    "iunona.su",
+    "checko.ru",
+    "iunona.su",
+    "www.rusprofile.ru",
+    "focus.kontur.ru",
+    "www.rusprofile.ru",
+    "fpa.ru"
+   ]
+  },
+  "персональный гороскоп": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "astrodaily.ru",
+    "eso3.com",
+    "www.astrocentr.ru",
+    "eso3.com",
+    "globalmsk.ru",
+    "astrodaily.ru",
+    "goroskop365.ru",
+    "www.astroworld.ru",
+    "www.oculus.ru",
+    "horoscopes.rambler.ru"
+   ]
+  },
+  "пессарий юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "apteka.ru",
+    "stolichki.ru",
+    "uteka.ru",
+    "apteka.ru",
+    "apteka-april.ru",
+    "uteka.ru",
+    "uteka.ru"
+   ]
+  },
+  "солар онлайн": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 7,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro.com.ru",
+    "astro-zeus.ru",
+    "eso3.com",
+    "sotis-online.ru",
+    "destinykey.org",
+    "onlineastrolog.ru",
+    "astrolog4you.com",
+    "astrodoc.pro",
+    "astrovey.ru"
+   ]
+  },
+  "рассчитать вертекс": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 1,
+   "url": "https://onlineastrolog.ru/verteks/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "onlineastrolog.ru",
+    "astrolium.com",
+    "www.astroasist.com",
+    "deluxeastrology.com",
+    "astrocartography.app",
+    "geocult.ru",
+    "www.nextastrology.com",
+    "astrochart.co",
+    "www.astrologchukreeva.ru",
+    "authorityastrology.com"
+   ]
+  },
+  "расчет солара": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 7,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro.com.ru",
+    "astrolegenda.ru",
+    "astrovey.ru",
+    "destinykey.org",
+    "astro-zeus.ru",
+    "onlineastrolog.ru",
+    "astrodoc.pro",
+    "celesta-astro.ru",
+    "eso3.com"
+   ]
+  },
+  "составить солар": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 3,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro.com.ru",
+    "onlineastrolog.ru",
+    "astrolegenda.ru",
+    "sotis-online.ru",
+    "eso3.com",
+    "astrodoc.pro",
+    "celesta-astro.ru",
+    "astro-zeus.ru",
+    "astrovey.ru"
+   ]
+  },
+  "рассчитать солар": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 5,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro.com.ru",
+    "astrolegenda.ru",
+    "astro-zeus.ru",
+    "onlineastrolog.ru",
+    "destinykey.org",
+    "eso3.com",
+    "astrodoc.pro",
+    "astrovey.ru",
+    "astrolog4you.com"
+   ]
+  },
+  "розувастатин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "stolichki.ru",
+    "megapteka.ru",
+    "megapteka.ru",
+    "gorzdrav.org",
+    "gorzdrav.org",
+    "megapteka.ru",
+    "www.asna.ru",
+    "gorzdrav.org",
+    "www.eapteka.ru"
+   ]
+  },
+  "стелиум это": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 2,
+   "url": "https://onlineastrolog.ru/stellium/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "simpleastrology.ru",
+    "onlineastrolog.ru",
+    "astrolog566.ru",
+    "sashacandor.ru",
+    "aistre.ru",
+    "astro-academia.ru",
+    "astro21.ru",
+    "www.youtube.com",
+    "samotsvet.ru",
+    "northnode.ru"
+   ]
+  },
+  "селена астрология": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "myselena.ru",
+    "mylablife.ru",
+    "obrazpravi.ru",
+    "astrometrica.ru",
+    "www.astrolus.ru",
+    "gems-brokers.ru",
+    "chronos.mg",
+    "dzen.ru",
+    "geocult.ru",
+    "www.youtube.com"
+   ]
+  },
+  "сонник юноны": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "sk1.online",
+    "sk1.online",
+    "sk1.online",
+    "junona.pro",
+    "www.astromeridian.ru",
+    "sk1.online",
+    "my-calend.ru",
+    "junona.pro",
+    "www.sunhome.ru",
+    "t-eye.ru"
+   ]
+  },
+  "стеллиум мойка": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "yandex.ru",
+    "stellium-detailing.ru",
+    "stellium-detailing.ru",
+    "yandex.ru",
+    "2gis.ru",
+    "2gis.ru",
+    "2gis.ru",
+    "stellium-detailing.ru",
+    "zoon.ru",
+    "uslugi.yandex.ru"
+   ]
+  },
+  "фирма вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vertex.spb.ru",
+    "vertex-spb.ru",
+    "aveldent.ru",
+    "uteka.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "www.wildberries.ru",
+    "vertex.spb.ru",
+    "phsv-apteka.ru",
+    "www.eapteka.ru"
+   ]
+  },
+  "хондроитин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "stolichki.ru",
+    "www.eapteka.ru",
+    "www.eapteka.ru",
+    "gorzdrav.org",
+    "stolichki.ru",
+    "planetazdorovo.ru",
+    "apteka.ru",
+    "zdravcity.ru",
+    "gorzdrav.org"
+   ]
+  },
+  "целекоксиб вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "megapteka.ru",
+    "planetazdorovo.ru",
+    "gorzdrav.org",
+    "www.eapteka.ru",
+    "polza.ru",
+    "zdravcity.ru",
+    "apteka.ru",
+    "uteka.ru",
+    "apteka.ru"
+   ]
+  },
+  "стеллиум это": {
+   "tag": "вебмастер/закупка/подсказки",
+   "source": "base",
+   "position": 2,
+   "url": "https://onlineastrolog.ru/stellium/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "simpleastrology.ru",
+    "onlineastrolog.ru",
+    "aistre.ru",
+    "destinykey.org",
+    "astrolog566.ru",
+    "sashacandor.ru",
+    "coeluna.com",
+    "astro-academia.ru",
+    "astro21.ru",
+    "samotsvet.ru"
+   ]
+  },
+  "цетиризин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "stolichki.ru",
+    "megapteka.ru",
+    "planetazdorovo.ru",
+    "zdorov.ru",
+    "gorzdrav.org",
+    "www.eapteka.ru",
+    "gorzdrav.org",
+    "apteka.ru",
+    "zdravcity.ru"
+   ]
+  },
+  "цитиколин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "uteka.ru",
+    "stolichki.ru",
+    "apteka.ru",
+    "zdorov.ru",
+    "gorzdrav.org",
+    "megapteka.ru",
+    "planetazdorovo.ru",
+    "www.eapteka.ru",
+    "polza.ru"
+   ]
+  },
+  "юнона 1": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "uteka.ru",
+    "stolichki.ru",
+    "medicinelux.com",
+    "vk.ru",
+    "www.mebelmsk.ru",
+    "apteka-april.ru",
+    "tr-page.yandex.ru",
+    "tr-page.yandex.ru"
+   ]
+  },
+  "юнона 2": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "junona-2.com",
+    "junona-2.com",
+    "junona-2.com",
+    "junona-2.com",
+    "junona-2.com",
+    "junona-2.com",
+    "junona-2.com",
+    "junona-2.com",
+    "junona-2.com",
+    "yandex.ru"
+   ]
+  },
+  "юнона био": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "apteka.ru",
+    "planetazdorovo.ru",
+    "planetazdorovo.ru",
+    "apteka.ru",
+    "zdorov.ru",
+    "planetazdorovo.ru",
+    "uteka.ru",
+    "apteka.ru",
+    "uteka.ru",
+    "www.eapteka.ru"
+   ]
+  },
+  "юнона онлайн": {
+   "tag": "lsi",
+   "source": "base",
+   "position": 3,
+   "url": "https://onlineastrolog.ru/yunona/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "sk1.online",
+    "sk1.online",
+    "onlineastrolog.ru",
+    "sk1.online",
+    "sk1.online",
+    "sk1.online",
+    "sk1.online",
+    "sk1.online",
+    "authorityastrology.com",
+    "yasinka.ru"
+   ]
+  },
+  "юнона гадание": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "sk1.online",
+    "sk1.online",
+    "junona.pro",
+    "dzen.ru",
+    "magya-online.ru",
+    "sk1.online",
+    "sk1.online",
+    "sk1.online",
+    "sk1.online",
+    "sk1.online"
+   ]
+  },
+  "юнона еременко": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "junoclinic.ru",
+    "yandex.ru",
+    "prodoctorov.ru",
+    "junoclinic.ru",
+    "napopravku.ru",
+    "prodoctorov.ru",
+    "junoclinic.ru",
+    "www.plastika-junoclinic.ru",
+    "junoclinic.ru",
+    "junoclinic.ru"
+   ]
+  },
+  "юнона карева": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "www.kino-teatr.ru",
+    "www.kinopoisk.ru",
+    "dzen.ru",
+    "history-kazan.ru",
+    "ru.kinorium.com",
+    "24smi.org",
+    "dzen.ru",
+    "jewish.ru"
+   ]
+  },
+  "юнона имя": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "my-calend.ru",
+    "www.vokrugsveta.ru",
+    "www.baby.ru",
+    "www.izh.kp.ru",
+    "ru.wiktionary.org",
+    "xn--h1ajim.xn--p1ai",
+    "www.astromeridian.ru",
+    "dzen.ru",
+    "amulex.ru",
+    "ru.wikipedia.org"
+   ]
+  },
+  "юнона пермь": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "unona-perm.ru",
+    "unona-perm.ru",
+    "unona-perm.ru",
+    "yandex.ru",
+    "unona-perm.ru",
+    "unona-perm.ru",
+    "prodoctorov.ru",
+    "unona-perm.ru",
+    "m.vk.ru",
+    "2gis.ru"
+   ]
+  },
+  "юнона сайт": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "iunona.su",
+    "unona.su",
+    "junona-med.ru",
+    "www.unona.market",
+    "grib-prom.ru",
+    "junona-nsk.ru",
+    "junoclinic.ru",
+    "unona-clinic.ru",
+    "unonamebel.ru",
+    "www.unona.market"
+   ]
+  },
+  "юнона фото": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "yandex.ru",
+    "www.istockphoto.com",
+    "fotounona.ru",
+    "yandex.ru",
+    "lenta.ru",
+    "ru.wikipedia.org",
+    "www.istockphoto.com",
+    "nplus1.ru",
+    "tr-page.yandex.ru",
+    "ru.freepik.com"
+   ]
+  },
+  "юнона цены": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "apteka.ru",
+    "apteka.ru",
+    "uteka.ru",
+    "planetazdorovo.ru",
+    "uteka.ru",
+    "stolichki.ru",
+    "apteka.ru",
+    "planetazdorovo.ru",
+    "planetazdorovo.ru",
+    "apteka.ru"
+   ]
+  },
+  "аллилуйя любви юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "my.mail.ru",
+    "my.mail.ru",
+    "music.yandex.ru",
+    "rutube.ru",
+    "yandex.ru",
+    "zvuk.com",
+    "my.mail.ru",
+    "dzen.ru",
+    "music.yandex.ru",
+    "rutube.ru"
+   ]
+  },
+  "астрологическая карта онлайн": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.astro-seek.com",
+    "geocult.ru",
+    "xn--h1aebia8a.xn--p1ai",
+    "sotis-online.ru",
+    "goroskop365.ru",
+    "tragos.ru",
+    "eso3.com",
+    "astrometa.ru",
+    "destinykey.org",
+    "eso3.com"
+   ]
+  },
+  "астрокартография рассчитать бесплатно": {
+   "tag": "подсказки",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "astrocartography.app",
+    "astrocarto.net",
+    "astro-zeus.ru",
+    "rumoon.com",
+    "astrolium.com",
+    "astrologessa.ru",
+    "star-meet.com",
+    "deluxeastrology.com",
+    "astrolog4you.com",
+    "destinykey.org"
+   ]
+  },
+  "ао вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vertex-spb.ru",
+    "vertex.spb.ru",
+    "checko.ru",
+    "vertex.spb.ru",
+    "www.rusprofile.ru",
+    "spb.hh.ru",
+    "zachestnyibiznes.ru",
+    "xn--g1an9b.xn--p1ai"
+   ]
+  },
+  "3 юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "cyclowiki.org",
+    "cyclowiki.org",
+    "scientificrussia.ru",
+    "tr-page.yandex.ru",
+    "dic.academic.ru",
+    "www.youtube.com",
+    "commons.wikimedia.org",
+    "znanierussia.ru"
+   ]
+  },
+  "астрология для начинающих": {
+   "tag": "подсказки",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "astro.com.ru",
+    "afashop.ru",
+    "mylablife.ru",
+    "astroinstitut.ru",
+    "books.yandex.ru",
+    "www.litres.ru",
+    "market.yandex.ru",
+    "astrooma-school.ru",
+    "www.litres.ru",
+    "ermolina.pro"
+   ]
+  },
+  "белый шиповник юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "my.mail.ru",
+    "my.mail.ru",
+    "my.mail.ru",
+    "my.mail.ru",
+    "my.mail.ru",
+    "music.yandex.ru",
+    "www.youtube.com",
+    "dzen.ru",
+    "dzen.ru",
+    "dzen.ru"
+   ]
+  },
+  "вертекс 5 мг": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "stolichki.ru",
+    "megapteka.ru",
+    "gorzdrav.org",
+    "www.eapteka.ru",
+    "www.asna.ru",
+    "polza.ru",
+    "apteka.ru",
+    "www.eapteka.ru",
+    "megapteka.ru"
+   ]
+  },
+  "вертекс как принимать": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "aptekamos.ru",
+    "polza.ru",
+    "www.eapteka.ru",
+    "aptekamos.ru",
+    "aptekamos.ru",
+    "www.eapteka.ru",
+    "aptekamos.ru",
+    "medi.ru",
+    "aptekamos.ru",
+    "aptekamos.ru"
+   ]
+  },
+  "вертекс в астрологии": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 7,
+   "url": "https://onlineastrolog.ru/verteks/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "astro7.com",
+    "www.astroasist.com",
+    "stellarium.pro",
+    "dzen.ru",
+    "m.vk.ru",
+    "www.astrologchukreeva.ru",
+    "onlineastrolog.ru",
+    "mylablife.ru",
+    "astroguido.ru",
+    "ats.school"
+   ]
+  },
+  "вертекс от кашля": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "uteka.ru",
+    "uteka.ru",
+    "stolichki.ru",
+    "planetazdorovo.ru",
+    "megapteka.ru",
+    "planetazdorovo.ru",
+    "planetazdorovo.ru",
+    "zdorov.ru",
+    "zdorov.ru",
+    "planetazdorovo.ru"
+   ]
+  },
+  "вертекс рассчитать онлайн": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 1,
+   "url": "https://onlineastrolog.ru/verteks/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "onlineastrolog.ru",
+    "astrolium.com",
+    "deluxeastrology.com",
+    "astrocartography.app",
+    "www.nextastrology.com",
+    "www.astroasist.com",
+    "authorityastrology.com",
+    "eso3.com",
+    "geocult.ru",
+    "numroq.com"
+   ]
+  },
+  "вертекс официальный сайт": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vertex.spb.ru",
+    "vertex-spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vk.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru",
+    "vertex.spb.ru"
+   ]
+  },
+  "вертекс таблетки цена": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "megapteka.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "megapteka.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "zdravcity.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "megapteka.ru"
+   ]
+  },
+  "дизайн человека рассчитать": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "human-design.space",
+    "www.humdes.com",
+    "ravechart.org",
+    "sutra.center",
+    "human-design.space",
+    "fractalhd.house",
+    "hdmatrix.pro",
+    "serjlav.ru",
+    "hdchart.ru",
+    "arcanika.com"
+   ]
+  },
+  "дирекции онлайн астрология": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 49,
+   "url": "https://onlineastrolog.ru/progressii/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "eso3.com",
+    "xn--h1aebia8a.xn--p1ai",
+    "astrodoc.pro",
+    "www.astroworld.ru",
+    "sotis-online.ru",
+    "destinykey.org",
+    "celesta-astro.ru",
+    "astroguido.ru",
+    "astrolegenda.ru"
+   ]
+  },
+  "диосмин гесперидин вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "planetazdorovo.ru",
+    "apteka.ru",
+    "uteka.ru",
+    "polza.ru",
+    "zdravcity.ru",
+    "apteka.ru",
+    "zdorov.ru",
+    "apteka.ru",
+    "megapteka.ru",
+    "apteka.ru"
+   ]
+  },
+  "календарь лунных дней": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "yandex.ru",
+    "my-calend.ru",
+    "www.life-moon.pp.ru",
+    "lyna.info",
+    "www.calend.ru",
+    "horo.mail.ru",
+    "yandex.ru",
+    "horoscopes.rambler.ru",
+    "my-calend.ru",
+    "geocult.ru"
+   ]
+  },
+  "карта на год": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 6,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "astrovey.ru",
+    "astro.com.ru",
+    "astro-zeus.ru",
+    "geocult.ru",
+    "destinykey.org",
+    "onlineastrolog.ru",
+    "arcanika.com",
+    "eso3.com",
+    "irinagrit.ru",
+    "magya-online.ru"
+   ]
+  },
+  "карта рождения онлайн": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "sotis-online.ru",
+    "astro.com.ru",
+    "goroskop365.ru",
+    "xn--h1aebia8a.xn--p1ai",
+    "www.astroworld.ru",
+    "eso3.com",
+    "astrometa.ru",
+    "astrofond.ru",
+    "tragos.ru"
+   ]
+  },
+  "кетоконазол вертекс шампунь": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "apteka.ru",
+    "megapteka.ru",
+    "uteka.ru",
+    "stolichki.ru",
+    "www.eapteka.ru",
+    "www.ozon.ru",
+    "msk.zhivika.ru",
+    "apteka.ru",
+    "www.ozon.ru",
+    "www.eapteka.ru"
+   ]
+  },
+  "колесо фортуны рассчитать": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 1,
+   "url": "https://onlineastrolog.ru/koleso-fortuny/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "onlineastrolog.ru",
+    "astrocartography.app",
+    "titov.store",
+    "geocult.ru",
+    "sprosiastrologa.ru",
+    "randstuff.ru",
+    "astronova.ru",
+    "convertilo.ru",
+    "ats.school",
+    "astrolibrary.org"
+   ]
+  },
+  "зонд юнона": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "uteka.ru",
+    "www.dealmed.ru",
+    "simurg-store.ru",
+    "uteka.ru",
+    "medicinelux.com",
+    "www.komus.ru",
+    "uteka.ru",
+    "www.komus.ru",
+    "medicinelux.com",
+    "simurg-store.ru"
+   ]
+  },
+  "нат карта онлайн": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro-online.ru",
+    "irinagrit.ru",
+    "astrology-natal.ru",
+    "human-design.space",
+    "timbrica.com",
+    "astro.com.ru",
+    "astrofond.ru",
+    "horoscopes.rambler.ru",
+    "septenus.com"
+   ]
+  },
+  "моя натальная карта": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "irinagrit.ru",
+    "geocult.ru",
+    "human-design.space",
+    "horoscopes.rambler.ru",
+    "astro.com.ru",
+    "astroguru.ru",
+    "sotis-online.ru",
+    "astrofond.ru",
+    "destinykey.org",
+    "goroskop365.ru"
+   ]
+  },
+  "мс во льве": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 85,
+   "url": "https://onlineastrolog.ru/planety/mc/lev/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "protvoiput.ru",
+    "geocult.ru",
+    "astro.com.ru",
+    "www.astrologbrova.com",
+    "gadalkindom.ru",
+    "m.vk.ru",
+    "m.vk.ru",
+    "aistre.ru",
+    "dzen.ru"
+   ]
+  },
+  "мс в близнецах": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "destinykey.org",
+    "www.astrologbrova.com",
+    "geocult.ru",
+    "astro.com.ru",
+    "protvoiput.ru",
+    "www.youtube.com",
+    "m.vk.ru",
+    "vk.ru",
+    "www.svetzvezd.info"
+   ]
+  },
+  "натальная карта 2026": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "horoscopes.rambler.ru",
+    "geocult.ru",
+    "gadalkindom.ru",
+    "astro-online.ru",
+    "ru.astro-seek.com",
+    "vkvideo.ru",
+    "eso3.com",
+    "geocult.ru",
+    "vk.ru",
+    "geocult.ru"
+   ]
+  },
+  "натальная карта бесплатно": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": 99,
+   "url": "https://onlineastrolog.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "horoscopes.rambler.ru",
+    "astrofond.ru",
+    "human-design.space",
+    "sotis-online.ru",
+    "www.astroworld.ru",
+    "astro.com.ru",
+    "tragos.ru",
+    "irinagrit.ru",
+    "goroskop365.ru"
+   ]
+  },
+  "натальная карта колесо": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 1,
+   "url": "https://onlineastrolog.ru/koleso-fortuny/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "onlineastrolog.ru",
+    "astro7.com",
+    "geocult.ru",
+    "www.astroscan.pro",
+    "astronova.ru",
+    "www.thevoicemag.ru",
+    "geocult.ru",
+    "www.arcanum.ru",
+    "www.marieclaire.ru",
+    "astrozet.net"
+   ]
+  },
+  "натальная карта онлайн": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "horoscopes.rambler.ru",
+    "gadalkindom.ru",
+    "astro-online.ru",
+    "ru.astro-seek.com",
+    "ru.astro-seek.com",
+    "geocult.ru",
+    "xn--h1aebia8a.xn--p1ai",
+    "tragos.ru",
+    "goroskop365.ru",
+    "sotis-online.ru"
+   ]
+  },
+  "ооо стеллиум инвест": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "checko.ru",
+    "companies.rbc.ru",
+    "focus.kontur.ru",
+    "b2b.house",
+    "www.list-org.com",
+    "datanewton.ru",
+    "www.audit-it.ru",
+    "sensus.kz",
+    "check.tochka.com",
+    "zachestnyibiznes.ru"
+   ]
+  },
+  "построить дирекцию онлайн": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "xn--h1aebia8a.xn--p1ai",
+    "astrodoc.pro",
+    "eso3.com",
+    "www.astroworld.ru",
+    "astrolegenda.ru",
+    "sotis-online.ru",
+    "sotis-online.ru",
+    "astroguido.ru",
+    "destinykey.org"
+   ]
+  },
+  "натальная карта рассчитать": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "horoscopes.rambler.ru",
+    "human-design.space",
+    "astrofond.ru",
+    "septenus.com",
+    "www.astroworld.ru",
+    "irinagrit.ru",
+    "astro.com.ru",
+    "tragos.ru",
+    "sotis-online.ru"
+   ]
+  },
+  "построить натальную карту": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "irinagrit.ru",
+    "sotis-online.ru",
+    "astroguru.ru",
+    "timbrica.com",
+    "destinykey.org",
+    "mylablife.ru",
+    "human-design.space",
+    "astro.com.ru",
+    "septenus.com"
+   ]
+  },
+  "рассчитать парс фортуны": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 1,
+   "url": "https://onlineastrolog.ru/koleso-fortuny/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "onlineastrolog.ru",
+    "www.natalchart.ai",
+    "astrocartography.app",
+    "titov.store",
+    "astro-app.net",
+    "geocult.ru",
+    "astrolibrary.org",
+    "astronova.ru",
+    "www.marieclaire.ru",
+    "eso3.com"
+   ]
+  },
+  "релокация натальной карты": {
+   "tag": "закупка",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "wowastro.ru",
+    "destinykey.org",
+    "vedora.ru",
+    "geocult.ru",
+    "chronos.mg",
+    "eso3.com",
+    "xn--h1aebia8a.xn--p1ai",
+    "astrofact.net",
+    "www.astrologbrova.com"
+   ]
+  },
+  "сайт селена астрология": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "myselena.ru",
+    "astro-center.pro",
+    "proastro-school.ru",
+    "astro-center.pro",
+    "selena-astrolog.ru",
+    "xn--h1aebia8a.xn--p1ai",
+    "proastro-school.ru",
+    "vk.ru",
+    "midheaven.ru",
+    "geocult.ru"
+   ]
+  },
+  "солар на год": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 4,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro.com.ru",
+    "destinykey.org",
+    "onlineastrolog.ru",
+    "astrodoc.pro",
+    "astrovey.ru",
+    "celesta-astro.ru",
+    "www.astroscan.pro",
+    "astrolegenda.ru",
+    "astrolog4you.com"
+   ]
+  },
+  "солар натальная карта": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 8,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "sotis-online.ru",
+    "geocult.ru",
+    "astro.com.ru",
+    "celesta-astro.ru",
+    "astrolegenda.ru",
+    "destinykey.org",
+    "astro-zeus.ru",
+    "onlineastrolog.ru",
+    "eso3.com",
+    "astrodoc.pro"
+   ]
+  },
+  "селена приложение астрология": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "myselena.ru",
+    "astro-center.pro",
+    "m.vk.ru",
+    "proastro-school.ru",
+    "proastro-school.ru",
+    "apkpure.net",
+    "apps.apple.com",
+    "apkpure.net",
+    "apps.apple.com",
+    "apkpure.com"
+   ]
+  },
+  "солар онлайн расчет": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 3,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro.com.ru",
+    "onlineastrolog.ru",
+    "astro-zeus.ru",
+    "astrodoc.pro",
+    "astrolegenda.ru",
+    "astrovey.ru",
+    "destinykey.org",
+    "eso3.com",
+    "celesta-astro.ru"
+   ]
+  },
+  "солар рассчитать онлайн": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 4,
+   "url": "https://onlineastrolog.ru/solar/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "astro.com.ru",
+    "astrolegenda.ru",
+    "onlineastrolog.ru",
+    "eso3.com",
+    "astro-zeus.ru",
+    "astrodoc.pro",
+    "astrovey.ru",
+    "destinykey.org",
+    "sotis-online.ru"
+   ]
+  },
+  "соник натальная карта": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 50,
+   "url": "https://onlineastrolog.ru/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "horoscopes.rambler.ru",
+    "sotis-online.ru",
+    "sotis-online.ru",
+    "xn--h1aebia8a.xn--p1ai",
+    "geocult.ru",
+    "geocult.ru",
+    "www.astroworld.ru",
+    "eso3.com",
+    "tragos.ru",
+    "astro.com.ru"
+   ]
+  },
+  "сонник юноны 40": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "sk1.online",
+    "sk1.online",
+    "sk1.online",
+    "www.astromeridian.ru",
+    "sk1.online",
+    "my-calend.ru",
+    "junona.pro",
+    "horoscopes.rambler.ru",
+    "goroskop365.ru",
+    "www.sunhome.ru"
+   ]
+  },
+  "составить натальную карту": {
+   "tag": "1. Калькуляторы",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "geocult.ru",
+    "human-design.space",
+    "irinagrit.ru",
+    "astrofond.ru",
+    "horoscopes.rambler.ru",
+    "mylablife.ru",
+    "astro.com.ru",
+    "astroguru.ru",
+    "septenus.com",
+    "tragos.ru"
+   ]
+  },
+  "стеллиум в весах": {
+   "tag": "lsi",
+   "source": "base",
+   "position": 13,
+   "url": "https://onlineastrolog.ru/stellium/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "destinykey.org",
+    "magya-online.ru",
+    "sashacandor.ru",
+    "www.youtube.com",
+    "astro-academia.ru",
+    "www.astromeridian.ru",
+    "samotsvet.ru",
+    "vk.ru",
+    "vk.ru",
+    "dzen.ru"
+   ]
+  },
+  "стеллиум в водолее": {
+   "tag": "lsi",
+   "source": "base",
+   "position": 44,
+   "url": "https://onlineastrolog.ru/stellium/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "destinykey.org",
+    "dzen.ru",
+    "dzen.ru",
+    "magya-online.ru",
+    "www.astromeridian.ru",
+    "vk.ru",
+    "sashacandor.ru",
+    "dzen.ru",
+    "samotsvet.ru",
+    "dzen.ru"
+   ]
+  },
+  "стеллиум в близнецах": {
+   "tag": "lsi",
+   "source": "base",
+   "position": 60,
+   "url": "https://onlineastrolog.ru/stellium/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "destinykey.org",
+    "dzen.ru",
+    "magya-online.ru",
+    "sashacandor.ru",
+    "destinykey.org",
+    "simpleastrology.ru",
+    "www.astromeridian.ru",
+    "astro-academia.ru",
+    "dzen.ru",
+    "vk.ru"
+   ]
+  },
+  "тадалафил вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "apteka.ru",
+    "apteka.ru",
+    "uteka.ru",
+    "gorzdrav.org",
+    "gorzdrav.org",
+    "apteka.ru",
+    "megapteka.ru",
+    "gorzdrav.org",
+    "stolichki.ru",
+    "spb.uteka.ru"
+   ]
+  },
+  "точка вертекса": {
+   "tag": "вебмастер",
+   "source": "base",
+   "position": 7,
+   "url": "https://onlineastrolog.ru/verteks/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "cosmomap.io",
+    "www.astroasist.com",
+    "studfile.net",
+    "astro7.com",
+    "dic.academic.ru",
+    "astranumen.ru",
+    "onlineastrolog.ru",
+    "ats.school",
+    "astrolium.com",
+    "proza.ru"
+   ]
+  },
+  "фенибут вертекс": {
+   "tag": "lsi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "stolichki.ru",
+    "uteka.ru",
+    "megapteka.ru",
+    "www.eapteka.ru",
+    "zdravcity.ru",
+    "apteka.ru",
+    "gorzdrav.org",
+    "zhivika.ru",
+    "apteka.ru",
+    "zdravcity.ru"
+   ]
+  },
+  "стеллиум рассчитать": {
+   "tag": "вебмастер/закупка",
+   "source": "base",
+   "position": 1,
+   "url": "https://onlineastrolog.ru/stellium/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "onlineastrolog.ru",
+    "luminamur.com",
+    "www.youtube.com",
+    "geocult.ru",
+    "astrology-seek.com",
+    "human-design.space",
+    "onlineastrolog.ru",
+    "irinagrit.ru",
+    "www.augurine.com",
+    "horoscopes.rambler.ru"
+   ]
+  }
+ }
+}
