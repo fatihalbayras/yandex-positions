@@ -1,0 +1,56 @@
+name: yandex-positions-ikigaiauto-vl-submit
+
+on:
+  schedule:
+    # 01:15 МСК = 22:15 UTC (отложенный режим Search API: окно 00:00-06:00 МСК).
+    # Идемпотентно: submit пропускает ключи, уже отправленные (есть в state) —
+    # когда семантика полностью собрана, этот прогон просто ничего не делает.
+    - cron: '15 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Submit async position requests
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '75'
+          YP_SITE: 'ikigaiauto.ru'
+        run: python tools/yandex-positions-ikigaiauto-vl/positions.py submit
+      - name: Commit state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/yandex-positions-ikigaiauto-vl/state tools/yandex-positions-ikigaiauto-vl/queue
+          git commit -m "ikigaiauto-vl positions: submit $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push || (git fetch origin main && git rebase origin/main && git push)
+
+      - name: Wait for async processing
+        if: always()
+        run: sleep 300
+      - name: Collect results (parallel, early grab)
+        if: always()
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '75'
+          YP_SITE: 'ikigaiauto.ru'
+        run: python tools/yandex-positions-ikigaiauto-vl/collect_parallel.py
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/yandex-positions-ikigaiauto-vl/results
+          git commit -m "ikigaiauto-vl positions: early collect $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push || (git fetch origin main && git rebase origin/main && git push)
