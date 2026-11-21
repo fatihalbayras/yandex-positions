@@ -34,8 +34,14 @@ def load_phrases():
 
 
 def exact_freq(phrase):
+    """ТОЧНОЕ соответствие (как в Wordstat при вводе фразы в кавычках) —
+    фраза оборачивается в кавычки в самом запросе; ответ.results[].count
+    ВСЕГДА про широкое соответствие (не меняется от кавычек!) — это баг,
+    найденный 21.11.2026: нужно брать totalCount именно ПРИ запросе в
+    кавычках, а не искать совпадение в results[]."""
+    quoted = f'"{phrase}"'
     body = json.dumps({
-        "phrase": phrase, "numPhrases": 3, "regions": [REGION],
+        "phrase": quoted, "numPhrases": 1, "regions": [REGION],
         "devices": ["DEVICE_ALL"], "folderId": FOLDER_ID,
     }).encode("utf-8")
     req = urllib.request.Request(
@@ -44,11 +50,7 @@ def exact_freq(phrase):
     )
     with urllib.request.urlopen(req, timeout=60) as r:
         d = json.loads(r.read().decode("utf-8"))
-    target = re.sub(r"\s+", " ", phrase.lower())
-    for item in d.get("results", []):
-        if re.sub(r"\s+", " ", item["phrase"].lower()) == target:
-            return int(item["count"])
-    return 0
+    return int(d.get("totalCount", 0))
 
 
 def save(cache):
