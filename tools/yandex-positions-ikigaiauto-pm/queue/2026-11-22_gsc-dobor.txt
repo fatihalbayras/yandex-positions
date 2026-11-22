@@ -1,5 +1,5 @@
-# Добор ikigaiauto.ru из Google Search Console (22.08-20.11.2026), очищено от бренда/конкурентов/мусора/офтопа, 22.11.2026
-# Формат: запрос | тег. Критерий частоты (показы>=30/3мес) НЕ применён — решение пользователя отложено, см. xlsx колонку.
+# Добор ikigaiauto.ru из Google Search Console, очищено от бренда/конкурентов/мусора/офтопа/спеков-топлива, 22.11.2026
+# Формат: запрос | тег
 субару джип | gsc-dobor
 honda crossroad | gsc-dobor
 lexus lc500 | gsc-dobor
@@ -76,7 +76,6 @@ mazda cx80 | gsc-dobor
 kia seltos из кореи купить | gsc-dobor
 авто ексид китайские | gsc-dobor
 авто ексид китайские цена | gsc-dobor
-субару форестер характеристики | gsc-dobor
 lexus lc 500 купить | gsc-dobor
 китайские авто пермь | gsc-dobor
 китайские машины kaiyi | gsc-dobor
@@ -331,7 +330,6 @@ daihatsu terios купить | gsc-dobor
 jimny nomade купить | gsc-dobor
 kia mohave из кореи | gsc-dobor
 nissan juke купить из японии | gsc-dobor
-subaru forester характеристики | gsc-dobor
 toyota premio купить из японии | gsc-dobor
 toyota vellfire аукцион | gsc-dobor
 авто из японии в петербург | gsc-dobor
@@ -1949,7 +1947,6 @@ zeekr zeekr 001 из китая | gsc-dobor
 сузуки джипик | gsc-dobor
 сузуки эвери вагон | gsc-dobor
 танг | gsc-dobor
-технические характеристики | gsc-dobor
 тойота альфард с документами во владивостоке | gsc-dobor
 тойота из японии | gsc-dobor
 тойота из японии купить | gsc-dobor
@@ -2157,7 +2154,6 @@ fj cruiser japan import | gsc-dobor
 fj land cruiser price | gsc-dobor
 forest | gsc-dobor
 forester аукцион | gsc-dobor
-forester характеристики | gsc-dobor
 fuga nissan | gsc-dobor
 fuga машина | gsc-dobor
 fuso rosa | gsc-dobor
@@ -2792,10 +2788,8 @@ yuan plus | gsc-dobor
 вот такую хочу | gsc-dobor
 воя фри из китая | gsc-dobor
 воях из китая | gsc-dobor
-все характеристики | gsc-dobor
 всё полезно | gsc-dobor
 выгодные предложения на китайские авто | gsc-dobor
-габариты | gsc-dobor
 где можно получить новый автомобиль который заказали онлайн | gsc-dobor
 где э | gsc-dobor
 генезис корейский автомобиль | gsc-dobor
@@ -3311,7 +3305,6 @@ yuan plus | gsc-dobor
 растаможка корея | gsc-dobor
 растаможка машины из кореи | gsc-dobor
 растаможка электромобиля из китая калькулятор | gsc-dobor
-расход топлива | gsc-dobor
 расчет авто из китая | gsc-dobor
 расчет авто из японии | gsc-dobor
 расчет авто из японии калькулятор | gsc-dobor
@@ -3459,7 +3452,6 @@ yuan plus | gsc-dobor
 физическое лицо | gsc-dobor
 фольксваген шаран купить из японии | gsc-dobor
 форестер 21 год | gsc-dobor
-форестер характеристики | gsc-dobor
 фотки | gsc-dobor
 фото subaru | gsc-dobor
 фото багажа | gsc-dobor
@@ -3480,8 +3472,6 @@ yuan plus | gsc-dobor
 хавел купить | gsc-dobor
 хайвей машина | gsc-dobor
 хайджет карго | gsc-dobor
-характеристики | gsc-dobor
-характеристики ее | gsc-dobor
 хендаи | gsc-dobor
 хендай виды моделей | gsc-dobor
 хендай из кореи под заказ | gsc-dobor
