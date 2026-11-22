@@ -1,9 +1,10 @@
 name: yandex-positions-onlineastrolog-collect
 
 on:
-  schedule:
-    # 05:10 МСК = 02:10 UTC. Включён обратно 20.11 вечером (см. submit.yml).
-    - cron: '10 2 * * *'
+  # Расписание убрано 22.11.2026 — см. submit.yml: задача закрыта, cron забыли
+  # выключить. Вернуть, когда появится новая задача:
+  # schedule:
+  #   - cron: '10 2 * * *'  # 05:10 МСК
   workflow_dispatch:
 
 permissions:
