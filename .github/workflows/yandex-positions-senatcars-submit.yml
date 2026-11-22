@@ -2,9 +2,10 @@ name: yandex-positions-senatcars-submit
 
 on:
   schedule:
-    # резервный слот 02:30 МСК = 23:30 UTC: срабатывает только если основной dispatch-запуск
-    # (внешний cron -> repository_dispatch, мгновенно) не состоялся; при живом state — no-op
-    - cron: '30 23 * * *'
+    # резервный слот 03:30 МСК = 00:30 UTC: срабатывает только если основной dispatch-запуск
+    # (внешний будильник cron-job.org -> repository_dispatch, 3:00 МСК, мгновенно) не состоялся;
+    # при живом state (submit уже сходил) — no-op
+    - cron: '30 0 * * *'
   workflow_dispatch:
   repository_dispatch:
     # основной мгновенный триггер (внешний cron-сервис) — вне очереди schedule GitHub
