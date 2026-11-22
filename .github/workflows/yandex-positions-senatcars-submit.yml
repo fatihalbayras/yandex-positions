@@ -10,9 +10,10 @@ on:
   repository_dispatch:
     # основной мгновенный триггер (внешний cron-сервис) — вне очереди schedule GitHub
     types: [nightly-submit]
-  repository_dispatch:
-    # мгновенный внешний триггер (дёргается ПК/внешним сервисом) — не зависит от очереди cron GitHub
-    types: [nightly-submit]
+
+concurrency:
+  group: senatcars-submit
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -27,8 +28,8 @@ jobs:
           python-version: '3.12'
       - name: Submit async position requests
         env:
-          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
-          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY_ANATOR }}
+          YANDEX_FOLDER_ID: b1gv617qg15rlnphjoil  # аккаунт Anator-rf (23.11.2026)
           YP_REGION: '75'
           YP_SITE: 'senatcars.ru'
         run: python tools/yandex-positions-senatcars/positions.py submit
@@ -47,8 +48,8 @@ jobs:
       - name: Collect results (early grab)
         if: always()
         env:
-          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
-          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY_ANATOR }}
+          YANDEX_FOLDER_ID: b1gv617qg15rlnphjoil  # аккаунт Anator-rf (23.11.2026)
           YP_REGION: '75'
           YP_SITE: 'senatcars.ru'
         run: python tools/yandex-positions-senatcars/positions.py collect
