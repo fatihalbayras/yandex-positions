@@ -2,7 +2,8 @@ name: yandex-positions-ikigaiauto-pm-submit
 
 on:
   schedule:
-    # 01:30 МСК = 22:30 UTC. Сдвиг от vl (00:00) и ys (00:45) — общий ключ rf-konsalt.
+    # 01:30 МСК = 22:30 UTC (cron-job.org реально бьёт в 01:35 МСК/22:35 UTC).
+    # Сдвиг от vl (00:05) и ys (00:45) — общий ключ rf-konsalt.
     # ⚠️ 21-22.11.2026: schedule не сработал ни разу всю ночь — см. vl-submit.yml.
     # Основной способ запуска — repository_dispatch ниже.
     - cron: '30 22 * * *'

@@ -2,8 +2,9 @@ name: yandex-positions-ikigaiauto-ys-submit
 
 on:
   schedule:
-    # 00:45 МСК = 21:45 UTC. Сдвиг от ikigaiauto-vl (00:00) и pm (01:30) —
-    # все три делят один ключ rf-konsalt, одновременно нельзя.
+    # 00:45 МСК = 21:45 UTC (cron-job.org реально бьёт в 00:50 МСК/21:50 UTC).
+    # Сдвиг от ikigaiauto-vl (00:05) и pm (01:35) — все три делят один ключ
+    # rf-konsalt, одновременно нельзя.
     # ⚠️ 21-22.11.2026: schedule не сработал ни разу всю ночь — см. комментарий
     # в vl-submit.yml. Основной способ запуска — repository_dispatch ниже.
     - cron: '45 21 * * *'
