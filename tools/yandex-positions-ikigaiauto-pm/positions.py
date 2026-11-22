@@ -129,6 +129,40 @@ def collect_sources():
     return sources
 
 
+FRESH_DAYS = int(os.environ.get("YP_FRESH_DAYS", "3"))
+
+
+def fresh_results(today: str):
+    """{keyword_lower: date} — ключи с готовой позицией (без ошибки) за последние FRESH_DAYS дней."""
+    since = (datetime.date.fromisoformat(today) - datetime.timedelta(days=FRESH_DAYS)).isoformat()
+    fresh = {}
+    for f in sorted(RESULTS_DIR.glob("20??-??-??.json")):
+        if not (since <= f.stem < today):
+            continue
+        for kw, rec in json.loads(f.read_text(encoding="utf-8")).get("positions", {}).items():
+            if "error" not in rec:
+                fresh[kw.lower()] = f.stem
+    return fresh
+
+
+def carry_forward(state, results):
+    """Переносит в результаты ночи позиции ключей, пропущенных submit как свежие."""
+    cache = {}
+    for kw, src_date in state.get("carried", {}).items():
+        if kw in results:
+            continue
+        if src_date not in cache:
+            cache[src_date] = {k.lower(): v for k, v in json.loads(
+                (RESULTS_DIR / f"{src_date}.json").read_text(encoding="utf-8"))["positions"].items()}
+        rec = cache[src_date].get(kw.lower())
+        if rec:
+            results[kw] = {**rec, "carriedFrom": src_date}
+
+
+def state_total(state):
+    return len(state["operations"]) + len(state.get("carried", {}))
+
+
 def submit():
     STATE_DIR.mkdir(parents=True, exist_ok=True)
     state_file = STATE_DIR / f"{msk_today()}.json"
@@ -139,11 +173,29 @@ def submit():
     else:
         state = {"date": msk_today(), "region": REGION, "operations": [],
                  "submittedAtMsk": msk_now().isoformat()}
-    already = {(o["keyword"], o.get("source", "base")) for o in state["operations"]}
+    state.setdefault("carried", {})
+    # результаты пишутся по ключу без учёта источника, поэтому и дедуп — только по ключу
+    already = {o["keyword"].lower() for o in state["operations"]}
+    already |= {k.lower() for k in state["carried"]}
+    # многоночная задача: не переотправляем то, что уже собрано в прошлые ночи
+    fresh = fresh_results(state["date"])
 
     for path, source, is_queue in collect_sources():
-        kws = [k for k in read_keyword_file(path, source)
-               if (k["keyword"].lower(), source) not in already]
+        kws = []
+        skipped = 0
+        for k in read_keyword_file(path, source):
+            low = k["keyword"].lower()
+            if low in already:
+                continue
+            if low in fresh:
+                state["carried"][k["keyword"]] = fresh[low]
+                already.add(low)
+                skipped += 1
+                continue
+            already.add(low)
+            kws.append(k)
+        if skipped:
+            print(f"{source}: {skipped} ключей уже собраны за последние {FRESH_DAYS} дн., пропуск")
         if not kws:
             print(f"{source}: новых ключей нет, пропуск")
             if is_queue:
@@ -177,7 +229,6 @@ def submit():
                       file=sys.stderr, flush=True)
                 raise
             state["operations"].append({**kw, "operationId": resp["id"]})
-            already.add((kw["keyword"].lower(), source))
             if i % 10 == 0:
                 print(f"  {source}: отправлено {i}/{len(kws)}", flush=True)
             if i % 50 == 0:
@@ -190,7 +241,9 @@ def submit():
             print(f"{source}: файл перенесён в queue/processed/")
         state_file.write_text(json.dumps(state, ensure_ascii=False, indent=1),
                               encoding="utf-8")
-    print(f"state saved: {state_file} ({len(state['operations'])} операций всего)")
+    state_file.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"state saved: {state_file} ({len(state['operations'])} операций, "
+          f"{len(state['carried'])} перенесено из прошлых ночей)")
 
 
 def parse_serp(xml_text: str):
@@ -227,6 +280,7 @@ def collect(date: str | None = None):
                  "site": SITE_MARKER, "total": 0, "done": 0, "pending": [],
                  "positions": {}})
     results = out["positions"]
+    carry_forward(state, results)
     pending = []
     for i, op in enumerate(state["operations"], 1):
         if op["keyword"] in results:
@@ -239,7 +293,7 @@ def collect(date: str | None = None):
                                       "source": op.get("source", "base"),
                                       "error": f"operation check: {e}"}
             if i % 25 == 0:
-                out.update({"total": len(state["operations"]), "done": len(results),
+                out.update({"total": state_total(state), "done": len(results),
                             "pending": pending})
                 (RESULTS_DIR / f"{state['date']}.json").write_text(
                     json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -266,14 +320,14 @@ def collect(date: str | None = None):
                                       "error": f"xml parse: {e}"}
         if i % 25 == 0:
             print(f"  обработано {i}/{len(state['operations'])}")
-            out.update({"total": len(state["operations"]), "done": len(results),
+            out.update({"total": state_total(state), "done": len(results),
                         "pending": pending})
             (RESULTS_DIR / f"{state['date']}.json").write_text(
                 json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
         time.sleep(0.2)
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     out.update({
-        "total": len(state["operations"]),
+        "total": state_total(state),
         "done": len(results),
         "pending": pending,
     })

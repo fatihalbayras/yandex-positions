@@ -72,6 +72,7 @@ def main():
                  "site": positions.SITE_MARKER, "total": 0, "done": 0, "pending": [],
                  "positions": {}})
     results = out["positions"]
+    positions.carry_forward(state, results)
     pending = []
 
     todo = [op for op in state["operations"] if op["keyword"] not in results]
@@ -84,7 +85,7 @@ def main():
     def save():
         with lock:
             snapshot = dict(out)
-            snapshot.update({"total": len(state["operations"]),
+            snapshot.update({"total": positions.state_total(state),
                              "done": len(results), "pending": pending})
             out_file.write_text(json.dumps(snapshot, ensure_ascii=False, indent=1),
                                 encoding="utf-8")
@@ -107,6 +108,7 @@ def main():
 
     save()
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+    out.update({"total": positions.state_total(state), "done": len(results), "pending": pending})
     (RESULTS_DIR / "latest.json").write_text(
         json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     in_top = sum(1 for r in results.values() if r.get("inTop100"))
