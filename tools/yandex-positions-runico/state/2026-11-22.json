@@ -1,0 +1,1897 @@
+{
+ "date": "2026-11-22",
+ "region": "213",
+ "operations": [
+  {
+   "keyword": "freyr",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprkj4l73kpomqlr5b3g"
+  },
+  {
+   "keyword": "futhark",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr3hlfceut5ljrrcl9g"
+  },
+  {
+   "keyword": "sowilo",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprisu0u5nklkb3n96lu"
+  },
+  {
+   "keyword": "балдр",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprsdp6a3tcv73nuoc01"
+  },
+  {
+   "keyword": "вотан",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprmej2df8p804mf5g9k"
+  },
+  {
+   "keyword": "ругы",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprdik0h4j35617lphdf"
+  },
+  {
+   "keyword": "руна",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sproi87n3pviraetf20v"
+  },
+  {
+   "keyword": "рунны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr7tctqdvr21dsn7ohl"
+  },
+  {
+   "keyword": "руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr88fguha4p6ggrmb01"
+  },
+  {
+   "keyword": "рууны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprtjjcncj37t0l51v7f"
+  },
+  {
+   "keyword": "торм",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spre8labde7bfgd1qdq3"
+  },
+  {
+   "keyword": "футарк",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spra5otusjrfnaumuvfj"
+  },
+  {
+   "keyword": "футарх",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprphhre202a4n4k13b7"
+  },
+  {
+   "keyword": "24 руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr97ij990fd504nmbrl"
+  },
+  {
+   "keyword": "sowilo руна",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr7oj6dd9von2v9mc6t"
+  },
+  {
+   "keyword": "азбука рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprujat14n58bgsu4qm9"
+  },
+  {
+   "keyword": "атт тюра",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr3rkvd41oor757fff3"
+  },
+  {
+   "keyword": "виса фрейе",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvfhqm7bb2gdutkl4g"
+  },
+  {
+   "keyword": "все руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvpr7iiiu7ije62qr6"
+  },
+  {
+   "keyword": "германские руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spru1vg80v2k12ea5vt1"
+  },
+  {
+   "keyword": "древние руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvjpfmgshhciioajj0"
+  },
+  {
+   "keyword": "древняя руна",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprcl6t71ktoebias9p7"
+  },
+  {
+   "keyword": "знаки рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spreoq2rhft2prma9bgg"
+  },
+  {
+   "keyword": "ирк рассчитать",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprakco1fel8t9uiupmg"
+  },
+  {
+   "keyword": "ирк расчет",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spraqgc26q95afv8iq57"
+  },
+  {
+   "keyword": "младший футарк",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spruliia298maia1cqe8"
+  },
+  {
+   "keyword": "название рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprik4qdjcpbm9vih434"
+  },
+  {
+   "keyword": "описание рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprpt6hrggbr3psklf2m"
+  },
+  {
+   "keyword": "подношения фрейе",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr0apl7r4uh51g45on9"
+  },
+  {
+   "keyword": "порядок рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprk1tsqn725jntujn1t"
+  },
+  {
+   "keyword": "послания рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprj15mcqdvtoajpspoa"
+  },
+  {
+   "keyword": "про руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr3utqh2ajdbcbh0b47"
+  },
+  {
+   "keyword": "происхождение рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprohmmhpvn3supd3ckk"
+  },
+  {
+   "keyword": "рог хеймдалля",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprlvj1qqd8nsj8uai09"
+  },
+  {
+   "keyword": "руна 11",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spro2eiq9ellecnc2cql"
+  },
+  {
+   "keyword": "руна 24",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprlp8i63r3nqfeeh5no"
+  },
+  {
+   "keyword": "руна ас",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr76fjhbucq9hj2449s"
+  },
+  {
+   "keyword": "руна дар",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr153r7ungqfna8p2op"
+  },
+  {
+   "keyword": "руна молния",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr5ct4g50nqc5q8se1g"
+  },
+  {
+   "keyword": "руна мужества",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr6a83m4bpr5n7ngl84"
+  },
+  {
+   "keyword": "руна природы",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprqs72c4pjno54tie3b"
+  },
+  {
+   "keyword": "руна радость",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprbv5eeiga20n74283h"
+  },
+  {
+   "keyword": "руна рождения",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprlq100o2fhjbh44mqr"
+  },
+  {
+   "keyword": "руна ромб",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprbjnanovs8n7ctbdqa"
+  },
+  {
+   "keyword": "руна снежинка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprp7sdhdkjhr5tu3k1m"
+  },
+  {
+   "keyword": "руна столкновения",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr7igos64h4kglcdncv"
+  },
+  {
+   "keyword": "руна футарка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprihjhhhsai6ke14rsc"
+  },
+  {
+   "keyword": "руна шип",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr42f4vvebiirrlf771"
+  },
+  {
+   "keyword": "руническая письменность",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spree49c84951v4o2k41"
+  },
+  {
+   "keyword": "рунические знаки",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprot4oernftdm4556j9"
+  },
+  {
+   "keyword": "рунические символы",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr21hnc1tv523mlsjm5"
+  },
+  {
+   "keyword": "рунический алфавит",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprhbmebg6ru4d9ip965"
+  },
+  {
+   "keyword": "рунический гороскоп",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvgfl5snr6bsebfn7l"
+  },
+  {
+   "keyword": "рунический футарк",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprghiemp66rghsp0t1h"
+  },
+  {
+   "keyword": "рунный алфавит",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprlul4nhlepbvg95tpd"
+  },
+  {
+   "keyword": "рунный футарк",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprf1nu0bv04h3b7ld2n"
+  },
+  {
+   "keyword": "руны азбука",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprbn21h9r2k6njho1ac"
+  },
+  {
+   "keyword": "руны алфавит",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprq2qcvggjtrj70r0p4"
+  },
+  {
+   "keyword": "руны викингов",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprg0aqta25osu3v2itf"
+  },
+  {
+   "keyword": "руны жизни",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr79asavh5ti4gj1eh1"
+  },
+  {
+   "keyword": "руны играть",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprv1bv1124ni0b96q4q"
+  },
+  {
+   "keyword": "руны история",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprn228gsp31smrh0aa2"
+  },
+  {
+   "keyword": "руны картинки",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprlk30mlv4kj6o0b8eo"
+  },
+  {
+   "keyword": "руны книга",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprr1e3a019bfkqc3iue"
+  },
+  {
+   "keyword": "руны названия",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr7mhbr7er7e240mk5v"
+  },
+  {
+   "keyword": "руны объединение",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprtaub6iotnd7l596oq"
+  },
+  {
+   "keyword": "руны онлайн",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr2mrfb4h97s7l913ki"
+  },
+  {
+   "keyword": "руны описание",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr1fran22adogfmbcuu"
+  },
+  {
+   "keyword": "руны природы",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprtrn1upl7v08qmkf2u"
+  },
+  {
+   "keyword": "руны сайт",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprsfvugbum330n58bs2"
+  },
+  {
+   "keyword": "руны символы",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprdhtoosqg4tu8mfoq4"
+  },
+  {
+   "keyword": "руны скачать",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprgnsai52ehadpplsh2"
+  },
+  {
+   "keyword": "руны славян",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spriipktplr5b4bo9n47"
+  },
+  {
+   "keyword": "руны словарь",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprg687fi90mp5p5p4sq"
+  },
+  {
+   "keyword": "руны список",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr892413ch691s82nmu"
+  },
+  {
+   "keyword": "руны трактовка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spriufb8nhlbrejte02q"
+  },
+  {
+   "keyword": "руны цифры",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprjavsni67tchstc6k7"
+  },
+  {
+   "keyword": "руны это",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprm0mknkv23mfasbeo3"
+  },
+  {
+   "keyword": "руны/1 атт",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprmp4gnhu8ffsome7ck"
+  },
+  {
+   "keyword": "символика рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprqrbiil4casm3fd6j6"
+  },
+  {
+   "keyword": "символы рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprsjar5h6t1g2klgku3"
+  },
+  {
+   "keyword": "скандинавские руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sproqlsd2oeudr0jtjtn"
+  },
+  {
+   "keyword": "словарь рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr5o18gal17de376c06"
+  },
+  {
+   "keyword": "смысл рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr1j7rdepdrke4opb5t"
+  },
+  {
+   "keyword": "снежинка руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvec5t7psk8clacqvm"
+  },
+  {
+   "keyword": "список рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr601p2572iam0l7vs8"
+  },
+  {
+   "keyword": "старшие руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprpd7i7smrdvehnt52d"
+  },
+  {
+   "keyword": "старший фуртак",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprtb0eeb26lbo1nf71h"
+  },
+  {
+   "keyword": "старший футарк",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprjtf6vem53gl7t5fj6"
+  },
+  {
+   "keyword": "старший футарх",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprj5ei70i6n34rncmf2"
+  },
+  {
+   "keyword": "фуртак рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprlagieqh5nlnlp3dq1"
+  },
+  {
+   "keyword": "футарк рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprfdc12pnrotjm24egv"
+  },
+  {
+   "keyword": "футарк руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spre943rsevpksal58ja"
+  },
+  {
+   "keyword": "футарк это",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprp5ug7mc7sv7h8k29f"
+  },
+  {
+   "keyword": "24 руны футарка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprb4g1354ferbslripa"
+  },
+  {
+   "keyword": "4 руна футарка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprrckeeng0tr8qc65vl"
+  },
+  {
+   "keyword": "aenfhr 4 'nn",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprpns9ujsbm3ffirv84"
+  },
+  {
+   "keyword": "все руны картинки",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr26dn1i418l8t0s71m"
+  },
+  {
+   "keyword": "все руны фото",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprpkosv21og0n97mf4s"
+  },
+  {
+   "keyword": "все скандинавские руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprsrvm0cs1tcn2j8ar2"
+  },
+  {
+   "keyword": "игра руны объединение",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprgnfq32cn9nq5sk9i5"
+  },
+  {
+   "keyword": "ирк рассчитать онлайн",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr6notdaklmfrhn60qr"
+  },
+  {
+   "keyword": "как читать руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprm472kt7i22hublf6l"
+  },
+  {
+   "keyword": "какие бывают руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprpqgqj1114oeobj2n9"
+  },
+  {
+   "keyword": "название всех рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprguu9h5apa6pv7du6g"
+  },
+  {
+   "keyword": "названия рун скандинавских",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprbpbhb29b9d7v83gnr"
+  },
+  {
+   "keyword": "огонь девяти миров",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprro8mn459gp63n7137"
+  },
+  {
+   "keyword": "первый атт футарка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spre176tlopcvou0pr5o"
+  },
+  {
+   "keyword": "руна старшего футарка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr17nbcsu03l49eea8j"
+  },
+  {
+   "keyword": "рунические символы славян",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvvrbdjagseftth1q1"
+  },
+  {
+   "keyword": "рунический алфавит футарк",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spranmb5g6gsrqf5usue"
+  },
+  {
+   "keyword": "рунический футарк скандинавский",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spre5tsjnouijjkh14ks"
+  },
+  {
+   "keyword": "руны 2 атт",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprtpjc46hqu3cvu34p3"
+  },
+  {
+   "keyword": "руны высшего футарка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprno8l6upr98i8etoup"
+  },
+  {
+   "keyword": "руны для начинающих",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr4d75s0h0d6qio4u2r"
+  },
+  {
+   "keyword": "руны и знаки",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr46321apvtpaddi39a"
+  },
+  {
+   "keyword": "руны и их",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprdvbkr4iumcmnjrih0"
+  },
+  {
+   "keyword": "руны и символы",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprkgmsd1ju0b0lans6h"
+  },
+  {
+   "keyword": "руны и смыслы",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr910oephek7u6se51v"
+  },
+  {
+   "keyword": "руны на деньги",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr8g7j7anbrkocr3tll"
+  },
+  {
+   "keyword": "руны онлайн бесплатно",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr1ju42oj34csp4cqnm"
+  },
+  {
+   "keyword": "руны первого атта",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprekol7lcpehbiseso9"
+  },
+  {
+   "keyword": "руны по порядку",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprr857qrg81686mcev9"
+  },
+  {
+   "keyword": "руны с названиями",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvohnkbq64fa24rl6s"
+  },
+  {
+   "keyword": "руны с описанием",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr3bhsqfusiml2r5il9"
+  },
+  {
+   "keyword": "руны сколько их",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprtq9n77k086v5hue93"
+  },
+  {
+   "keyword": "руны старшего футарка",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprtjn9tk1b765pggsrc"
+  },
+  {
+   "keyword": "руны старшего футарха",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprpic0hp9cevk4jhqem"
+  },
+  {
+   "keyword": "совместимость по рунам",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprth1lsl5vfpqusd9gk"
+  },
+  {
+   "keyword": "старший футарк руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprodmea14tpdnfme8me"
+  },
+  {
+   "keyword": "фото всех рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprqf8249f4ifs0kdsmg"
+  },
+  {
+   "keyword": "футарк скандинавских рун",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr20va51qlbvotlg93p"
+  },
+  {
+   "keyword": "что значат руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprma956v7mcqav7ktr3"
+  },
+  {
+   "keyword": "что значит руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr79mt5oaqioh4ta071"
+  },
+  {
+   "keyword": "что обозначает руна",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr3rpgrq7pnp27c9ir7"
+  },
+  {
+   "keyword": "что обозначают руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprtp0ab1nif96csi4fl"
+  },
+  {
+   "keyword": "что означает руна",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprp40gkdrke6t52q0nc"
+  },
+  {
+   "keyword": "что означают руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr6slsf6c0sbqrme9r4"
+  },
+  {
+   "keyword": "что такое руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spru7jetsf53ib4kebep"
+  },
+  {
+   "keyword": "ᛒᛁᛏ:ᚹᛟᛁᚾᛟᛗ:ᛉᚾᚨᚲᚺᛁᛏ:ᛉᚺᛁᛏ:ᚹᛖᚲᚺᚾᛟ что значит",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spreop9jb72q6dlbjacp"
+  },
+  {
+   "keyword": "все руны с названиями",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprja9lkcolf5uaprn56"
+  },
+  {
+   "keyword": "ирк руны онлайн расчет",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr9g8apn2dt0nt7okrv"
+  },
+  {
+   "keyword": "рассчитать ирк у меньшиковой",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprr6k4i2j5ktgv4u6ju"
+  },
+  {
+   "keyword": "руна молния что означает",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spremio1t2kma8qpfnpp"
+  },
+  {
+   "keyword": "руна ромбик с ножками",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprb01ok23voe35f3r2c"
+  },
+  {
+   "keyword": "руна спокойствия и гармонии",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr9ol7koaenngg0keh2"
+  },
+  {
+   "keyword": "рунический гороскоп на завтра",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprqf3fhfh27a3p8r3so"
+  },
+  {
+   "keyword": "руны и их названия",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprald409i5d9jjq3hup"
+  },
+  {
+   "keyword": "руны и их описание",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr0223t3pi1sh27kkrc"
+  },
+  {
+   "keyword": "руны изображение и название",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr48lga36nmi0n510en"
+  },
+  {
+   "keyword": "руны по дню рождения",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr9unld0iioa9p3aopa"
+  },
+  {
+   "keyword": "руны с названиями таблица",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr3h8o577l33p9hk767"
+  },
+  {
+   "keyword": "руны список с названиями",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr828mvc3426mgnt1js"
+  },
+  {
+   "keyword": "руны фото и название",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvcs46ufladioedovh"
+  },
+  {
+   "keyword": "руны фото и описание",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvigduodhauu6rtnch"
+  },
+  {
+   "keyword": "руны фото с названиями",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprjlli3fidjt3edlrms"
+  },
+  {
+   "keyword": "руны что означает каждая",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprmpvkdnn0d9d1451qh"
+  },
+  {
+   "keyword": "руны ᛖ︍ᛁᛝᛃ как расшифровывается",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprhrk7m576r9fop2qj2"
+  },
+  {
+   "keyword": "скандинавские руны старший футарк",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr0qu6qadutei24sqc3"
+  },
+  {
+   "keyword": "сколько всего рун скандинавских",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprla0h2obb8k6b3p2m4"
+  },
+  {
+   "keyword": "сколько рун в футарке",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr77o7clk69mlpvdcng"
+  },
+  {
+   "keyword": "список рун с названиями",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprv68p0brju6fl0joqp"
+  },
+  {
+   "keyword": "старший футарк 24 руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprof888u1if6b2v3dt6"
+  },
+  {
+   "keyword": "старший футарк что это",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprdt3dtu383do1dgonr"
+  },
+  {
+   "keyword": "трактовка рун ,юнгианский анализ",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvv12k22jd1e7c36ip"
+  },
+  {
+   "keyword": "что означает каждая руна",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr5sf0sblu6frng44u7"
+  },
+  {
+   "keyword": "что означает эта руна",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprihrgpi0ahi7a5kkvi"
+  },
+  {
+   "keyword": "ᛊ︍ᛗ︍ᛖ︍ᚱ︍ᛏ︍᛫ᚾ︍ᛖ︍᛫ᛊ︍ᛏ︍ᚱ︍ᚨ︍ᛊᛃᚾ︍ᚨ︍,᛫ᛉᛃᛁ︍ᚹ︍ᚢ︌ᛊᛃᛖ︍ᛗ︍ᚢ︌᛫ᚾ︍ᚨ︍᛫ᚷ︍ᚱ︍ᚨ︍ᚾ︍ᛁ︍ перевод на русский",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spruahbn8u5o07p6frde"
+  },
+  {
+   "keyword": "njord / njörðr — «сильный",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprouhi9ae7j5rvljpgb"
+  },
+  {
+   "keyword": "pyfxtybt rf;ljq heys cnfhituj aenfhrf",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprjk8pnh4ho85tj6him"
+  },
+  {
+   "keyword": "название рун и их изображение",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spri05r9bt3agjfj9dau"
+  },
+  {
+   "keyword": "руны для начинающих урок 3",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr0bsii50jmuk1r5j1s"
+  },
+  {
+   "keyword": "руны для начинающих урок 5",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprh2g73bsncug7r3s49"
+  },
+  {
+   "keyword": "руны и что они означают",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprvg91c170abhi399up"
+  },
+  {
+   "keyword": "руны старший футарк по порядку",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spru36lf3er8o4q47hou"
+  },
+  {
+   "keyword": "сколько рун в скандинавских рунах",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprfr1l2mctm4mqo3009"
+  },
+  {
+   "keyword": "сколько рун в старшем футарке",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr3pidd96c0hddkrvge"
+  },
+  {
+   "keyword": "рунный алфавит с переводом на русский",
+   "tag": "home",
+   "source": "base",
+   "operationId": "spr1bapkds65ekc8hrls"
+  },
+  {
+   "keyword": "руны какие бывают и что означают",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprib1bjahqbs6mb1h4b"
+  },
+  {
+   "keyword": "‎ᛣ ᛋᛚᚨᚹᚨ:ᚱᛟᛞᚢ⚡︎⚡︎  ᛉ ‎что обозначают такие руны",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprl795v1cfranr494va"
+  },
+  {
+   "keyword": "руна дня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spriqeu92d6p2f1jgkv5"
+  },
+  {
+   "keyword": "рунические расклады",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr4p68qf4j1151n594s"
+  },
+  {
+   "keyword": "бросить руны онлайн",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprdal9tcabjuongcr5h"
+  },
+  {
+   "keyword": "вуньо руна дня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr9vo1tj0u6ujd6k54s"
+  },
+  {
+   "keyword": "гадание на рунах",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprcqmkt0v3jp3hg4j0j"
+  },
+  {
+   "keyword": "иса руна дня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr4he4pkdic83ge79rg"
+  },
+  {
+   "keyword": "кеназ руна дня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr0sfnkr3fpq5km813a"
+  },
+  {
+   "keyword": "расклад на рунах",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprp22n2aanbcs9d4pgc"
+  },
+  {
+   "keyword": "руна дня архангел",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprukkrl7mgfuh5oe89l"
+  },
+  {
+   "keyword": "руна дня гебо",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr900mcqu7ejfib0731"
+  },
+  {
+   "keyword": "руна дня онлайн",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprrutn33a1f2vbuiamg"
+  },
+  {
+   "keyword": "руна дня хагалаз",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprepl7dhmkjqd7g1k11"
+  },
+  {
+   "keyword": "случайная руна онлайн",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprfthe0vohfjqdk93tb"
+  },
+  {
+   "keyword": "турисаз руна дня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprm1m53o75e67db9sr5"
+  },
+  {
+   "keyword": "эваз руна дня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprsnphdgm5t4rl25gfh"
+  },
+  {
+   "keyword": "эйваз руна дня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprahdl7ffo2aamr6s0v"
+  },
+  {
+   "keyword": "гадание на рунах архангел",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprbmgrdupb71uqshsf6"
+  },
+  {
+   "keyword": "гадание на рунах бесплатно",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprgta7oda7u9a0jtkom"
+  },
+  {
+   "keyword": "гадание на рунах онлайн",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprrscjv3fasempq0uqh"
+  },
+  {
+   "keyword": "значение рун в гадании",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprjqt8kl7hiql2fecf8"
+  },
+  {
+   "keyword": "значение рун при гадании",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr2coq00aukok8bpmn0"
+  },
+  {
+   "keyword": "расклад на рунах онлайн",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprs29gucp5fsjp73kfi"
+  },
+  {
+   "keyword": "руна дня на завтра",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr89odc3gc5cgkopmi6"
+  },
+  {
+   "keyword": "руна дня на сегодня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprlfrel39jqarqqfa4s"
+  },
+  {
+   "keyword": "руны значение в гадании",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprksljvp2jntvr202kj"
+  },
+  {
+   "keyword": "хагалаз руна дня значение",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr0ej2s1dtb8e95ua5t"
+  },
+  {
+   "keyword": "гадание на рунах на будущее",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprha5pjp8i8tkk966af"
+  },
+  {
+   "keyword": "гадание на рунах на здоровье",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprsrfdce1bb7k20nm1v"
+  },
+  {
+   "keyword": "гадание на рунах на любовь",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr8mp1q4ishm8fsr4s3"
+  },
+  {
+   "keyword": "гадание на рунах на работу",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprsh71hs441j40gefoa"
+  },
+  {
+   "keyword": "гадание на рунах на сегодня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprqs6ntm8og8f86nqi8"
+  },
+  {
+   "keyword": "гадание на рунах на ситуацию",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprap4mfgtcs3m3cp3n5"
+  },
+  {
+   "keyword": "гадание на рунах онлайн бесплатно",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprv2cqu3ocr9mqqt51f"
+  },
+  {
+   "keyword": "гадание на рунах старший футарк",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprtkcqcff6s8bj5uhe6"
+  },
+  {
+   "keyword": "значение скандинавских рун при гадании",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spro4ruold1l6u2va8od"
+  },
+  {
+   "keyword": "расклад на рунах на отношения",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spresdn2st44jpoo2934"
+  },
+  {
+   "keyword": "расклад на рунах онлайн бесплатно",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprlu8e96bhh6v0fqtgr"
+  },
+  {
+   "keyword": "руна дня дагаз значение совет",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprqt17ief94ms9up4fq"
+  },
+  {
+   "keyword": "гадание на рунах да или нет",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprifu3qvva8ksq1uug3"
+  },
+  {
+   "keyword": "гадание на рунах на ближайшее будущее",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spro7do4ff71hj484cfe"
+  },
+  {
+   "keyword": "гадание на рунах онлайн бесплатно архангел",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr1on5rd4ng8bqnj7rk"
+  },
+  {
+   "keyword": "расклад на рунах на ближайшее будущее",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr96ogr2g2445od2vqa"
+  },
+  {
+   "keyword": "руна дня гадание онлайн на сегодня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spr79789ufip9p4e418j"
+  },
+  {
+   "keyword": "руна дня на сегодня для меня",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "sprg97botb4k9qsu8lhc"
+  },
+  {
+   "keyword": "руны и их значение в гадании",
+   "tag": "gadanie.html",
+   "source": "base",
+   "operationId": "spro1t46ams7pkf2jlr3"
+  },
+  {
+   "keyword": "рунокод",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprt9gmqjnbs89m07cv6"
+  },
+  {
+   "keyword": "рассчитать рунокод",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprbui6dbm9ogm6rl40f"
+  },
+  {
+   "keyword": "расчет рунокода",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spraar8uhnfhuhmnjuh8"
+  },
+  {
+   "keyword": "рунический код",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spr85vnetrijpp1s3udd"
+  },
+  {
+   "keyword": "рунокод онлайн",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprtq7co23bgl1o29ghl"
+  },
+  {
+   "keyword": "индивидуальный рунический код",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprr7ucqn64nc86dlvhe"
+  },
+  {
+   "keyword": "рассчитать рунический код",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprraq7ns2lrh98et2p1"
+  },
+  {
+   "keyword": "как узнать свою руну",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprmefeld2rvbil9no02"
+  },
+  {
+   "keyword": "рассчитать индивидуальный рунический код",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprqlbh9dc6dt7f80ocm"
+  },
+  {
+   "keyword": "руна по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprovttcst4mlgjg305v"
+  },
+  {
+   "keyword": "рунический код рассчитать онлайн",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprd427idrdravbvcdr8"
+  },
+  {
+   "keyword": "руны по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprlc6ahau1t4v5f6tj1"
+  },
+  {
+   "keyword": "индивидуальный рунический код расчет онлайн",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprndnr9kikell2pj985"
+  },
+  {
+   "keyword": "какая руна по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprmgc58qrmaucoocbsd"
+  },
+  {
+   "keyword": "рассчитать индивидуальный рунический код онлайн",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprajvhsigtc1f90tqgq"
+  },
+  {
+   "keyword": "руна по дате рождения рассчитать",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprfrvgi8k9e8rradm0p"
+  },
+  {
+   "keyword": "рунический гороскоп по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spr26u5vda4odre2a5qb"
+  },
+  {
+   "keyword": "рунический код по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spr8df8ujv62an6u7l3j"
+  },
+  {
+   "keyword": "руны по дате рождения рассчитать",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spr19matk2g6ojsqnbgq"
+  },
+  {
+   "keyword": "скандинавская руна по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprgtt9gdmfpet1jt1ob"
+  },
+  {
+   "keyword": "скандинавские руны по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spr3g57i7r7nmrh5v43d"
+  },
+  {
+   "keyword": "какая руна подходит по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprsv63nebnou2qr5i93"
+  },
+  {
+   "keyword": "какие руны подходят по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprue946ua88038jo9f7"
+  },
+  {
+   "keyword": "руна по дате рождения рассчитать онлайн",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spr6929mdqsk6jsb5o50"
+  },
+  {
+   "keyword": "рунический код рассчитать онлайн с расшифровкой",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprfdqsncia2mkn3ehe7"
+  },
+  {
+   "keyword": "рунический код: лагуз, райдо, тейваз, расшифровать",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spr0sp16o3tfm3u4p4nu"
+  },
+  {
+   "keyword": "руны по дате рождения рассчитать онлайн",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprpvooofoe1h14reapt"
+  },
+  {
+   "keyword": "как узнать свою руну по дате рождения",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "spraj8ic9voqa848dgqo"
+  },
+  {
+   "keyword": "руны по дате рождения и знаку зодиака",
+   "tag": "runicheskiy-kod.html",
+   "source": "base",
+   "operationId": "sprijc72vm8qc83d2g36"
+  },
+  {
+   "keyword": "значение руг",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spro627ss6tpl10mah2a"
+  },
+  {
+   "keyword": "значение рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr8p75oqdu6d1pratkd"
+  },
+  {
+   "keyword": "обозначение рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprc68d7pfj4s2uc0k35"
+  },
+  {
+   "keyword": "расшифровка рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprb021v7s980omo5vgt"
+  },
+  {
+   "keyword": "ругы значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr775u9g2kppj5h03o0"
+  },
+  {
+   "keyword": "руны обозначение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprkv3d341fpo3mqd0kv"
+  },
+  {
+   "keyword": "руны расшифровка",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprl8ac90db1tso1ie62"
+  },
+  {
+   "keyword": "руны толкование",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprj63vcq0d8gm7qqmn8"
+  },
+  {
+   "keyword": "толкование рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprd4huonbqk0pqslca3"
+  },
+  {
+   "keyword": "значение всех рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr6vudj5noiateekecd"
+  },
+  {
+   "keyword": "значение каждой руны",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr01i5rhdirlrk9luol"
+  },
+  {
+   "keyword": "значение рун футарка",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprvvenqmgneg18p8mvr"
+  },
+  {
+   "keyword": "значение рунических символов",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr9g5u1q4m9f1r4btv0"
+  },
+  {
+   "keyword": "значение скандинавских рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr7rtuanm81tk60cd9a"
+  },
+  {
+   "keyword": "перевернутые руны значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprpf0ufq0se6g0f5qqv"
+  },
+  {
+   "keyword": "расшифровка рун онлайн",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprvsc1ilirab7lmb53k"
+  },
+  {
+   "keyword": "расшифровка рун скандинавских",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr0geukvljav4l3g8rk"
+  },
+  {
+   "keyword": "расшифровка рунических символов",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprlhtac21bnhmc5b3c8"
+  },
+  {
+   "keyword": "руны значение символов",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprc7ggqb3e4205tm2cr"
+  },
+  {
+   "keyword": "руны обозначение символов",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprb8fhtv1tp5g44s198"
+  },
+  {
+   "keyword": "руны расшифровка символов",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprg4fi63tpquc75ti53"
+  },
+  {
+   "keyword": "руны с расшифровкой",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprvpfg9f04441nfh499"
+  },
+  {
+   "keyword": "руны со значением",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spruh7lnpt2ggbsnt2d7"
+  },
+  {
+   "keyword": "скандинавские руны расшифровка",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr25bembbb1kgc6lo28"
+  },
+  {
+   "keyword": "толкование рун скандинавских",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprncisci19997u9jqcr"
+  },
+  {
+   "keyword": "футарк значение рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprhkplbcn0o1nmmo4qv"
+  },
+  {
+   "keyword": "название и обозначение рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprgkqu3iql9q7ss2ard"
+  },
+  {
+   "keyword": "обозначение рун их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprn1j4o8k2qbs1en8mn"
+  },
+  {
+   "keyword": "оуны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr7pnphqbbrlu97svof"
+  },
+  {
+   "keyword": "руна и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr9kf4r7prj9jk2dpue"
+  },
+  {
+   "keyword": "руны значение и толкование",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprv4hjcv6kcc4cgngvs"
+  },
+  {
+   "keyword": "руны и значение рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr8dmerj36f4p5skj5q"
+  },
+  {
+   "keyword": "руны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprcc36f9ctfqc4t6to8"
+  },
+  {
+   "keyword": "руны и их обозначения",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprhi0vasnml1kor9j5t"
+  },
+  {
+   "keyword": "руны изображение и значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprhtsl7r5mjcaf91sf9"
+  },
+  {
+   "keyword": "руны картинки и значения",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprsnr64sabak18048oo"
+  },
+  {
+   "keyword": "руны названия и значения",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr0n7fqm11gnsou1qv8"
+  },
+  {
+   "keyword": "руны описание и значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprgb7pfllbf8tt0k2bk"
+  },
+  {
+   "keyword": "руны рисунок и значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprf85nol8d2m7ntho6b"
+  },
+  {
+   "keyword": "старший футарк значение рун",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprj4v7nr5k9nptsa6ar"
+  },
+  {
+   "keyword": "что обозначают руны расшифровка",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprbp0ojjrioeao3k3cc"
+  },
+  {
+   "keyword": "24 руны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr1gusgcmnvdurr23go"
+  },
+  {
+   "keyword": "алфавит рун и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprqhfuirui0gu0bfe69"
+  },
+  {
+   "keyword": "алфавит руны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprolhvhpil6jd6rg37j"
+  },
+  {
+   "keyword": "виды рун и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr7g8ff0ifocka2dvr8"
+  },
+  {
+   "keyword": "все руны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spra0c3u2sq1g316ebht"
+  },
+  {
+   "keyword": "древние руны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprh7ttf347mkrkj5157"
+  },
+  {
+   "keyword": "знаки рун и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprlib8k393b4gg81ohh"
+  },
+  {
+   "keyword": "знаки руны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spru17e784ijufrh3i8k"
+  },
+  {
+   "keyword": "значения рун и их толкования",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprj1k708la92pfjkcn4"
+  },
+  {
+   "keyword": "изображение рун и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr408o5t1j4021irs7j"
+  },
+  {
+   "keyword": "картинки руны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr0lrhum1fegkupohqj"
+  },
+  {
+   "keyword": "названия рун и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spri5dhn5toq4lkteo5v"
+  },
+  {
+   "keyword": "обозначения рун и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr9poog9ti9v69dpc6p"
+  },
+  {
+   "keyword": "описание рун и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr3fd7s81rhavf8hqsu"
+  },
+  {
+   "keyword": "показать руны и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprp80lhf7rh6b8d2mki"
+  },
+  {
+   "keyword": "рисунки рун и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprakrs9lrf1oars00at"
+  },
+  {
+   "keyword": "рунические символы и их значения",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spru9q2loki9vrp8ivv9"
+  },
+  {
+   "keyword": "руны ,их обозначения ,их действия",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "spr3euamfm6i2ceab7er"
+  },
+  {
+   "keyword": "руны викингов и их значение",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprih0t9o3fh9bt9om4e"
+  },
+  {
+   "keyword": "руны значение символов и описание",
+   "tag": "runes",
+   "source": "base",
+   "operationId": "sprietran5njpgnv14vu"
+  }
+ ],
+ "submittedAtMsk": "2026-11-22T04:41:48.767773"
+}
