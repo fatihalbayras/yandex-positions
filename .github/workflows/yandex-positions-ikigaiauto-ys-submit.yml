@@ -24,8 +24,8 @@ jobs:
           python-version: '3.12'
       - name: Submit async position requests
         env:
-          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
-          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY_RFKONSALT }}
+          YANDEX_FOLDER_ID: b1g08otc7dmb1kq48mc8
           YP_REGION: '80'
           YP_SITE: 'ikigaiauto.ru'
         run: python tools/yandex-positions-ikigaiauto-ys/positions.py submit
@@ -44,8 +44,8 @@ jobs:
       - name: Collect results (parallel, early grab)
         if: always()
         env:
-          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
-          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY_RFKONSALT }}
+          YANDEX_FOLDER_ID: b1g08otc7dmb1kq48mc8
           YP_REGION: '80'
           YP_SITE: 'ikigaiauto.ru'
         run: python tools/yandex-positions-ikigaiauto-ys/collect_parallel.py
