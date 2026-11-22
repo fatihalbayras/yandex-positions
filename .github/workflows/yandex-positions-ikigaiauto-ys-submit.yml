@@ -2,14 +2,14 @@ name: yandex-positions-ikigaiauto-ys-submit
 
 on:
   schedule:
-    # 02:10 МСК = 23:10 UTC (отложенный режим Search API: окно 00:00-06:00 МСК).
-    # Сдвиг от ikigaiauto-vl (00:15) и других сайтов — общая квота 1 запрос/сек на API-ключ.
-    - cron: '10 23 * * *'
-    # Фоллбэк на сегодня (21.11.2026): соседний слот vl не сработал по расписанию
-    # (GitHub задержал schedule) — подстраховка почти через час, чтобы точно
-    # забрать очередь (queue/*-dobor.txt) в эту же ночь.
-    - cron: '10 0 * * *'
+    # 00:45 МСК = 21:45 UTC. Сдвиг от ikigaiauto-vl (00:00) и pm (01:30) —
+    # все три делят один ключ rf-konsalt, одновременно нельзя.
+    # ⚠️ 21-22.11.2026: schedule не сработал ни разу всю ночь — см. комментарий
+    # в vl-submit.yml. Основной способ запуска — repository_dispatch ниже.
+    - cron: '45 21 * * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [ikigaiauto-ys-nightly-submit]
 
 permissions:
   contents: write

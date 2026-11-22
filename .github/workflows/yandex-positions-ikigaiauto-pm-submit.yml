@@ -2,13 +2,13 @@ name: yandex-positions-ikigaiauto-pm-submit
 
 on:
   schedule:
-    # 02:45 МСК = 23:45 UTC (отложенный режим Search API: окно 00:00-06:00 МСК).
-    # Сдвиг от ikigaiauto-vl (01:15) и ikigaiauto-ys (02:10) — общая квота 1 запрос/сек на API-ключ.
-    - cron: '45 23 * * *'
-    # Фоллбэк на сегодня (21.11.2026): соседние слоты сегодня уже показали
-    # задержку GitHub schedule — подстраховка в пределах окна (до 03:00 UTC).
-    - cron: '45 0 * * *'
+    # 01:30 МСК = 22:30 UTC. Сдвиг от vl (00:00) и ys (00:45) — общий ключ rf-konsalt.
+    # ⚠️ 21-22.11.2026: schedule не сработал ни разу всю ночь — см. vl-submit.yml.
+    # Основной способ запуска — repository_dispatch ниже.
+    - cron: '30 22 * * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [ikigaiauto-pm-nightly-submit]
 
 permissions:
   contents: write
