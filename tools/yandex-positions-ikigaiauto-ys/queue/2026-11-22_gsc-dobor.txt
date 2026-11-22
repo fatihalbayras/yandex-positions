@@ -1,4 +1,4 @@
-# Добор ikigaiauto.ru из Google Search Console (22.08-20.11.2026), очищено от бренда/конкурентов/мусора, 22.11.2026
+# Добор ikigaiauto.ru из Google Search Console (22.08-20.11.2026), очищено от бренда/конкурентов/мусора/офтопа, 22.11.2026
 # Формат: запрос | тег
 субару джип | gsc-dobor
 honda crossroad | gsc-dobor
@@ -1084,7 +1084,6 @@ toyota origin | gsc-dobor
 toyota rush купить из японии | gsc-dobor
 toyota voxy купить из японии | gsc-dobor
 toyota из японии купить с доставкой | gsc-dobor
-ulsan запчасти | gsc-dobor
 used byd | gsc-dobor
 авто из | gsc-dobor
 авто из китая барнаул | gsc-dobor
@@ -3455,7 +3454,6 @@ yuan plus | gsc-dobor
 укажи стоимость | gsc-dobor
 уралавтоимпорт пермь | gsc-dobor
 фабула иж | gsc-dobor
-фары | gsc-dobor
 фджей крузер | gsc-dobor
 физ лицо | gsc-dobor
 физическое лицо | gsc-dobor
@@ -3542,7 +3540,6 @@ yuan plus | gsc-dobor
 что за аппарат? | gsc-dobor
 что за аукцион | gsc-dobor
 что за комплектация | gsc-dobor
-что за магнитола | gsc-dobor
 что за мерс | gsc-dobor
 что за мерседес? | gsc-dobor
 что за модель машины | gsc-dobor
