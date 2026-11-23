@@ -5,9 +5,10 @@ name: yandex-positions-senatcars-submit-fallback
 # Скрипт идемпотентен: повторный submit мёржится с state, уже отправленные ключи пропускает.
 
 on:
-  schedule:
-    # 01:41 МСК = 22:41 UTC
-    - cron: '41 22 * * *'
+  # schedule снят 23.11.2026 (отправка 23.11 выполнена, будильник cron-job.org 8894868 отключён; ПРОЧТИ-МЕНЯ §19.12) — вернуть при новой задаче:
+  # schedule:
+  #   # 01:41 МСК = 22:41 UTC
+  #   - cron: '41 22 * * *'
   workflow_dispatch:
 
 concurrency:
