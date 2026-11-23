@@ -2,8 +2,8 @@
  "date": "2026-11-23",
  "region": "75",
  "site": "senatcars.ru",
- "total": 0,
- "done": 0,
+ "total": 7535,
+ "done": 7535,
  "pending": [],
  "positions": {
   "maserati купить": {
@@ -724,26 +724,6 @@
     "korean.sferacar.ru",
     "autosender.ru",
     "auto.ru"
-   ]
-  },
-  "jeep wrangler 2.0 rubicon 4door tuscadero edition характеристики": {
-   "tag": "ключи общие",
-   "source": "base",
-   "position": 29,
-   "url": "https://senatcars.ru/korean/catalog/Jeep",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "limcars.ru",
-    "xn--80ajmbrnhegd6cwc.xn--p1ai",
-    "www.drom.ru",
-    "www.drom.ru",
-    "dzen.ru",
-    "5koleso.ru",
-    "www.drom.ru",
-    "auto.ru",
-    "www.drive2.ru",
-    "www.zr.ru"
    ]
   },
   "kia k5 1.6 turbo signature": {
@@ -4766,26 +4746,6 @@
     "korean.sferacar.ru"
    ]
   },
-  "audi rsq8 расход 40 литров": {
-   "tag": "ключи общие",
-   "source": "base",
-   "position": 43,
-   "url": "https://senatcars.ru/korean/catalog/Audi",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "www.drive2.ru",
-    "auto.ru",
-    "www.drom.ru",
-    "auto.ru",
-    "www.drive2.ru",
-    "www.drive2.ru",
-    "offroadclub.ru",
-    "auto.ru",
-    "www.drive2.ru",
-    "www.auto-data.net"
-   ]
-  },
   "ferrari из кореи": {
    "tag": "из Кореи2",
    "source": "base",
@@ -7804,26 +7764,6 @@
     "koreacars.me",
     "korea.jpstar.ru",
     "autosender.ru"
-   ]
-  },
-  "kia ray van prestige(1seater) zv-auto.ru": {
-   "tag": "ключи общие",
-   "source": "base",
-   "position": 23,
-   "url": "https://senatcars.ru/korean/car/kia-ray-van-prestige(1seater)-2wd-42173844?id=Kia%20RAY%20Van%20Prestige(1Seater)%202WD19269",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "www.drom.ru",
-    "www.avito.ru",
-    "koreacars.me",
-    "limcars.ru",
-    "trust-encar.ru"
    ]
   },
   "kia ray van prestige(1seater)": {
@@ -20083,26 +20023,6 @@
     "korean.sferacar.ru",
     "koreacars.me",
     "regionauto.org",
-    "encarrus.ru"
-   ]
-  },
-  "ауди из кореи авито": {
-   "tag": "ключи общие",
-   "source": "base",
-   "position": 18,
-   "url": "https://senatcars.ru/korean/catalog/Audi",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "www.avito.ru",
-    "www.avito.ru",
-    "www.avito.ru",
-    "www.avito.ru",
-    "www.avito.ru",
-    "www.avito.ru",
-    "www.drom.ru",
-    "www.avito.ru",
-    "autosender.ru",
     "encarrus.ru"
    ]
   },
@@ -33943,46 +33863,6 @@
     "pan-auto.ru",
     "www.avito.ru",
     "www.avito.ru",
-    "koreacars.me"
-   ]
-  },
-  "кия к5 1 6 турбо signature 2022 характеристики": {
-   "tag": "ключи общие",
-   "source": "base",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.drom.ru",
-    "www.drom.ru",
-    "www.drom.ru",
-    "www.drom.ru",
-    "www.drom.ru",
-    "auto.ru",
-    "auto.ru",
-    "www.drom.ru",
-    "www.drom.ru",
-    "www.drom.ru"
-   ]
-  },
-  "кия к5 1 6 турбо signature характеристики": {
-   "tag": "ключи общие",
-   "source": "base",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.drom.ru",
-    "www.drom.ru",
-    "www.drom.ru",
-    "auto.ru",
-    "www.drom.ru",
-    "www.drom.ru",
-    "auto.ru",
-    "www.drom.ru",
-    "www.drom.ru",
     "koreacars.me"
    ]
   },
@@ -64606,26 +64486,6 @@
     "senatcars.ru"
    ]
   },
-  "senat авто": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 55,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "aurusmotors.com",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "www.panavto.ru",
-    "auto.ru",
-    "auto.ru",
-    "aurusmotors.com",
-    "ru.wikipedia.org",
-    "auto.ru"
-   ]
-  },
   "polestar 4 купить в россии": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -64824,26 +64684,6 @@
     "www.kcar.com",
     "encarrus.ru",
     "korea-auto.pro"
-   ]
-  },
-  "senat автомобили": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 55,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "aurusmotors.com",
-    "auto.ru",
-    "auto.ru",
-    "ru.wikipedia.org",
-    "www.panavto.ru"
    ]
   },
   "японские или немецкие автомобили что лучше": {
@@ -65666,26 +65506,6 @@
     "autoboom.co.il"
    ]
   },
-  "senat": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 32,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatnn.ru",
-    "ru.wikipedia.org",
-    "council.gov.ru",
-    "xn--h1ajim.xn--p1ai",
-    "ru.wikipedia.org",
-    "history.ru",
-    "onlineschool-1.ru",
-    "history.ru",
-    "senatnn.ru",
-    "senatnn.ru"
-   ]
-  },
   "корейские дизельные автомобили": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -65884,26 +65704,6 @@
     "severdv.online",
     "korea.estransit.ru",
     "auto.ru"
-   ]
-  },
-  "senat car": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "yandex.ru",
-    "senatcars.ru",
-    "auc.senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru"
    ]
   },
   "polestar 4 купить": {
@@ -75763,26 +75563,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru",
-    "auto.ru"
-   ]
-  },
-  "senat автомобиль": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 58,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "aurusmotors.com",
-    "www.panavto.ru",
-    "ru.wikipedia.org",
     "auto.ru"
    ]
   },
@@ -88246,26 +88026,6 @@
     "azway.ru"
    ]
   },
-  "senta cars": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 1,
-   "url": "https://senatcars.ru/korea",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "auto.drom.ru",
-    "t.me",
-    "2gis.ru",
-    "yandex.ru",
-    "auto.ru"
-   ]
-  },
   "haval m6 isofix": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -89484,26 +89244,6 @@
     "jpkorea.ru",
     "jpkorea.ru",
     "koreacars.me"
-   ]
-  },
-  "давай": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "gramota.ru",
-    "ru.wiktionary.org",
-    "kartaslov.ru",
-    "dic.academic.ru",
-    "arzamas.academy",
-    "music.yandex.ru",
-    "orfoschool.ru",
-    "ru.wikipedia.org",
-    "www.1tv.ru",
-    "www.1tv.ru"
    ]
   },
   "гибриды из японии": {
@@ -93266,26 +93006,6 @@
     "dzen.ru"
    ]
   },
-  "сенат": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "ru.wikipedia.org",
-    "history.ru",
-    "senatnn.ru",
-    "xn--h1ajim.xn--p1ai",
-    "gramota.ru",
-    "history.ru",
-    "kartaslov.ru",
-    "ru.ruwiki.ru",
-    "www.prlib.ru",
-    "historyrussia.org"
-   ]
-  },
   "семиместные японские автомобили": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -94306,26 +94026,6 @@
     "acj-car.ru"
    ]
   },
-  "найди ссылки": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "utilab.ru",
-    "tobiz.net",
-    "www.unisender.com",
-    "support.google.com",
-    "b2b.yandex.ru",
-    "tr-page.yandex.ru",
-    "otzyvmarketing.ru",
-    "blog.areal.dev",
-    "apsolyamov.ru"
-   ]
-  },
   "проверка карфакс корея бесплатно": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -94486,26 +94186,6 @@
     "dzen.ru"
    ]
   },
-  "ты уверен": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "btsrussia.ru",
-    "ru.kinorium.com",
-    "vkvideo.ru",
-    "myshows.me",
-    "www.film.ru",
-    "vkvideo.ru",
-    "vkvideo.ru",
-    "vkvideo.ru",
-    "vkvideo.ru",
-    "vkvideo.ru"
-   ]
-  },
   "1.5 bluehdi gt": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -94584,26 +94264,6 @@
     "tokidoki.su",
     "vlad-truck.ru",
     "auto.drom.ru"
-   ]
-  },
-  "что тут сказано": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "kartaslov.ru",
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "sinonim.org",
-    "gramota.ru",
-    "kartaslov.ru",
-    "context.reverso.net",
-    "poembook.ru",
-    "context.reverso.net"
    ]
   },
   "1.6 bluehdi allure": {
@@ -94804,26 +94464,6 @@
     "auto.ru",
     "www.drive2.ru",
     "www.zr.ru"
-   ]
-  },
-  "3.5 usd to rub": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "finance.rambler.ru",
-    "walletinvestor.com",
-    "usd.mconvert.net",
-    "calculator.name",
-    "www.calc.ru",
-    "aipickup.com",
-    "www.liveexchanges.com",
-    "usd.currencyrate.today",
-    "fortraders.org",
-    "currencyconvert.online"
    ]
   },
   "320cd bmw": {
@@ -95044,26 +94684,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "891obvmw": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "baza.drom.ru",
-    "account.mail.ru",
-    "forum.qrz.ru",
-    "allcalc.ru",
-    "www.avito.ru",
-    "www.radioexpert.ru",
-    "www.itap.it",
-    "vk.ru",
-    "www.qrz.ru",
-    "www.yaesu.ru"
    ]
   },
   "911 carrera 2 cabriolet": {
@@ -95306,26 +94926,6 @@
     "auto.ru"
    ]
   },
-  "asdffsdf": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "cs2.fastcup.net",
-    "stalzonehq.com",
-    "www.futbin.com",
-    "www.reddit.com",
-    "www.soundverse.ai",
-    "www.minecraftskins.com",
-    "codepen.io",
-    "3e3e3.voobly.com",
-    "ru.pinterest.com",
-    "stackoverflow.com"
-   ]
-  },
   "aston martin db11 цена": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -95504,26 +95104,6 @@
     "carexpert.ru",
     "auto.drom.ru",
     "senatcars.ru"
-   ]
-  },
-  "какая компания?": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "sinonim.org",
-    "kartaslov.ru",
-    "www.intalev.ru",
-    "www.securitylab.ru",
-    "tr-page.yandex.ru",
-    "www.rusprofile.ru",
-    "www.sravni.ru",
-    "egrul.nalog.ru",
-    "www.banki.ru",
-    "phraseology_ru_en.academic.ru"
    ]
   },
   "audi a3 8v 40 tfsi": {
@@ -98226,26 +97806,6 @@
     "www.autoexpress.co.uk"
    ]
   },
-  "da": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "ru.warface.com",
-    "ru.warface.com",
-    "portal-da.ru",
-    "ru.warface.com",
-    "vk.ru",
-    "portal-da.ru",
-    "vk.ru",
-    "ru.warface.com",
-    "archeage.ru",
-    "portal-da.ru"
-   ]
-  },
   "daewoo araba": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -98886,26 +98446,6 @@
     "auto.ru"
    ]
   },
-  "cnhf[jdfz": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "www.sogaz.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "www.ingos.ru",
-    "www.rgs.ru",
-    "www.alfastrah.ru",
-    "reso.ru",
-    "vladivostok.vbr.ru",
-    "reso.ru"
-   ]
-  },
   "d250 se": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -99486,26 +99026,6 @@
     "herdl.com"
    ]
   },
-  "este 4x4?": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.kvm-s.ru",
-    "4x4.media",
-    "www.4x4sport.ru",
-    "4x4centre.ru",
-    "4x4centre.ru",
-    "dzen.ru",
-    "auto.ru",
-    "www.nix.ru",
-    "4x4tun.ru",
-    "www.youtube.com"
-   ]
-  },
   "earl clear-coat": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -99644,26 +99164,6 @@
     "auto.ru",
     "jptrade.ru",
     "carskorea.shop"
-   ]
-  },
-  "etc": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "ethereumclassic.org",
-    "ethereumclassic.org",
-    "ru.wikipedia.org",
-    "coinmarketcap.com",
-    "ru.tradingview.com",
-    "www.coingecko.com",
-    "www.binance.com",
-    "ru.investing.com",
-    "dzen.ru",
-    "www.gate.com"
    ]
   },
   "focus универсал": {
@@ -100144,26 +99644,6 @@
     "www.drom.ru",
     "auto.ru",
     "xn--80ajmbrnhegd6cwc.xn--p1ai"
-   ]
-  },
-  "google plus launch": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "habr.com",
-    "ru.wikipedia.org",
-    "www.failory.com",
-    "9to5google.com",
-    "xn--h1ajim.xn--p1ai",
-    "indieweb.org",
-    "gemini.google.com",
-    "texterra.ru",
-    "lite14.net",
-    "youtube.fandom.com"
    ]
   },
   "gt63": {
@@ -102206,26 +101686,6 @@
     "korex-auto.com"
    ]
   },
-  "kw-xddmxw": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "konnwei.com",
-    "grm.ucoz.net",
-    "service-online.su",
-    "tonviewer.com",
-    "usdt.tokenview.io",
-    "ozon.kz",
-    "learn.microsoft.com",
-    "www.ozon.ru",
-    "translate.google.ru",
-    "edata.customs.ru"
-   ]
-  },
   "laa okayama аукцион отзывы": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -102666,26 +102126,6 @@
     "encar.youcar.kz"
    ]
   },
-  "lf": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "otus.ru",
-    "dictionary.reverso.net",
-    "www.translate.ru",
-    "gameslang.com",
-    "context.reverso.net",
-    "en.wikipedia.org",
-    "www.geeksforgeeks.org",
-    "translate.yandex.ru",
-    "www.acronymfinder.com",
-    "developer.mozilla.org"
-   ]
-  },
   "lincoln corsair купить": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -102924,26 +102364,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "m2 пользовательское соглашение": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "m2.ru",
-    "m2.ru",
-    "m2.ru",
-    "m2.ru",
-    "www.tch.ru",
-    "www.mann-ivanov-ferber.ru",
-    "m2.ru",
-    "m2.ru",
-    "m2.ru",
-    "m.m-2.ru"
    ]
   },
   "maclaren машина": {
@@ -104886,26 +104306,6 @@
     "korean.sferacar.ru"
    ]
   },
-  "pat moss": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.translate.ru",
-    "dictionary.reverso.net",
-    "en.wikipedia.org",
-    "context.reverso.net",
-    "translate.yandex.ru",
-    "www.mini.com",
-    "en.wikipedia.org",
-    "www.mini.co.uk",
-    "wooordhunt.ru",
-    "auto.ru"
-   ]
-  },
   "peugeot korea": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -104924,26 +104324,6 @@
     "jpkorea.ru",
     "limcars.ru",
     "base.epeugeot.co.kr"
-   ]
-  },
-  "plus d'informations": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "context.reverso.net",
-    "context.reverso.net",
-    "xn--80ad0ammb6f.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "dictionnaire.reverso.net",
-    "dictionary.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net"
    ]
   },
   "plant lincoln": {
@@ -105926,26 +105306,6 @@
     "www.youtube.com"
    ]
   },
-  "sadat cars": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "auto.ae",
-    "auto.ru",
-    "www.dubizzle.com.eg",
-    "auto.ru",
-    "vk.ru",
-    "yandex.ru",
-    "www.saadatrent.com",
-    "yandex.ru",
-    "otradacars.ru"
-   ]
-  },
   "saa hamamatsu": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -105964,26 +105324,6 @@
     "ak-opt.ru",
     "jpstar.ru",
     "sferacar.ru"
-   ]
-  },
-  "sanat car": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 4,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "www.sanatcar.com",
-    "www.sanatcar.com",
-    "senatcars.ru",
-    "www.sanatcar.com",
-    "www.sanatcar.com",
-    "yandex.ru",
-    "www.sanatcar.com",
-    "2gis.ru",
-    "yandex.ru"
    ]
   },
   "salt car": {
@@ -106246,26 +105586,6 @@
     "www.avito.ru"
    ]
   },
-  "sena car": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 4,
-   "url": "https://senatcars.ru/korea",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "ru.wikipedia.org",
-    "www.avito.ru",
-    "auto.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "mfghost.fandom.com",
-    "dzen.ru",
-    "www.autonews.ru",
-    "auto.ru",
-    "www.drive2.ru"
-   ]
-  },
   "senador auto center": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -106306,46 +105626,6 @@
     "senatcars.ru"
    ]
   },
-  "senata car": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "www.autonews.ru",
-    "senatcars.ru",
-    "yandex.ru",
-    "www.avito.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "rg.ru",
-    "dzen.ru",
-    "dzen.ru"
-   ]
-  },
-  "senate car": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 1,
-   "url": "https://senatcars.ru/korea",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "aurusmotors.com",
-    "www.autonews.ru",
-    "auto.ru",
-    "auto.ru",
-    "www.panavto.ru",
-    "ru.wikipedia.org",
-    "www.avito.ru",
-    "auto.mail.ru"
-   ]
-  },
   "sent auto": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -106364,26 +105644,6 @@
     "www.avito.ru",
     "senatcars.ru",
     "pro.sberauto.ru"
-   ]
-  },
-  "senator cars": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": 15,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "en.wikipedia.org",
-    "auto.ru",
-    "www.drom.ru",
-    "auto.ru",
-    "dzen.ru",
-    "ru.ruwiki.ru",
-    "auto.drom.ru",
-    "www.avito.ru",
-    "vladivostok.drom.ru",
-    "opel.drom.ru"
    ]
   },
   "senator auto sales": {
@@ -107104,26 +106364,6 @@
     "www.youtube.com",
     "www.youtube.com",
     "www.youtube.com"
-   ]
-  },
-  "tak proszę": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "first-words.com",
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "evrotravel.com",
-    "ru.contdict.com",
-    "lingust.ru",
-    "www.krakow.ru",
-    "kursy.propolski.com",
-    "pl.glosbe.com"
    ]
   },
   "tdi 4motion": {
@@ -108506,26 +107746,6 @@
     "www.vseinstrumenti.ru"
    ]
   },
-  "а ещё": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "gramota.ru",
-    "ru.wiktionary.org",
-    "dic.academic.ru",
-    "gramota.ru",
-    "kartaslov.ru",
-    "kartaslov.ru",
-    "gramota.ru",
-    "kartaslov.ru",
-    "sinonim.org",
-    "gramota.ru"
-   ]
-  },
   "а корейцы": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -108966,26 +108186,6 @@
     "korean.sferacar.ru"
    ]
   },
-  "tz200xyt": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "aliexpress.ru",
-    "en.17vin.com",
-    "www.toyota-club.net",
-    "avtokorea.by",
-    "jpkorea.ru",
-    "carexkorea.ru",
-    "encarrus.by",
-    "revocars.ru",
-    "autoelysium.ru",
-    "korea.estransit.ru"
-   ]
-  },
   "авто из кореи новые": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -109404,26 +108604,6 @@
     "auto.ru",
     "auto.ru",
     "www.avito.ru"
-   ]
-  },
-  "w94k9iwaoh0": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "avtocod.ru",
-    "www.vindecoderz.com",
-    "vinformer.su",
-    "www.dns-shop.ru",
-    "autoteka.ru",
-    "www.freevindecoder.eu",
-    "service-online.su",
-    "www.drom.ru",
-    "vagcenter.by",
-    "www.avtocar.su"
    ]
   },
   "автомобиль из южной кореи": {
@@ -109966,26 +109146,6 @@
     "carwin.ru"
    ]
   },
-  "this?": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "thecode.media",
-    "habr.com",
-    "doka.guide",
-    "habr.com",
-    "skyeng.ru",
-    "puzzle-english.com",
-    "practicum.yandex.ru",
-    "translate.yandex.ru",
-    "www.translate.ru",
-    "learn.javascript.ru"
-   ]
-  },
   "аукционный лист авто": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -110346,26 +109506,6 @@
     "jplife.ru"
    ]
   },
-  "в рубли": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.banki.ru",
-    "finance.rambler.ru",
-    "www.vbr.ru",
-    "bankiros.ru",
-    "bankiros.ru",
-    "ru.myfin.by",
-    "www.banki.ru",
-    "www.banki.ru",
-    "www.banki.ru",
-    "www.sravni.ru"
-   ]
-  },
   "в россии": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -110564,26 +109704,6 @@
     "bycars.ru",
     "auto.ru",
     "carsweek.ru"
-   ]
-  },
-  "вот еще": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "ru.wiktionary.org",
-    "kartaslov.ru",
-    "gramota.ru",
-    "dic.academic.ru",
-    "gramota.ru",
-    "gramota.ru",
-    "xn--h1ajim.xn--p1ai",
-    "gramota.ru",
-    "kartaslov.ru",
-    "ru.glosbe.com"
    ]
   },
   "выбрать автомобиль из кореи": {
@@ -110824,26 +109944,6 @@
     "gas59.ru",
     "rutube.ru",
     "dzen.ru"
-   ]
-  },
-  "дай ссылку": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "360.yandex.ru",
-    "dropmefiles.com",
-    "ru.files.fm",
-    "yapx.ru",
-    "videovssylku.ru",
-    "clck.ru",
-    "yandex.ru",
-    "wertigo.ru",
-    "2domains.ru",
-    "htmlkin.ru"
    ]
   },
   "двигатели": {
@@ -111326,46 +110426,6 @@
     "pixel24.ru"
    ]
   },
-  "ещё варианты": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "context.reverso.net",
-    "translate.yandex.ru",
-    "en.kartaslov.ru",
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "englishlib.org",
-    "context.reverso.net",
-    "translate.vc"
-   ]
-  },
-  "ещё": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "gramota.ru",
-    "gramota.ru",
-    "ru.wiktionary.org",
-    "gramota.ru",
-    "kartaslov.ru",
-    "xn--h1ajim.xn--p1ai",
-    "www.culture.ru",
-    "kartaslov.ru",
-    "eshe.club",
-    "sinonim.org"
-   ]
-  },
   "заказ авто с кореи в россию": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -111484,26 +110544,6 @@
     "jpkorea.ru",
     "encar-russia.ru",
     "sunrise-auto.ru"
-   ]
-  },
-  "иес": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "zakupki.gov.ru",
-    "zakupki.gov.ru",
-    "zakupki.gov.ru",
-    "ru.tradingview.com",
-    "www.binance.com",
-    "www.rbc.ru",
-    "ru.investing.com",
-    "its.1c.ru",
-    "www.coingecko.com",
-    "www.okx.com"
    ]
   },
   "как заказать авто с аукциона": {
@@ -111866,26 +110906,6 @@
     "www.vidal.ru"
    ]
   },
-  "какие есть": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "context.reverso.net",
-    "dic.academic.ru",
-    "dzen.ru",
-    "sinonim.org",
-    "kartaslov.ru",
-    "music.yandex.ru",
-    "ru.wikipedia.org",
-    "examplum.com",
-    "dic.academic.ru",
-    "context.reverso.net"
-   ]
-  },
   "какие были повреждения": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -111924,26 +110944,6 @@
     "www.drive2.ru",
     "www.kp.ru",
     "korea.estransit.ru"
-   ]
-  },
-  "какие есть ещё варианты?": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "translate.yandex.ru",
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "en.kartaslov.ru",
-    "translate.yandex.ru",
-    "www.cyberforum.ru",
-    "sinonim.org"
    ]
   },
   "какие корейские машины продаются в россии": {
@@ -116586,26 +115586,6 @@
     "www.drom.ru"
    ]
   },
-  "много разных": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "my.mail.ru",
-    "www.youtube.com",
-    "ok.ru",
-    "music.yandex.ru",
-    "zvuk.com",
-    "my.mail.ru",
-    "www.youtube.com",
-    "my.mail.ru",
-    "yandex.ru",
-    "101.ru"
-   ]
-  },
   "модели автомобиля": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -117386,26 +116366,6 @@
     "riviera-cars.ru"
    ]
   },
-  "ошьтн": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "auto.drom.ru",
-    "www.drom.ru",
-    "www.drom.ru",
-    "auto.ru",
-    "auto.ru",
-    "www.avito.ru",
-    "auto.ru",
-    "www.avito.ru",
-    "auto.ru",
-    "auto.ru"
-   ]
-  },
   "пассат из кореи": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -117444,26 +116404,6 @@
     "perevodplus.ru",
     "www.farpost.ru",
     "jplife.ru"
-   ]
-  },
-  "перевод": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "translate.yandex.ru",
-    "translate.google.ru",
-    "sinonim.org",
-    "www.bing.com",
-    "translate.yandex.ru",
-    "translate.yandex.ru",
-    "translate.yandex.ru",
-    "translate.yandex.ru",
-    "translate.yandex.ru",
-    "sinonim.org"
    ]
   },
   "перевод аукционных листов": {
@@ -117544,26 +116484,6 @@
     "asia-port.ru",
     "asiapk.ru",
     "xn--80ajmbrnhegd6cwc.xn--p1ai"
-   ]
-  },
-  "по всем": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "gramota.ru",
-    "ru.glosbe.com",
-    "sinonim.org",
-    "kartaslov.ru",
-    "otvet.mail.ru",
-    "kartaslov.ru",
-    "gramota.ru",
-    "synonyms.reverso.net",
-    "kartaslov.ru",
-    "trudvsem.ru"
    ]
   },
   "перегон авто из кореи в россию": {
@@ -117806,26 +116726,6 @@
     "encar-russia.ru"
    ]
   },
-  "подскажи": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.translate.ru",
-    "kartaslov.ru",
-    "sinonim.org",
-    "sinonim.org",
-    "udarenieru.ru",
-    "gramota.ru",
-    "fonetika.su",
-    "dic.academic.ru",
-    "www.morfol.ru",
-    "udarenieru.ru"
-   ]
-  },
   "покажи на карте": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -117864,26 +116764,6 @@
     "tokidoki.su",
     "www.amayama.com",
     "arimas.ru"
-   ]
-  },
-  "подскажите": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.translate.ru",
-    "gramota.ru",
-    "gramota.ru",
-    "kartaslov.ru",
-    "gramota.ru",
-    "gramota.ru",
-    "sinonim.org",
-    "ru.wiktionary.org",
-    "www.morfol.ru",
-    "fonetika.su"
    ]
   },
   "покажи фото всех этих моделей": {
@@ -118686,46 +117566,6 @@
     "autoprofiasia.ru"
    ]
   },
-  "проверяйте": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.translate.ru",
-    "conjugator.reverso.net",
-    "www.morfol.ru",
-    "gramota.ru",
-    "sinonim.org",
-    "udarenieru.ru",
-    "ru.wiktionary.org",
-    "kartaslov.ru",
-    "sinonim.org",
-    "fonetika.su"
-   ]
-  },
-  "продается?": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.translate.ru",
-    "gramota.ru",
-    "sinonim.org",
-    "gramota.ru",
-    "ru.wiktionary.org",
-    "www.morfol.ru",
-    "glagol.reverso.net",
-    "sinonim.org",
-    "kartaslov.ru",
-    "dic.academic.ru"
-   ]
-  },
   "продажа авто в южной корее": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -118864,26 +117704,6 @@
     "t-j.ru",
     "t-j.ru",
     "www.vidal.ru"
-   ]
-  },
-  "расстояние владивосток южно сахалинск": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "www.avtodispetcher.ru",
-    "travelask.ru",
-    "www.avtodispetcher.ru",
-    "routes.votpusk.ru",
-    "www.avtodispetcher.ru",
-    "maintransport.ru",
-    "travelask.ru",
-    "perevozka24.com",
-    "www.avtodispetcher.ru"
    ]
   },
   "растаможенные авто из японии во владивостоке": {
@@ -119806,26 +118626,6 @@
     "satauto.ru"
    ]
   },
-  "сгенерируй": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "sinonim.org",
-    "ru.wiktionary.org",
-    "alice.yandex.ru",
-    "www.translate.ru",
-    "kartaslov.ru",
-    "ru.wiktionary.org",
-    "www.morfol.ru",
-    "randstuff.ru",
-    "xn--h1ajim.xn--p1ai",
-    "glagol.reverso.net"
-   ]
-  },
   "санкции японии против россии автомобили": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -120206,26 +119006,6 @@
     "www.hyundai.com"
    ]
   },
-  "ссылку на это фото": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "wertigo.ru",
-    "fotovssylku.ru",
-    "ru.imgbb.com",
-    "yapx.ru",
-    "wikiweb.uz",
-    "iimg.su",
-    "phototourl.com",
-    "diskovod.online",
-    "postimages.org",
-    "www.image2url.com"
-   ]
-  },
   "ссангйонг из кореи": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -120464,26 +119244,6 @@
     "auto.ru",
     "auto.ru",
     "www.avito.ru"
-   ]
-  },
-  "текущий статус": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "translate.academic.ru",
-    "www.translate.ru",
-    "context.reverso.net",
-    "translate.yandex.ru",
-    "kartaslov.ru",
-    "en.kartaslov.ru",
-    "translate.academic.ru",
-    "wooordhunt.ru",
-    "www.lingvolive.com",
-    "dictionary.reverso.net"
    ]
   },
   "техническое обслуживание byd dolphin": {
@@ -120984,46 +119744,6 @@
     "auto.ru",
     "hyundai.drom.ru",
     "www.genesis.com"
-   ]
-  },
-  "хорошее ли": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "gramota.ru",
-    "translate.yandex.ru",
-    "kartaslov.ru",
-    "context.reverso.net",
-    "obrazovaka.ru",
-    "context.reverso.net",
-    "context.reverso.net",
-    "russkij-azyk.my-dict.ru",
-    "textovod.com"
-   ]
-  },
-  "хочу": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "music.yandex.ru",
-    "music.yandex.ru",
-    "music.apple.com",
-    "my.mail.ru",
-    "www.youtube.com",
-    "yandex.ru",
-    "www.youtube.com",
-    "rutube.ru",
-    "zvuk.com",
-    "ru.wiktionary.org"
    ]
   },
   "хюндай крета": {
@@ -121546,26 +120266,6 @@
     "asia-pod-klyuch.ru"
    ]
   },
-  "ще які": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "context.reverso.net",
-    "context.reverso.net",
-    "context.reverso.net",
-    "lhlib.ru",
-    "kopilkaurokov.ru",
-    "slovnyk.ua",
-    "translate.yandex.ru",
-    "gramota.ru",
-    "ukrainian_explanatory.academic.ru",
-    "www.bolshoyvopros.ru"
-   ]
-  },
   "шкода на газу с завода": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -121606,26 +120306,6 @@
     "japantransit.ru"
    ]
   },
-  "это всё?": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "music.yandex.ru",
-    "music.yandex.ru",
-    "www.youtube.com",
-    "navigatorrecords.ru",
-    "www.youtube.com",
-    "music.apple.com",
-    "www.youtube.com",
-    "my.mail.ru",
-    "my.mail.ru",
-    "genius.com"
-   ]
-  },
   "электромобиль": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -121644,26 +120324,6 @@
     "www.geely-motors.com",
     "auto.ru",
     "www.avito.ru"
-   ]
-  },
-  "это мошенники?": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "finance.mail.ru",
-    "ru.wikipedia.org",
-    "www.tbank.ru",
-    "www.ingos.ru",
-    "alfabank.ru",
-    "journal.sovcombank.ru",
-    "www.sberbank.ru",
-    "base.garant.ru",
-    "iz.ru",
-    "www.banki.ru"
    ]
   },
   "южная корея": {
@@ -122406,26 +121066,6 @@
     "auto.ru"
    ]
   },
-  "авто из кореи договор": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "samjinexport.com",
-    "severdv.online",
-    "bravomotorrs.com",
-    "jpkorea.ru",
-    "korean.sferacar.ru",
-    "tokidoki.su",
-    "asiancar.ru",
-    "romanscars.ru",
-    "asiaexpressauto.ru"
-   ]
-  },
   "мазерати сколько стоит": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -122524,26 +121164,6 @@
     "auto.ru",
     "auto.ru",
     "www.avito.ru"
-   ]
-  },
-  "точный график": {
-   "tag": "dobor-gsc",
-   "source": "queue:2026-11-23_dobor-gsc",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.desmos.com",
-    "ru.tradingview.com",
-    "www.mathway.com",
-    "www.desmos.com",
-    "timbrica.com",
-    "www.desmos.com",
-    "yotx.ru",
-    "www.desmos.com",
-    "math.semestr.ru",
-    "ru.investing.com"
    ]
   },
   "mini cooper convertible из кореи": {
@@ -123186,66 +121806,6 @@
     "asiapk.ru"
    ]
   },
-  "договор импорта авто": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 7,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "dss-g.com",
-    "xn--80aaec7ci1a.xn--p1ai",
-    "kad-autoconsult.ru",
-    "www.glavbukh.ru",
-    "borishof.ru",
-    "carto-auto.ru",
-    "senatcars.ru",
-    "www.klerk.ru",
-    "assistentus.ru",
-    "jptrade.ru"
-   ]
-  },
-  "договор поставки при импорте авто из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "www.business.ru",
-    "senatcars.ru",
-    "lazurit-logistics.ru",
-    "tnlgroup.ru",
-    "importvostokmotors.ru",
-    "importvostokmotors.ru",
-    "asia-pod-klyuch.ru",
-    "www.klerk.ru",
-    "cdx-group.ru",
-    "hl-group.ru"
-   ]
-  },
-  "договор поставки автомобиля под заказ из заграницы": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 8,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "zakaz.etp-region.ru",
-    "japan.actionmotors.ru",
-    "japan.actionmotors.ru",
-    "suifenheauto.ru",
-    "avto-samurai.ru",
-    "severdv.online",
-    "assistentus.ru",
-    "senatcars.ru",
-    "jptrade.ru",
-    "autovezem.ru"
-   ]
-  },
   "электро авто из японии": {
    "tag": "dobor-gsc",
    "source": "queue:2026-11-23_dobor-gsc",
@@ -123866,26 +122426,6 @@
     "getautokorea.ru"
    ]
   },
-  "senat автомобиль официальный сайт": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 9,
-   "url": "https://senatcars.ru/korean/catalog/Others",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "senat.nami.ru",
-    "senatcars.ru",
-    "aurusmotors.com"
-   ]
-  },
   "genesis заказать": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -123984,26 +122524,6 @@
     "acj-car.ru",
     "mado.group",
     "senatcars.ru"
-   ]
-  },
-  "договор на покупку авто из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 12,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "severdv.online",
-    "china.jpstar.ru",
-    "asiancar.ru",
-    "china.estransit.ru",
-    "sferacar.ru",
-    "tokidoki.su",
-    "jptrade.ru",
-    "asiancar.ru",
-    "china-car-moscow.ru"
    ]
   },
   "авто из кореи под заказ проверенные": {
@@ -124504,26 +123024,6 @@
     "importdare.ru",
     "encarrus.ru",
     "carskorea.shop"
-   ]
-  },
-  "заказать ауди секрет карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 11,
-   "url": "https://senatcars.ru/korean/catalog/Audi",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "secret-cars.clients.site",
-    "yandex.ru",
-    "www.avito.ru",
-    "secret-cars.clients.site",
-    "www.avito.ru",
-    "auto.ru"
    ]
   },
   "купить машину из кореи под ключ": {
@@ -125146,26 +123646,6 @@
     "senatcars.ru"
    ]
   },
-  "заказать бмв секрет карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 18,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "www.avito.ru",
-    "secret-cars.clients.site",
-    "koreacars.me",
-    "yandex.ru"
-   ]
-  },
   "машина с доставкой из кореи": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -125426,26 +123906,6 @@
     "batyaprignal.ru"
    ]
   },
-  "автомобиль из кореи договор": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "severdv.online",
-    "jpkorea.ru",
-    "tokidoki.su",
-    "carwin.ru",
-    "encar-russia.ru",
-    "korean.sferacar.ru",
-    "asiaexpressauto.ru",
-    "estransit.ru",
-    "carwin.ru"
-   ]
-  },
   "как русифицировать корейский автомобиль": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -125646,26 +124106,6 @@
     "auto.ru"
    ]
   },
-  "автомобиль из китая договор": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 8,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "china.jpstar.ru",
-    "jptrade.ru",
-    "bravomotorrs.com",
-    "autovezem.ru",
-    "importvostokmotors.ru",
-    "china.estransit.ru",
-    "senatcars.ru",
-    "china-car-spb.ru",
-    "xn--80aagf0bmj5a1g2a.xn--p1ai"
-   ]
-  },
   "maserati levante купить": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -125684,26 +124124,6 @@
     "www.avito.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "договор купли продажи авто из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "bravomotorrs.com",
-    "senatcars.ru",
-    "china.jpstar.ru",
-    "severdv.online",
-    "www.drom.ru",
-    "weoneauto.ru",
-    "jptrade.ru",
-    "importvostokmotors.ru",
-    "www.drive2.ru",
-    "www.vtb.ru"
    ]
   },
   "корейские авто на метане": {
@@ -125744,46 +124164,6 @@
     "www.avito.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "купить машину из южной кореи по договору": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 12,
-   "url": "https://senatcars.ru/korea",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "dss-g.com",
-    "korean.sferacar.ru",
-    "korean.sferacar.ru",
-    "korean.sferacar.ru",
-    "kypiavto.ru",
-    "encar-russia.ru",
-    "jpkorea.ru",
-    "jpkorea.ru",
-    "encarrus.ru",
-    "dss-g.com"
-   ]
-  },
-  "киа под заказ сикрет карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 13,
-   "url": "https://senatcars.ru/korea",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "encarrus.ru",
-    "secretcars.ru",
-    "koreacars.me",
-    "yandex.ru",
-    "encarrus.ru",
-    "secret-cars.clients.site",
-    "www.avito.ru"
    ]
   },
   "машины из южной кореи на заказ": {
@@ -126386,26 +124766,6 @@
     "auto.ru"
    ]
   },
-  "автомобиль под заказ договор": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 12,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "japan.actionmotors.ru",
-    "severdv.online",
-    "suifenheauto.ru",
-    "zakaz.etp-region.ru",
-    "yamport.ru",
-    "japan.actionmotors.ru",
-    "regionauto.org",
-    "assistentus.ru",
-    "satauto.ru",
-    "sferacar.ru"
-   ]
-  },
   "стоимость машины мазерати": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -126584,46 +124944,6 @@
     "auto.ru",
     "auto.drom.ru",
     "www.avito.ru"
-   ]
-  },
-  "сенат кар": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "yandex.ru",
-    "m.vk.ru",
-    "auc.senatcars.ru",
-    "2gis.ru",
-    "senatcars.ru",
-    "senatcars.ru"
-   ]
-  },
-  "авто из китая договор": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 6,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "severdv.online",
-    "china.jpstar.ru",
-    "asiancar.ru",
-    "jptrade.ru",
-    "senatcars.ru",
-    "bravomotorrs.com",
-    "carwin.ru",
-    "china.estransit.ru",
-    "severdv.online"
    ]
   },
   "купить мазерати бу миллион миль": {
@@ -126926,26 +125246,6 @@
     "dss-g.com"
    ]
   },
-  "агентский договор на поставку автомобиля из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 16,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "asiancar.ru",
-    "suifenheauto.ru",
-    "carcarrich.ru",
-    "autovezem.ru",
-    "im-reklama.ru",
-    "expressdv.ru",
-    "atletauto.ru",
-    "1kar.ru",
-    "china.sferacar.ru",
-    "lazurit-logistics.ru"
-   ]
-  },
   "мазерати ку 4 цена": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -127044,26 +125344,6 @@
     "auto.ru",
     "auto.ru",
     "www.avito.ru"
-   ]
-  },
-  "импорт авто из китая под ключ договор поставки": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 18,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "ivan-auto.ru",
-    "dss-g.com",
-    "kardinal-vl.ru",
-    "xn--80ajmbrnhegd6cwc.xn--p1ai",
-    "akfa.ru",
-    "asiaexpressauto.ru",
-    "baikalvl.ru",
-    "jplife.ru",
-    "encarrus-china.ru",
-    "asia-pod-klyuch.ru"
    ]
   },
   "maserati цена в рублях": {
@@ -127286,26 +125566,6 @@
     "jplife.ru"
    ]
   },
-  "senatcar": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "auc.senatcars.ru",
-    "vk.ru",
-    "senatcars.ru",
-    "yandex.ru",
-    "2gis.ru",
-    "senatcars.ru"
-   ]
-  },
   "аукционы японии по продаже авто на карте": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -127444,26 +125704,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "авто из японии договор": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 8,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "satauto.ru",
-    "noharaauto.com",
-    "carwin.ru",
-    "severdv.online",
-    "jpstar.ru",
-    "jptrade.ru",
-    "bravomotorrs.com",
-    "senatcars.ru",
-    "sferacar.ru",
-    "tokidoki.su"
    ]
   },
   "помощь в покупке машины в южной корее": {
@@ -128186,26 +126426,6 @@
     "xn--80ajmbrnhegd6cwc.xn--p1ai"
    ]
   },
-  "контракт на поставку китайских автомобилей": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "jptrade.ru",
-    "importvostokmotors.ru",
-    "carwin.ru",
-    "severdv.online",
-    "shinezo.ru",
-    "www.alta.ru",
-    "jptrade.ru",
-    "www.autonews.ru",
-    "china.jpstar.ru"
-   ]
-  },
   "ситроен дс 2": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -128566,26 +126786,6 @@
     "da-motors-msk.ru"
    ]
   },
-  "договор на привоз автомобиля из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 6,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "severdv.online",
-    "jptrade.ru",
-    "autovezem.ru",
-    "china.jpstar.ru",
-    "senatcars.ru",
-    "gruzoteka.com",
-    "kad-autoconsult.ru",
-    "senatcars.ru",
-    "sferacar.ru"
-   ]
-  },
   "renault grand koleos купить": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -128624,26 +126824,6 @@
     "auto.ru",
     "auto.ru",
     "www.avito.ru"
-   ]
-  },
-  "kia под заказ секрет карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 5,
-   "url": "https://senatcars.ru/korea",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "secretcars.ru",
-    "encarrus.ru",
-    "www.avito.ru",
-    "carskorea.shop",
-    "senatcars.ru",
-    "yandex.ru",
-    "encarrus.ru",
-    "koreacars.me",
-    "auto.ru",
-    "netcars.ru"
    ]
   },
   "мазерати до 2 миллионов рублей в ростовской области": {
@@ -129286,26 +127466,6 @@
     "jplife.ru"
    ]
   },
-  "озон": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.ozon.ru",
-    "www.farpost.ru",
-    "www.ozon.ru",
-    "www.ozon.ru",
-    "www.ozon.ru",
-    "www.ozon.ru",
-    "pvz.ozon.ru",
-    "finance.ozon.ru",
-    "ozon-skachat.asvas.ru",
-    "www.ozon.ru"
-   ]
-  },
   "мазерати купе купить": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -129384,26 +127544,6 @@
     "jpkorea.ru",
     "auto.ru",
     "japantransit.ru"
-   ]
-  },
-  "договор на поставку авто из кореи скачать": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "samjinexport.com",
-    "senatcars.ru",
-    "jpkorea.ru",
-    "samjinexport.com",
-    "han-export.com",
-    "asiancar.ru",
-    "riviera-cars.ru",
-    "specavtotradedv.ru",
-    "senatcars.ru",
-    "importvostokmotors.ru"
    ]
   },
   "соната хюндай на газе": {
@@ -129744,26 +127884,6 @@
     "encar-russia.ru",
     "dss-g.com",
     "koreacars.me"
-   ]
-  },
-  "договор ип на поставку авто из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "www.sostav.ru",
-    "severdv.online",
-    "assistentus.ru",
-    "asia-pod-klyuch.ru",
-    "satauto.ru",
-    "asiancar.ru",
-    "importvostokmotors.ru",
-    "insal.ru",
-    "china-car-spb.ru"
    ]
   },
   "купить авто из кореи под ключ с доставкой": {
@@ -130166,26 +128286,6 @@
     "auto.ru"
    ]
   },
-  "договор на поставку автомобиля из японии": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 7,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "avto-samurai.ru",
-    "japan.actionmotors.ru",
-    "satauto.ru",
-    "amulex.ru",
-    "noharaauto.com",
-    "jptrade.ru",
-    "senatcars.ru",
-    "mastercar125.ru",
-    "jpstar.ru",
-    "japarts125.group"
-   ]
-  },
   "gasoline 1.6 turbo 4wd gravity": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -130284,26 +128384,6 @@
     "auto.ru",
     "auto.ru",
     "vladivostok.drom.ru"
-   ]
-  },
-  "договор на поставку автомобиля из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 5,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "severdv.online",
-    "severdv.online",
-    "jptrade.ru",
-    "senatcars.ru",
-    "xn--80aagf0bmj5a1g2a.xn--p1ai",
-    "senatcars.ru",
-    "ivan-auto.ru",
-    "importvostokmotors.ru",
-    "china.jpstar.ru"
    ]
   },
   "заказать кроссовер из кореи": {
@@ -130924,26 +129004,6 @@
     "encarrus.ru",
     "severdv.online",
     "koreacars.me"
-   ]
-  },
-  "договор поставки автомобиля из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 5,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "severdv.online",
-    "suifenheauto.ru",
-    "jptrade.ru",
-    "senatcars.ru",
-    "xn--80aagf0bmj5a1g2a.xn--p1ai",
-    "carwin.ru",
-    "ivan-auto.ru",
-    "china.jpstar.ru",
-    "sferacar.ru"
    ]
   },
   "сколько стоит ауди из кореи toyamaauto": {
@@ -131866,26 +129926,6 @@
     "carsdo.ru"
    ]
   },
-  "договор оказания услуг по подбору автомобиля из-за границы": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 4,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "carhao.market",
-    "els24.com",
-    "senatcars.ru",
-    "autogood.by",
-    "romanscars.ru",
-    "avtotrader-rus.com",
-    "avtodirektor.ru",
-    "amulex.ru",
-    "carpraktic.ru"
-   ]
-  },
   "автомобили в наличии из кореи": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -132064,26 +130104,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "новости": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "ria.ru",
-    "lenta.ru",
-    "ren.tv",
-    "aif.ru",
-    "news.rambler.ru",
-    "iz.ru",
-    "dzen.ru",
-    "ren.tv",
-    "www.mk.ru",
-    "ria.ru"
    ]
   },
   "корейские автомобили на пропане": {
@@ -132646,26 +130666,6 @@
     "senatcars.ru"
    ]
   },
-  "договор по привозу автомобиля": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 8,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "zakaz.etp-region.ru",
-    "assistentus.ru",
-    "japan.actionmotors.ru",
-    "amulex.ru",
-    "kad-autoconsult.ru",
-    "autovezem.ru",
-    "sferacar.ru",
-    "senatcars.ru",
-    "avto-samurai.ru",
-    "zpp.rospotrebnadzor.ru"
-   ]
-  },
   "услуги по доставке авто из кореи": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -133046,66 +131046,6 @@
     "senatcars.ru"
    ]
   },
-  "контракт с китайцами образец 2 колонки": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 81,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "tnlgroup.ru",
-    "inch-quality.ru",
-    "xn--80atbkennd.xn--80asehdb",
-    "chinatoday.ru",
-    "inch-quality.ru",
-    "cn-redbridge.ru",
-    "www.mezhtransavto.ru",
-    "www.klerk.ru",
-    "asia-business.ru",
-    "novikov-import.ru"
-   ]
-  },
-  "договор покупки и доставки автомобиля": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 3,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "zakaz.etp-region.ru",
-    "japan.actionmotors.ru",
-    "senatcars.ru",
-    "assistentus.ru",
-    "autovezem.ru",
-    "carvizor.ru",
-    "amulex.ru",
-    "zpp.rospotrebnadzor.ru",
-    "luxuryautonsk.ru",
-    "autoexpert25.ru"
-   ]
-  },
-  "агентский договор на приобретение транспортного средства из китая в москву": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 18,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "asiancar.ru",
-    "autovezem.ru",
-    "carcarrich.ru",
-    "china-car-moscow.ru",
-    "sferacar.ru",
-    "www.drive2.ru",
-    "atletauto.ru",
-    "im-reklama.ru",
-    "china.sferacar.ru"
-   ]
-  },
   "корейские автомобили на заказ": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -133184,26 +131124,6 @@
     "www.avito.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "автомобиль из японии договор": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "jpstar.ru",
-    "noharaauto.com",
-    "satauto.ru",
-    "carwin.ru",
-    "jptrade.ru",
-    "severdv.online",
-    "tempa-cars.ru",
-    "sferacar.ru",
-    "amulex.ru",
-    "tokidoki.su"
    ]
   },
   "ситроен дс цена": {
@@ -134006,26 +131926,6 @@
     "jpkorea.ru"
    ]
   },
-  "заказать мерседес секрет карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 17,
-   "url": "https://senatcars.ru/korean/catalog/Mercedes-Benz",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "secretcars.ru",
-    "secret-cars.clients.site",
-    "www.avito.ru",
-    "www.avito.ru",
-    "secret-cars.clients.site",
-    "yandex.ru",
-    "yandex.ru"
-   ]
-  },
   "мазерати спорткар купить": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -134306,46 +132206,6 @@
     "dzen.ru"
    ]
   },
-  "посьетская 45": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "yandex.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "yandex.ru",
-    "2gis.ru"
-   ]
-  },
-  "как выглядит договор заказа машины из другой страны": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "noharaauto.com",
-    "senatcars.ru",
-    "severdv.online",
-    "jpstar.ru",
-    "china.jpstar.ru",
-    "amulex.ru",
-    "aautospb.ru",
-    "jptrade.ru",
-    "www.avito.ru",
-    "autohubexport.com"
-   ]
-  },
   "купить sienna гибрид авд": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -134546,26 +132406,6 @@
     "dss-g.com"
    ]
   },
-  "договор для заказа авто из за границы образец": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "senatcars.ru",
-    "jptrade.ru",
-    "noharaauto.com",
-    "avto-samurai.ru",
-    "xn--80aaec7ci1a.xn--p1ai",
-    "china-car-spb.ru",
-    "topcarjapan.ru",
-    "amulex.ru",
-    "japan.actionmotors.ru"
-   ]
-  },
   "рено дастер из кореи купить": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -134584,26 +132424,6 @@
     "korex-auto.com",
     "jpkorea.ru",
     "auto.drom.ru"
-   ]
-  },
-  "сенот карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "vk.ru",
-    "senatcars.ru",
-    "dzen.ru",
-    "2gis.ru",
-    "netcars.ru",
-    "encarrus.ru",
-    "encarrus.ru"
    ]
   },
   "форд фокус или киа сид что лучше": {
@@ -135186,46 +133006,6 @@
     "senatcars.ru"
    ]
   },
-  "договор купли продажи корейский с русским переводом": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 67,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "www.drom.ru",
-    "ru.glosbe.com",
-    "ru.glosbe.com",
-    "www.indifferentlanguages.com",
-    "auto.ru",
-    "translation-online24.com",
-    "perevodperevod.ru",
-    "quizlet.com",
-    "quizlet.com",
-    "carexkorea.ru"
-   ]
-  },
-  "договор подбора автомобиля образец ихза рубежа": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 7,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "carhao.market",
-    "riviera-cars.ru",
-    "romanscars.ru",
-    "noharaauto.com",
-    "els24.com",
-    "senatcars.ru",
-    "china.jpstar.ru",
-    "avtodirektor.ru",
-    "base.garant.ru"
-   ]
-  },
   "мазерати q4 цена кроссовер": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -135546,26 +133326,6 @@
     "koreacars.me"
    ]
   },
-  "сенатор карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "auc.senatcars.ru",
-    "senatcars.ru",
-    "m.vk.ru",
-    "yandex.ru",
-    "senatcars.ru",
-    "2gis.ru",
-    "auto.drom.ru"
-   ]
-  },
   "машина gmc цена": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -135704,26 +133464,6 @@
     "encarrus.ru",
     "dss-g.com",
     "senatcars.ru"
-   ]
-  },
-  "сенатавто": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "www.rusprofile.ru",
-    "focus.kontur.ru",
-    "checko.ru",
-    "www.audit-it.ru",
-    "check.tochka.com",
-    "www.rusprofile.ru",
-    "companies.rbc.ru",
-    "saby.ru",
-    "www.sravni.ru"
    ]
   },
   "корейское авто на гбо": {
@@ -135904,26 +133644,6 @@
     "auto.ru",
     "auto.ru",
     "www.avito.ru"
-   ]
-  },
-  "договор по подбору автомобиля из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 6,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "china.jpstar.ru",
-    "severdv.online",
-    "autovezem.ru",
-    "importvostokmotors.ru",
-    "senatcars.ru",
-    "asiaexpressauto.ru",
-    "dzen.ru",
-    "riviera-cars.ru",
-    "china-car-spb.ru"
    ]
   },
   "купить авто из кореи цены": {
@@ -136366,26 +134086,6 @@
     "senatcars.ru"
    ]
   },
-  "договор оказания услуг по покупке автомобиля в китае": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 8,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "china.jpstar.ru",
-    "importvostokmotors.ru",
-    "tokidoki.su",
-    "autocapital.by",
-    "asiancar.ru",
-    "china.estransit.ru",
-    "china-car-spb.ru",
-    "senatcars.ru",
-    "severdv.online",
-    "www.drive2.ru"
-   ]
-  },
   "стоимость gmc": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -136484,26 +134184,6 @@
     "auto.ru",
     "vladivostok.drom.ru",
     "auto.ru"
-   ]
-  },
-  "сенатс кар": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "vk.ru",
-    "senatcars.ru",
-    "t.me",
-    "dzen.ru",
-    "www.autonews.ru",
-    "gt-news.ru",
-    "glav-auto.ru",
-    "dzen.ru",
-    "encar-russia.ru"
    ]
   },
   "притащить бентли из кореи": {
@@ -136684,26 +134364,6 @@
     "www.avito.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "договор поставки авто с китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 3,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "jptrade.ru",
-    "senatcars.ru",
-    "severdv.online",
-    "china.jpstar.ru",
-    "carwin.ru",
-    "xn--80aagf0bmj5a1g2a.xn--p1ai",
-    "importvostokmotors.ru",
-    "fuga-japan.ru",
-    "ivan-auto.ru"
    ]
   },
   "сколько стоит maserati?": {
@@ -137086,26 +134746,6 @@
     "auto.ru"
    ]
   },
-  "агентский договор на поставку авто из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 18,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "asiancar.ru",
-    "suifenheauto.ru",
-    "carcarrich.ru",
-    "autovezem.ru",
-    "asiancar.ru",
-    "xn---24-5cdbk7bjg2b5be.xn--p1ai",
-    "im-reklama.ru",
-    "china.sferacar.ru",
-    "carwin.ru",
-    "fuga-japan.ru"
-   ]
-  },
   "мерседес с класс c200d с кореи": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -137224,26 +134864,6 @@
     "auto.ru",
     "www.avito.ru",
     "auto.ru"
-   ]
-  },
-  "образец договора агента с поставщиком автомобилей из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 4,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "asiancar.ru",
-    "carcarrich.ru",
-    "senatcars.ru",
-    "atletauto.ru",
-    "expressdv.ru",
-    "xn---24-5cdbk7bjg2b5be.xn--p1ai",
-    "im-reklama.ru",
-    "dropcars.ru",
-    "china.sferacar.ru"
    ]
   },
   "корейская спортивная машина": {
@@ -137706,26 +135326,6 @@
     "www.avito.ru"
    ]
   },
-  "ауди 6 универсал секрет карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 17,
-   "url": "https://senatcars.ru/korean/catalog/Audi/A6",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "auto.ru",
-    "autosender.ru",
-    "www.avito.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.drom.ru",
-    "eridan-cars.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru"
-   ]
-  },
   "audi sq5 из кореи": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -137804,26 +135404,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "договор поставки автомобиля под заказ из заграницы скачать": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 10,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "zakaz.etp-region.ru",
-    "japan.actionmotors.ru",
-    "japan.actionmotors.ru",
-    "assistentus.ru",
-    "avto-samurai.ru",
-    "mastercar125.ru",
-    "suifenheauto.ru",
-    "www.agroinvest.com",
-    "jptrade.ru",
-    "senatcars.ru"
    ]
   },
   "мейдек атомабиди. бмв из корее": {
@@ -138386,26 +135966,6 @@
     "auto.ru"
    ]
   },
-  "карты яндекс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "yandex.ru",
-    "yandex.ru",
-    "n.maps.yandex.ru",
-    "apps.apple.com",
-    "yandex.ru",
-    "yandex.ru",
-    "yandex.ru",
-    "yandex.tj",
-    "yandex.ru"
-   ]
-  },
   "кия верга в г владивосток": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -138466,46 +136026,6 @@
     "auto.ru"
    ]
   },
-  "скачать договор на покупку авто с китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 10,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "amgamma.ru",
-    "bravomotorrs.com",
-    "china.jpstar.ru",
-    "riviera-cars.ru",
-    "jptrade.ru",
-    "asiancar.ru",
-    "severdv.online",
-    "sferacar.ru",
-    "senatcars.ru"
-   ]
-  },
-  "договор о закупке авто из кореи образец": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 3,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "jpkorea.ru",
-    "senatcars.ru",
-    "samjinexport.com",
-    "romanscars.ru",
-    "tokidoki.su",
-    "riviera-cars.ru",
-    "korean.sferacar.ru",
-    "jpkorea.ru",
-    "topcarjapan.ru"
-   ]
-  },
   "киа морнинг riviera cars ru": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -138564,26 +136084,6 @@
     "auto.drom.ru",
     "koreacars.me",
     "senatcars.ru"
-   ]
-  },
-  "договор на поставку машины из китая как должен выглядеть": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 3,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "importvostokmotors.ru",
-    "china.jpstar.ru",
-    "senatcars.ru",
-    "jptrade.ru",
-    "shinezo.ru",
-    "severdv.online",
-    "xn--80aagf0bmj5a1g2a.xn--p1ai",
-    "ivan-auto.ru",
-    "severdv.online",
-    "asia-pod-klyuch.ru"
    ]
   },
   "корейские сайты продажи автомобилей бу": {
@@ -138726,26 +136226,6 @@
     "senatcars.ru"
    ]
   },
-  "контракт с китайским перевозчиком пример": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 13,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "anno-danini.com",
-    "femo.su",
-    "guangzhou-cargo.ru",
-    "akfa.ru",
-    "okocrm.com",
-    "www.mid.ru",
-    "altaimills.ru",
-    "ccp.im",
-    "www.mezhtransavto.ru",
-    "www.pcllogistics.ru"
-   ]
-  },
   "гольф 2 литра дизель из кореи цена": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -138866,26 +136346,6 @@
     "salcentr.ru"
    ]
   },
-  "senat автомобили официальный сайт": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 3,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "senatcars.ru",
-    "senatcars.ru",
-    "aurusmotors.com",
-    "aurusmotors.com",
-    "senatcars.ru",
-    "senatcars.ru",
-    "aurusmotors.com",
-    "senatcars.ru"
-   ]
-  },
   "мини купер континенталь цена": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -138986,26 +136446,6 @@
     "auto.ru"
    ]
   },
-  "пример договора на пригон авто": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 88,
-   "url": "https://senatcars.ru/contracts/japan.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "regionauto.org",
-    "jptrade.ru",
-    "noharaauto.com",
-    "sferacar.ru",
-    "xn--80aaec7ci1a.xn--p1ai",
-    "avtopoisk70.ru",
-    "assistentus.ru",
-    "avto-samurai.ru",
-    "severdv.online",
-    "japan.actionmotors.ru"
-   ]
-  },
   "киа хендай модели автомобилей на гбо из кореи": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -139064,26 +136504,6 @@
     "www.avito.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "типовой договор на заказ авто": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 82,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "japan.actionmotors.ru",
-    "assistentus.ru",
-    "severdv.online",
-    "amulex.ru",
-    "sferacar.ru",
-    "www.drom.ru",
-    "autoexpert25.ru",
-    "ppt.ru",
-    "www.agroinvest.com",
-    "jptrade.ru"
    ]
   },
   "мазеоати курить": {
@@ -139206,26 +136626,6 @@
     "www.avito.ru"
    ]
   },
-  "электронный договор найма покупки машины из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "china.jpstar.ru",
-    "severdv.online",
-    "china-car-spb.ru",
-    "www.drive2.ru",
-    "china.estransit.ru",
-    "asiaexpressauto.ru",
-    "asia-pod-klyuch.ru",
-    "importvostokmotors.ru",
-    "www.vtb.ru",
-    "m-avto.com"
-   ]
-  },
   "автомобиль из кореи для россии": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -139344,26 +136744,6 @@
     "hbkauto.ru",
     "hbkauto.ru",
     "senatcars.ru"
-   ]
-  },
-  "договор на доставку авто из за границы": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "kad-autoconsult.ru",
-    "senatcars.ru",
-    "suifenheauto.ru",
-    "autohubexport.com",
-    "topdealrs.ru",
-    "autovezem.ru",
-    "amulex.ru",
-    "asiaexpressauto.ru",
-    "avto-jurist-dnr.ru",
-    "www.vtb.ru"
    ]
   },
   "цены на бмв в корее": {
@@ -139564,26 +136944,6 @@
     "mycarjp.ru",
     "www.avito.ru",
     "auto.ru"
-   ]
-  },
-  "договор оказания услуг по привозу авто из-а границы\\": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "kad-autoconsult.ru",
-    "senatcars.ru",
-    "avto-samurai.ru",
-    "avto-jurist-dnr.ru",
-    "assistentus.ru",
-    "noharaauto.com",
-    "autovezem.ru",
-    "carhao.market",
-    "assistentus.ru",
-    "astral.ru"
    ]
   },
   "автомобиль мазерати купить": {
@@ -140386,26 +137746,6 @@
     "auto.ru"
    ]
   },
-  "сенатта": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 37,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatnn.ru",
-    "senate.parlam.kz",
-    "www.ozon.ru",
-    "kapriz-tlt.ru",
-    "market.yandex.ru",
-    "market.yandex.ru",
-    "market.yandex.ru",
-    "prousa.info",
-    "spravochnick.ru",
-    "ancientrome.ru"
-   ]
-  },
   "купить бу авто из южной кореи": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -141126,26 +138466,6 @@
     "yandex.ru"
    ]
   },
-  "сахалайф": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "sakhalife.ru",
-    "sakhaday.ru",
-    "1sn.ru",
-    "t.me",
-    "sakhalife.ru",
-    "vk.ru",
-    "sakhalife.ru",
-    "sakhalife.ru",
-    "sakhalife.ru",
-    "sakhalife.ru"
-   ]
-  },
   "тойота под заказ секрент карс": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -141244,46 +138564,6 @@
     "carexkorea.ru",
     "koreacars.me",
     "jpkorea.ru"
-   ]
-  },
-  "cenat cars": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "m.vk.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "yandex.ru",
-    "2gis.ru",
-    "yandex.ru"
-   ]
-  },
-  "как составить договор при покупки багги за границу": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "assistentus.ru",
-    "dzen.ru",
-    "kad-autoconsult.ru",
-    "vk.ru",
-    "www.business.ru",
-    "www.vbr.ru",
-    "www.banki.ru",
-    "www.drive2.ru",
-    "auto.ru",
-    "www.drom.ru"
    ]
   },
   "может ли многодетная семья пригнать машину из кореи в россию": {
@@ -141706,26 +138986,6 @@
     "rutube.ru"
    ]
   },
-  "владивосток посьетская 45": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "yandex.ru",
-    "yandex.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "yandex.ru",
-    "zoon.ru"
-   ]
-  },
   "купить феррари": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -141764,26 +139024,6 @@
     "sunrise-auto.ru",
     "encarrus.ru",
     "korean.sferacar.ru"
-   ]
-  },
-  "сенатс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 3,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "makeword.ru",
-    "historyrussia.org",
-    "senatcars.ru",
-    "arzamas.academy",
-    "morebukv.ru",
-    "sinonim.org",
-    "www.rusprofile.ru",
-    "senate.parlam.kz",
-    "diletant.media",
-    "www.audit-it.ru"
    ]
   },
   "хочу машину из кореи": {
@@ -142046,26 +139286,6 @@
     "www.ferrarimoscow.ru"
    ]
   },
-  "контракт на покупку авто из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 5,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "china.jpstar.ru",
-    "severdv.online",
-    "importvostokmotors.ru",
-    "senatcars.ru",
-    "china.estransit.ru",
-    "senatcars.ru",
-    "dzen.ru",
-    "satauto.ru",
-    "tokidoki.su"
-   ]
-  },
   "пригнать машину из кореи в россию под заказ": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -142146,26 +139366,6 @@
     "auto.drom.ru"
    ]
   },
-  "курс биткоина": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.rbc.ru",
-    "ru.investing.com",
-    "ru.investing.com",
-    "www.binance.com",
-    "ru.investing.com",
-    "www.binance.com",
-    "ru.tradingview.com",
-    "bankiros.ru",
-    "www.finam.ru",
-    "www.okx.com"
-   ]
-  },
   "ssancar com": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -142224,17 +139424,6 @@
     "vladivostok.drom.ru",
     "auto.ru",
     "www.ferrarimoscow.ru"
-   ]
-  },
-  "сентакарс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 1,
-   "top10": [
-    "senatcars.ru"
    ]
   },
   "сколько стоят бмв в корее": {
@@ -142357,26 +139546,6 @@
     "korea.jpstar.ru"
    ]
   },
-  "договор поставки авто из китая образец": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 3,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "jptrade.ru",
-    "severdv.online",
-    "senatcars.ru",
-    "severdv.online",
-    "importvostokmotors.ru",
-    "china-car-spb.ru",
-    "fuga-japan.ru",
-    "china.jpstar.ru",
-    "xn--80aafj7bfd1a.xn--p1ai",
-    "carwin.ru"
-   ]
-  },
   "lotus стоимость": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -142395,26 +139564,6 @@
     "auto.ru",
     "auto.ru",
     "auto.drom.ru"
-   ]
-  },
-  "госуслуги личный кабинет": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "esia.gosuslugi.ru",
-    "esia.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru"
    ]
   },
   "авто из кореи под заказ мерседес": {
@@ -142455,26 +139604,6 @@
     "www.drive2.ru",
     "www.autonews.ru",
     "dzen.ru"
-   ]
-  },
-  "usd цб": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "cbr.ru",
-    "cbr.ru",
-    "www.cbr.ru",
-    "www.banki.ru",
-    "bankiros.ru",
-    "www.banki.ru",
-    "www.rbc.ru",
-    "ru.myfin.by",
-    "www.sravni.ru",
-    "bcs-express.ru"
    ]
   },
   "тигуан из китая": {
@@ -142715,26 +139844,6 @@
     "senatcars.ru",
     "koreacars.me",
     "buy.110km.ru"
-   ]
-  },
-  "карта сво": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "ria.ru",
-    "lostarmour.info",
-    "svomapp.ru",
-    "old.opermap.mash.ru",
-    "divgen.ru",
-    "tass.ru",
-    "rg.ru",
-    "ukraine.liveuamap.com",
-    "aif.ru",
-    "map.ukrdailyupdate.com"
    ]
   },
   "авто минивэн гбо": {
@@ -143217,26 +140326,6 @@
     "severdv.online"
    ]
   },
-  "карта уфанет уфа": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "maps.ufanet.ru",
-    "maps.ufanet.ru",
-    "yandex.ru",
-    "ufanet-pro.ru",
-    "2gis.ru",
-    "ufanet-pro.ru",
-    "yandex.ru",
-    "ucams.ufanet.ru",
-    "2gis.ru",
-    "www.ufanet.ru"
-   ]
-  },
   "форд рейнджер раптор купить бу": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -143335,46 +140424,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "договор поставки авто из южной кореи": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "senatcars.ru",
-    "samjinexport.com",
-    "korean.sferacar.ru",
-    "cravto.ru",
-    "carwin.ru",
-    "jpkorea.ru",
-    "asiancar.ru",
-    "romanscars.ru",
-    "tokidoki.su"
-   ]
-  },
-  "валберис": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.wildberries.ru",
-    "www.ozon.ru",
-    "www.wildberries.ru",
-    "www.wildberries.ru",
-    "www.wildberries.ru",
-    "www.wildberries.ru",
-    "www.wildberries.ru",
-    "www.wildberries.ru",
-    "www.wildberries.ru",
-    "www.wildberries.ru"
    ]
   },
   "ауди а 6 из кореи": {
@@ -143477,26 +140526,6 @@
     "auto.ru"
    ]
   },
-  "договор поставки авто из японии": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 40,
-   "url": "https://senatcars.ru/contracts/japan.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "carwin.ru",
-    "satauto.ru",
-    "noharaauto.com",
-    "japan.actionmotors.ru",
-    "japan.actionmotors.ru",
-    "jptrade.ru",
-    "jpstar.ru",
-    "amulex.ru",
-    "sferacar.ru"
-   ]
-  },
   "подбор авто из кореи в россию с растаможкой": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -143515,26 +140544,6 @@
     "trust-encar.ru",
     "encar-russia.ru",
     "sunrise-auto.ru"
-   ]
-  },
-  "договор поставки автомобиля под заказ образец": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 17,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "japan.actionmotors.ru",
-    "zakaz.etp-region.ru",
-    "assistentus.ru",
-    "frp-krsk.ru",
-    "www.agroinvest.com",
-    "www.kubels.ru",
-    "zpp.rospotrebnadzor.ru",
-    "xn----7sbcgaegw4dfbbasj2g2d.xn--p1ai",
-    "amulex.ru",
-    "social.saratov.gov.ru"
    ]
   },
   "доставка авто из кореи и японии": {
@@ -144537,26 +141546,6 @@
     "jplife.ru"
    ]
   },
-  "договор поставки авто из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 5,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "severdv.online",
-    "suifenheauto.ru",
-    "severdv.online",
-    "jptrade.ru",
-    "senatcars.ru",
-    "ivan-auto.ru",
-    "xn--80aagf0bmj5a1g2a.xn--p1ai",
-    "carwin.ru",
-    "china.jpstar.ru",
-    "shinezo.ru"
-   ]
-  },
   "ferrari купить цена": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -144697,26 +141686,6 @@
     "senatcars.ru"
    ]
   },
-  "договор поручения на покупку автомобиля в китае": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "www.sostav.ru",
-    "senatcars.ru",
-    "www.drive2.ru",
-    "china.sferacar.ru",
-    "dzen.ru",
-    "xn----7sbabcf9bjg0bxved0myb.xn--p1ai",
-    "asiancar.ru",
-    "xn---24-5cdbk7bjg2b5be.xn--p1ai",
-    "china.jpstar.ru",
-    "atletauto.ru"
-   ]
-  },
   "сво последние новости на сегодня": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -144797,17 +141766,6 @@
     "gt-import.ru"
    ]
   },
-  "сегаткарс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 1,
-   "top10": [
-    "senatcars.ru"
-   ]
-  },
   "c200d mercedes": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -144846,26 +141804,6 @@
     "kmgexport.com",
     "senatcars.ru",
     "senatcars.ru"
-   ]
-  },
-  "вк": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "vk.ru",
-    "vk.ru",
-    "vk.ru",
-    "vk.ru",
-    "vk.ru",
-    "vk.ru",
-    "id.vk.ru",
-    "vk.ru",
-    "vk.ru",
-    "m.vkvideo.ru"
    ]
   },
   "china and russia contracts download": {
@@ -145208,26 +142146,6 @@
     "m.vk.ru"
    ]
   },
-  "образец контракт привоз авто с японии": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "noharaauto.com",
-    "satauto.ru",
-    "carwin.ru",
-    "avto-samurai.ru",
-    "severdv.online",
-    "jptrade.ru",
-    "jpstar.ru",
-    "japan.actionmotors.ru",
-    "topcarjapan.ru",
-    "fuga-japan.ru"
-   ]
-  },
   "мазерати седан купить": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -145246,26 +142164,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "договор привоза авто": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 14,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "zakaz.etp-region.ru",
-    "assistentus.ru",
-    "japan.actionmotors.ru",
-    "frp-krsk.ru",
-    "kad-autoconsult.ru",
-    "zpp.rospotrebnadzor.ru",
-    "sferacar.ru",
-    "autovezem.ru",
-    "assistentus.ru",
-    "social.saratov.gov.ru"
    ]
   },
   "купить ссангйонг из кореи": {
@@ -145408,26 +142306,6 @@
     "auto.ru"
    ]
   },
-  "курс доллара на сегодня": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.vl.ru",
-    "cbr.ru",
-    "www.banki.ru",
-    "www.banki.ru",
-    "www.vl.ru",
-    "cbr.ru",
-    "www.banki.ru",
-    "www.banki.ru",
-    "bankiros.ru",
-    "www.banki.ru"
-   ]
-  },
   "привезти машину с кореи в россию": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -145486,26 +142364,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "ютуб": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.youtube.com",
-    "m.youtube.com",
-    "apps.apple.com",
-    "play.google.com",
-    "www.youtube.com",
-    "ru.wikipedia.org",
-    "rutube.ru",
-    "www.pinterest.com",
-    "ren.tv",
-    "ru.ruwiki.ru"
    ]
   },
   "сколько стоит мазерати?": {
@@ -145846,26 +142704,6 @@
     "www.avito.ru",
     "auto.ru",
     "www.avito.ru"
-   ]
-  },
-  "госуслуги": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.gosuslugi.ru",
-    "esia.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "esia.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru",
-    "www.gosuslugi.ru"
    ]
   },
   "купить ferrari цена": {
@@ -146326,26 +143164,6 @@
     "jpkorea.ru",
     "dss-g.com",
     "prokorea.trading"
-   ]
-  },
-  "сенеат карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "vk.ru",
-    "yandex.ru",
-    "2gis.ru",
-    "t.me",
-    "dzen.ru"
    ]
   },
   "автомобили под заказ из кореи": {
@@ -147828,26 +144646,6 @@
     "auto.ru"
    ]
   },
-  "майл ру": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "mail.ru",
-    "account.mail.ru",
-    "account.mail.ru",
-    "news.mail.ru",
-    "news.mail.ru",
-    "new.mail.ru",
-    "news.mail.ru",
-    "account.mail.ru",
-    "news.mail.ru",
-    "ok.ru"
-   ]
-  },
   "автомобиль из кореи на заказ отзывы": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -148388,26 +145186,6 @@
     "auto.ru"
    ]
   },
-  "чебоксары новости": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "dzen.ru",
-    "cheb.mk.ru",
-    "cheb.mk.ru",
-    "gcheb.cap.ru",
-    "chgtrk.ru",
-    "www.vesti.ru",
-    "gcheb.cap.ru",
-    "vk.ru",
-    "chv.aif.ru",
-    "ria.ru"
-   ]
-  },
   "машины с кореи купить под заказ доставкой": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -148466,26 +145244,6 @@
     "auto.ru",
     "tokito-auto.ru",
     "auto.mail.ru"
-   ]
-  },
-  "договор поставки товара из китая в россию образец": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 41,
-   "url": "https://senatcars.ru/contracts/china.pdf",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "towercargo.ru",
-    "www.advokatorium.com",
-    "inch-quality.ru",
-    "asia-business.ru",
-    "www.mezhtransavto.ru",
-    "xn--80atbkennd.xn--80asehdb",
-    "chinatoday.ru",
-    "longwang.ru",
-    "cn-redbridge.ru",
-    "gwall.su"
    ]
   },
   "гелендваген": {
@@ -148766,26 +145524,6 @@
     "www.drom.ru",
     "auto.ru",
     "www.kia.ru"
-   ]
-  },
-  "лиза курочкина череповец": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "vk.ru",
-    "vk.ru",
-    "zachestnyibiznes.ru",
-    "www.audit-it.ru",
-    "checko.ru",
-    "ok.ru",
-    "ok.ru",
-    "m.ok.ru",
-    "ok.ru",
-    "ok.ru"
    ]
   },
   "ferrari roma spider цена": {
@@ -149308,26 +146046,6 @@
     "autosender.ru"
    ]
   },
-  "senat автомобиль купить": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 30,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "www.avito.ru",
-    "auto.ru",
-    "auto.drom.ru",
-    "auto.drom.ru",
-    "www.avito.ru"
-   ]
-  },
   "mercedes из кореи честныйпрайс": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -149708,26 +146426,6 @@
     "auto.ru"
    ]
   },
-  "senatauto": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "gt-news.ru",
-    "www.autonews.ru",
-    "rg.ru",
-    "www.rusprofile.ru",
-    "www.audit-it.ru",
-    "checko.ru",
-    "senatauto.ru",
-    "focus.kontur.ru",
-    "companies.rbc.ru"
-   ]
-  },
   "ауди а6 40 tdi цена": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -149746,26 +146444,6 @@
     "auto.ru",
     "auto.ru",
     "auto.ru"
-   ]
-  },
-  "договор на оказание услуг по привозу автомобилей": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 7,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "zakaz.etp-region.ru",
-    "kad-autoconsult.ru",
-    "assistentus.ru",
-    "autovezem.ru",
-    "japan.actionmotors.ru",
-    "senatcars.ru",
-    "amulex.ru",
-    "autoexpert25.ru",
-    "jptrade.ru"
    ]
   },
   "taa kanto где находится": {
@@ -149888,26 +146566,6 @@
     "sunrise-auto.ru"
    ]
   },
-  "kia seltos под заказ секрет карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 27,
-   "url": "https://senatcars.ru/korean/catalog/Kia",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "auto.ru",
-    "auto.ru",
-    "www.avito.ru",
-    "auto.ru",
-    "koreacars.me",
-    "otradacars.ru",
-    "www.avito.ru",
-    "encarrus.ru",
-    "tokidoki.su",
-    "www.avito.ru"
-   ]
-  },
   "цена maserati": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -149926,26 +146584,6 @@
     "auto.ru",
     "www.avito.ru",
     "auto.ru"
-   ]
-  },
-  "курс доллара": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "www.vl.ru",
-    "cbr.ru",
-    "cbr.ru",
-    "www.banki.ru",
-    "www.cbr.ru",
-    "www.vl.ru",
-    "www.banki.ru",
-    "www.banki.ru",
-    "www.banki.ru",
-    "www.banki.ru"
    ]
   },
   "xm3 1.3 tce re signature": {
@@ -150066,26 +146704,6 @@
     "otzovik.com",
     "otzovik.com",
     "www.easilytrading.ru"
-   ]
-  },
-  "рутуб": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru"
    ]
   },
   "авто из южной кореи на заказ": {
@@ -150428,26 +147046,6 @@
     "westmotors.ru"
    ]
   },
-  "заказать бмв 3 секрет карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 24,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "secretcars.ru",
-    "secretcars.ru",
-    "www.avito.ru",
-    "secret-cars.clients.site",
-    "auto.ru",
-    "koreacars.me",
-    "xn----7sbzag1bij.xn--p1ai",
-    "auto.ru",
-    "auto.ru",
-    "autosender.ru"
-   ]
-  },
   "ауди рс 7 перфоманс цена": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -150466,26 +147064,6 @@
     "auto.ru",
     "www.avito.ru",
     "auto.ru"
-   ]
-  },
-  "договор привоза авто из китая": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 6,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "suifenheauto.ru",
-    "severdv.online",
-    "china.jpstar.ru",
-    "jptrade.ru",
-    "autovezem.ru",
-    "senatcars.ru",
-    "kad-autoconsult.ru",
-    "severdv.online",
-    "senatcars.ru",
-    "china-car-moscow.ru"
    ]
   },
   "карта": {
@@ -150586,26 +147164,6 @@
     "senatcars.ru",
     "da-motors-msk.ru",
     "auto-import-rating.ru"
-   ]
-  },
-  "дзен": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "m.dzen.ru",
-    "dzen.ru",
-    "dzen.ru",
-    "dzen.ru",
-    "dzen.ru",
-    "dzen.ru",
-    "m.dzen.ru",
-    "dzen.ru",
-    "dzen.ru",
-    "dzen.ru"
    ]
   },
   "uss nagoya аукцион на карте": {
@@ -151208,26 +147766,6 @@
     "mycarjp.ru"
    ]
   },
-  "рутубе": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru",
-    "rutube.ru"
-   ]
-  },
   "купить авто из кореи в россии": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -151506,26 +148044,6 @@
     "koreacars.me",
     "www.drive2.ru",
     "autosender.ru"
-   ]
-  },
-  "проект договора на оказание услуг привоз автомобиля из-за границы": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 2,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "kad-autoconsult.ru",
-    "senatcars.ru",
-    "avto-samurai.ru",
-    "noharaauto.com",
-    "xn--80aaec7ci1a.xn--p1ai",
-    "amulex.ru",
-    "jptrade.ru",
-    "topcarjapan.ru",
-    "autovezem.ru",
-    "carhao.market"
    ]
   },
   "kia cerato из кореи": {
@@ -152008,26 +148526,6 @@
     "www.avito.ru"
    ]
   },
-  "посьетская 45 владивосток": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": null,
-   "url": null,
-   "inTop100": false,
-   "foundDocs": 100,
-   "top10": [
-    "yandex.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "yandex.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "2gis.ru",
-    "yandex.ru",
-    "2gis.ru",
-    "2gis.ru"
-   ]
-  },
   "бмв купить с кореи": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -152328,26 +148826,6 @@
     "jplife.ru"
    ]
   },
-  "сегат карс": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 1,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "auc.senatcars.ru",
-    "senatcars.ru",
-    "senatcars.ru",
-    "vk.ru",
-    "senatcars.ru",
-    "2gis.ru",
-    "t.me"
-   ]
-  },
   "мерседес амг": {
    "tag": "dobor-vebmaster",
    "source": "queue:2026-11-23_dobor-vebmaster",
@@ -152486,26 +148964,6 @@
     "korex-auto.com",
     "senatcars.ru",
     "vdkauto125.ru"
-   ]
-  },
-  "договор по привозу машины из японии": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 6,
-   "url": "https://senatcars.ru/service/contract",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "satauto.ru",
-    "noharaauto.com",
-    "jpstar.ru",
-    "severdv.online",
-    "carwin.ru",
-    "senatcars.ru",
-    "avto-samurai.ru",
-    "jptrade.ru",
-    "sferacar.ru",
-    "topcarjapan.ru"
    ]
   },
   "автомобиль senator китай": {
@@ -153646,26 +150104,6 @@
     "autopremiumgroup.ru",
     "www.avito.ru",
     "ramtruck.ru"
-   ]
-  },
-  "senat авто купить": {
-   "tag": "dobor-vebmaster",
-   "source": "queue:2026-11-23_dobor-vebmaster",
-   "position": 12,
-   "url": "https://senatcars.ru/",
-   "inTop100": true,
-   "foundDocs": 100,
-   "top10": [
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.ru",
-    "auto.drom.ru",
-    "auto.ru",
-    "auto.ru",
-    "www.avito.ru",
-    "auto.drom.ru"
    ]
   },
   "привезти мерседес из кореи": {

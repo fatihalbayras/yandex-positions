@@ -2,8 +2,8 @@
  "date": "2026-11-18",
  "region": "75",
  "site": "senatcars.ru",
- "total": 3206,
- "done": 3206,
+ "total": 3200,
+ "done": 3200,
  "pending": [],
  "positions": {
   "maserati купить": {
@@ -220,11 +220,6 @@
    "tag": "ключи общие",
    "source": "base",
    "error": "operation check: HTTP 404 for /v2/operations/sprd4sj4u5clhiko2ik5: {\"code\":5, \"message\":\"Not Found\"}"
-  },
-  "jeep wrangler 2.0 rubicon 4door tuscadero edition характеристики": {
-   "tag": "ключи общие",
-   "source": "base",
-   "error": "operation check: HTTP 404 for /v2/operations/sprosobkumb3iq3el5ta: {\"code\":5, \"message\":\"Not Found\"}"
   },
   "jetta 1.5 tsi prestige": {
    "tag": "ключи общие",
@@ -720,11 +715,6 @@
    "tag": "ключи общие",
    "source": "base",
    "error": "operation check: HTTP 404 for /v2/operations/sprtee94vofjd8ft17g2: {\"code\":5, \"message\":\"Not Found\"}"
-  },
-  "audi rsq8 расход 40 литров": {
-   "tag": "ключи общие",
-   "source": "base",
-   "error": "operation check: HTTP 404 for /v2/operations/spr2u5bbum2iju06drgq: {\"code\":5, \"message\":\"Not Found\"}"
   },
   "audi s4 из кореи": {
    "tag": "ключи общие",
@@ -2005,11 +1995,6 @@
    "tag": "ключи общие",
    "source": "base",
    "error": "operation check: HTTP 404 for /v2/operations/spr2hn1ck9qfbaf9i52e: {\"code\":5, \"message\":\"Not Found\"}"
-  },
-  "kia ray van prestige(1seater) zv-auto.ru": {
-   "tag": "ключи общие",
-   "source": "base",
-   "error": "operation check: HTTP 404 for /v2/operations/spr099tpb6en2fqdd3s1: {\"code\":5, \"message\":\"Not Found\"}"
   },
   "kia ray из кореи": {
    "tag": "Марки от Дениса",
@@ -5035,11 +5020,6 @@
    "tag": "Группы/топ",
    "source": "base",
    "error": "operation check: HTTP 404 for /v2/operations/sprskmdfn9gkq8dh1bj5: {\"code\":5, \"message\":\"Not Found\"}"
-  },
-  "ауди из кореи авито": {
-   "tag": "ключи общие",
-   "source": "base",
-   "error": "operation check: HTTP 404 for /v2/operations/sprrai5h9fhro10r8sp1: {\"code\":5, \"message\":\"Not Found\"}"
   },
   "ауди из кореи и китая": {
    "tag": "ключи общие",
@@ -8540,16 +8520,6 @@
    "tag": "ключи общие",
    "source": "base",
    "error": "operation check: HTTP 404 for /v2/operations/spr24bdtmk16a9v4mrnn: {\"code\":5, \"message\":\"Not Found\"}"
-  },
-  "кия к5 1 6 турбо signature 2022 характеристики": {
-   "tag": "ключи общие",
-   "source": "base",
-   "error": "operation check: HTTP 404 for /v2/operations/sprajkotr028hrc2cp56: {\"code\":5, \"message\":\"Not Found\"}"
-  },
-  "кия к5 1 6 турбо signature характеристики": {
-   "tag": "ключи общие",
-   "source": "base",
-   "error": "operation check: HTTP 404 for /v2/operations/sprm08ak1idrqfiaraen: {\"code\":5, \"message\":\"Not Found\"}"
   },
   "кия соренто комплектация nobless 2025 год описание": {
    "tag": "ключи общие",
