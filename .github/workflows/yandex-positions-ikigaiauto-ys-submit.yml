@@ -12,6 +12,10 @@ on:
   repository_dispatch:
     types: [ikigaiauto-ys-nightly-submit]
 
+concurrency:
+  group: ikigaiauto-ys-submit
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
