@@ -61,6 +61,36 @@
    "tag": "audi",
    "source": "base",
    "operationId": "spr0hsp23bgvk3j9c7pq"
+  },
+  {
+   "keyword": "https://ikigaiauto.ru/auktsiony/",
+   "tag": "auktsiony",
+   "source": "base",
+   "operationId": "sprlsi2b5lsvn1e52g9h"
+  },
+  {
+   "keyword": "авто аукционы",
+   "tag": "auktsiony",
+   "source": "base",
+   "operationId": "spr94st8dg5ucoq1lgh5"
+  },
+  {
+   "keyword": "авто аукционы в японии с ценами в рублях",
+   "tag": "auktsiony",
+   "source": "base",
+   "operationId": "sprqi21mpq677r9go93d"
+  },
+  {
+   "keyword": "авто в японии купить бу аукцион",
+   "tag": "auktsiony",
+   "source": "base",
+   "operationId": "spruh5k3ks02v9csucar"
+  },
+  {
+   "keyword": "авто в японии купить с аукциона",
+   "tag": "auktsiony",
+   "source": "base",
+   "operationId": "sprfng4045j9m0v5rs0n"
   }
  ]
 }
