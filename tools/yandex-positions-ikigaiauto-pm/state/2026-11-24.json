@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-24",
+ "region": "50",
+ "operations": [
+  {
+   "keyword": "giulia купить",
+   "tag": "alfa-romeo",
+   "source": "base",
+   "operationId": "sprt34rgi9n69c6adkbr"
+  },
+  {
+   "keyword": "a3 аукцион",
+   "tag": "audi",
+   "source": "base",
+   "operationId": "sprvadpfdqfh0hh7371k"
+  },
+  {
+   "keyword": "ауди а4 из японии",
+   "tag": "audi",
+   "source": "base",
+   "operationId": "spr0dp4q1c7bpp0ong1c"
+  },
+  {
+   "keyword": "ауди а4 универсал из японии",
+   "tag": "audi",
+   "source": "base",
+   "operationId": "sprtmoj9lfbjm1b8so25"
+  },
+  {
+   "keyword": "ауди из японии купить",
+   "tag": "audi",
+   "source": "base",
+   "operationId": "sprf0ina2fhkjl2uc3iu"
+  }
+ ]
+}
