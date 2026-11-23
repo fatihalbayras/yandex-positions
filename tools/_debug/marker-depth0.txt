@@ -1,1 +1,1 @@
-depth=0 token_ok=True err=None
+depth=0 token_ok=True err=None chain_attempt=HTTPError code=412 body='{"errorCode":412,"errorMessage":"async invocation is disabled on this function version","errorType":"ProxyIntegrationError"}'
