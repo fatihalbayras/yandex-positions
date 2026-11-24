@@ -5785,6 +5785,156 @@
    "tag": "glavnaya",
    "source": "base",
    "operationId": "spr58h6ueg6k9jpbvaje"
+  },
+  {
+   "keyword": "привоз авто под заказ",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprrfogrcltpraga3cpp"
+  },
+  {
+   "keyword": "продажа авто из японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprfshb62tnrst13t97l"
+  },
+  {
+   "keyword": "продажа автомобилей из японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprog0o73qa3msldl06j"
+  },
+  {
+   "keyword": "продажа машин с японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "spr99pjmji0k8nk1ovdl"
+  },
+  {
+   "keyword": "рынок японии автомобили",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprblvjodb7e1pplp8ij"
+  },
+  {
+   "keyword": "сайт авто японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "spr9k2n7q9ct6j9vuim8"
+  },
+  {
+   "keyword": "сайт для покупки машины из японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprbuvpphv18kh74rvt1"
+  },
+  {
+   "keyword": "сайт заказа авто с японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprc2utsqs5ge17k0kd7"
+  },
+  {
+   "keyword": "сайт по поиску авто в японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprp04lndtltfu3q8fbj"
+  },
+  {
+   "keyword": "сайт японии по продаже авто",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprrae66vkfhv16bhvhg"
+  },
+  {
+   "keyword": "сайты по продаже авто из японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprick97953ei1mjrpk1"
+  },
+  {
+   "keyword": "сайты продажи авто в японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprs9t30b7vkcranbl74"
+  },
+  {
+   "keyword": "стоимость авто из японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprqjlfp9kch3c2samme"
+  },
+  {
+   "keyword": "стоимость заказа авто из японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "spr8gbmtil3q5johfkqn"
+  },
+  {
+   "keyword": "стоимость привезти авто из японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprtd2s0o9kkqovp55ee"
+  },
+  {
+   "keyword": "стоимость привоза авто из японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "sprshk29mqco4vdsi5o2"
+  },
+  {
+   "keyword": "цены на автомобили в японии",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "spr99r6nkqtvnj4jrdu3"
+  },
+  {
+   "keyword": "цены на японские автомобили",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "spr72p0bcu8ptklsk60q"
+  },
+  {
+   "keyword": "япония авто",
+   "tag": "glavnaya",
+   "source": "base",
+   "operationId": "spr6f3b5di9f4o7lsjo2"
+  },
+  {
+   "keyword": "купить пикап gmc в японии",
+   "tag": "gmc",
+   "source": "base",
+   "operationId": "sprjastqj343hcijjtju"
+  },
+  {
+   "keyword": "https://ikigaiauto.ru/krasnoyarsk/",
+   "tag": "gorod-krasnoyarsk",
+   "source": "base",
+   "operationId": "spr4et5sj3u2lp97t0p2"
+  },
+  {
+   "keyword": "авто без пробега красноярск",
+   "tag": "gorod-krasnoyarsk",
+   "source": "base",
+   "operationId": "sprlkqo0ajn1ekce27sv"
+  },
+  {
+   "keyword": "авто из китая доставка в красноярск",
+   "tag": "gorod-krasnoyarsk",
+   "source": "base",
+   "operationId": "spr8efqlmp2tp7mvjn1f"
+  },
+  {
+   "keyword": "авто из китая красноярск",
+   "tag": "gorod-krasnoyarsk",
+   "source": "base",
+   "operationId": "spr03a1frputh6lttthd"
+  },
+  {
+   "keyword": "авто из китая под заказ красноярск",
+   "tag": "gorod-krasnoyarsk",
+   "source": "base",
+   "operationId": "sprkuolmk3jpejcapmbn"
   }
  ]
 }
