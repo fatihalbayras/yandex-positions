@@ -6535,6 +6535,156 @@
    "tag": "gorod-perm",
    "source": "base",
    "operationId": "sprg070200v2c9rtlm4o"
+  },
+  {
+   "keyword": "стоимость авто из китая пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "spr5tu1puub5khhq89hv"
+  },
+  {
+   "keyword": "стоимость авто из кореи пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "spr7tmg4bb3npto892tj"
+  },
+  {
+   "keyword": "стоимость авто из японии пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "spr6e7j5eu1cql2k43nv"
+  },
+  {
+   "keyword": "стоимость автомобилей из китая пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprnp1ikgqee9kh0r0lm"
+  },
+  {
+   "keyword": "стоимость автомобилей из кореи пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprfmb9p9fabhgdo0v88"
+  },
+  {
+   "keyword": "стоимость автомобилей из японии пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprlf5a4pqgqom1v7aff"
+  },
+  {
+   "keyword": "цена авто из китая пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprp7vm5o83u4ja54io4"
+  },
+  {
+   "keyword": "цена авто из кореи пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprctrfcm4patu55nmmg"
+  },
+  {
+   "keyword": "цена авто из японии пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprkq9ihvta2kv7399dq"
+  },
+  {
+   "keyword": "цена автомобилей из китая пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprc6esa8jqf8fonv5u3"
+  },
+  {
+   "keyword": "цена автомобилей из кореи пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprm5cbssrttpam007mv"
+  },
+  {
+   "keyword": "цена автомобилей из японии пермь",
+   "tag": "gorod-perm",
+   "source": "base",
+   "operationId": "sprmvteuldo0r2j32aou"
+  },
+  {
+   "keyword": "https://ikigaiauto.ru/yuzhno-sahalinsk/",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "spr011ckt7aaic869irv"
+  },
+  {
+   "keyword": "авто без пробега южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "sprjovhm1kge6o88rkte"
+  },
+  {
+   "keyword": "авто из китая доставка в южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "sprlq866goushhdq8no4"
+  },
+  {
+   "keyword": "авто из китая под заказ южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "sprl4h4j3c0tijgh730k"
+  },
+  {
+   "keyword": "авто из китая южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "sprma7a78rm3ehnk4eig"
+  },
+  {
+   "keyword": "авто из кореи доставка в южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "spr64nkltvdh20lnele0"
+  },
+  {
+   "keyword": "авто из кореи под заказ южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "spr62eiri3ii6o7j7nc4"
+  },
+  {
+   "keyword": "авто из кореи южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "spr2piud00h6mo2kpe1l"
+  },
+  {
+   "keyword": "авто из японии доставка в южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "sprv1me9ndufnkefg56s"
+  },
+  {
+   "keyword": "авто из японии под заказ южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "sprsgr8i6nk1ajqckb51"
+  },
+  {
+   "keyword": "авто из японии южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "spradnmuaphdl90m0qtn"
+  },
+  {
+   "keyword": "авто под заказ южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "spr5eetem0d7lnveqja9"
+  },
+  {
+   "keyword": "авто с аукционов южно-сахалинск",
+   "tag": "gorod-yuzhno-sahalinsk",
+   "source": "base",
+   "operationId": "sprcbamjuicoahsp8ntp"
   }
  ]
 }
