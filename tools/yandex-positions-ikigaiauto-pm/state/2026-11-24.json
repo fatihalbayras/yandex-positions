@@ -10609,6 +10609,18 @@
    "tag": "gsc-dobor",
    "source": "queue:2026-11-22_gsc-dobor",
    "operationId": "sprqjunc24g99mlkgq7t"
+  },
+  {
+   "keyword": "nissan e-nv200 аукцион",
+   "tag": "nissan",
+   "source": "base",
+   "operationId": "spr8c3vj1cmmedq9iipi"
+  },
+  {
+   "keyword": "nissan elgrand аукцион",
+   "tag": "nissan",
+   "source": "base",
+   "operationId": "sprg682gqu6djtmf2fe1"
   }
  ]
 }
