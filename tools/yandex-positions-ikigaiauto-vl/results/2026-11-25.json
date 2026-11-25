@@ -2,8 +2,8 @@
  "date": "2026-11-25",
  "region": "75",
  "site": "ikigaiauto.ru",
- "total": 0,
- "done": 0,
+ "total": 1743,
+ "done": 1743,
  "pending": [],
  "positions": {
   "giulia купить": {
@@ -34004,6 +34004,866 @@
     "tempa-cars.ru",
     "sferacar.ru",
     "jpstar.ru"
+   ]
+  },
+  "аукцион ниссан": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 65,
+   "url": "https://ikigaiauto.ru/auktsiony/nissan/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "japantransit.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "tokai-auto.ru",
+    "estransit.ru",
+    "jpstar.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "sferacar.ru",
+    "sferacar.ru"
+   ]
+  },
+  "аукцион ниссан скайлайн": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 75,
+   "url": "https://ikigaiauto.ru/auktsiony/nissan/skyline/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jpstar.ru",
+    "autosender.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "jpstar.ru",
+    "japanexpert.ru",
+    "tokidoki.su",
+    "akira-auto.ru",
+    "tempa-cars.ru"
+   ]
+  },
+  "аукцион ниссан япония": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "japantransit.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "tokai-auto.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "estransit.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "noharaauto.com"
+   ]
+  },
+  "аукционы японии ниссан эльгранд": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 32,
+   "url": "https://ikigaiauto.ru/statistika/nissan/elgrand/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "www.drom.ru",
+    "tokai-auto.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "sferacar.ru",
+    "tokai-auto.ru",
+    "sferacar.ru",
+    "japantransit.ru"
+   ]
+  },
+  "купить nissan ariya": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "auto.ru",
+    "www.avito.ru",
+    "auto.ru",
+    "auto.ru",
+    "auto.ru",
+    "auto.ru",
+    "auto.ru",
+    "autosender.ru",
+    "autosender.ru"
+   ]
+  },
+  "купить nissan x trail с японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "sferacar.ru",
+    "auto.drom.ru",
+    "antaresjp.ru",
+    "estransit.ru",
+    "japantransit.ru",
+    "tokito-auto.ru"
+   ]
+  },
+  "купить ниссан икстрейл с аукциона в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 61,
+   "url": "https://ikigaiauto.ru/statistika/nissan/x-trail/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "japantransit.ru",
+    "tokidoki.su",
+    "www.drom.ru",
+    "tokai-auto.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "www.japantrek.ru"
+   ]
+  },
+  "купить ниссан лиф с аукциона": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "estransit.ru",
+    "antaresjp.ru",
+    "carwin.ru",
+    "carwin.ru",
+    "sferacar.ru"
+   ]
+  },
+  "купить ниссан лиф с аукциона в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "tokidoki.su",
+    "carwin.ru",
+    "carwin.ru",
+    "tokai-auto.ru",
+    "onteco.ru",
+    "www.japantrek.ru",
+    "sferacar.ru"
+   ]
+  },
+  "купить ниссан ноут с аукциона в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "mycarjp.ru",
+    "jpstar.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "carwin.ru",
+    "tokai-auto.ru",
+    "onteco.ru",
+    "jplife.ru"
+   ]
+  },
+  "купить ниссан серена с аукциона": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "carwin.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "www.drom.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "www.japantrek.ru"
+   ]
+  },
+  "купить ниссан серена с аукциона в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 91,
+   "url": "https://ikigaiauto.ru/statistika/nissan/serena/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "tokai-auto.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "tokai-auto.ru",
+    "sferacar.ru"
+   ]
+  },
+  "купить ниссан скайлайн в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "tokai-auto.ru",
+    "japanexpert.ru",
+    "www.japantrek.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "tokai-auto.ru",
+    "onteco.ru",
+    "carwin.ru"
+   ]
+  },
+  "купить ниссан террано": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vladivostok.drom.ru",
+    "auto.ru",
+    "www.avito.ru",
+    "auto.drom.ru",
+    "www.farpost.ru",
+    "sberauto.com",
+    "autosender.ru",
+    "japancar.ru",
+    "www.avito.ru",
+    "avantaauto.ru"
+   ]
+  },
+  "купить ниссан х трейл в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "tokidoki.su",
+    "www.drom.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "tokai-auto.ru",
+    "sferacar.ru"
+   ]
+  },
+  "купить ниссан х трейл с аукциона": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 94,
+   "url": "https://ikigaiauto.ru/statistika/nissan/x-trail/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "tokai-auto.ru",
+    "jpstar.ru",
+    "www.drom.ru",
+    "sferacar.ru",
+    "japantransit.ru",
+    "tokidoki.su",
+    "estransit.ru"
+   ]
+  },
+  "купить электро ниссан": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "auto.ru",
+    "auto.ru",
+    "auto.ru",
+    "www.avito.ru",
+    "auto.drom.ru",
+    "auto.drom.ru",
+    "www.avito.ru",
+    "auto.drom.ru",
+    "auto.drom.ru"
+   ]
+  },
+  "ниссан вингроуд аукцион": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 47,
+   "url": "https://ikigaiauto.ru/statistika/nissan/wingroad/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "www.drom.ru",
+    "tokai-auto.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "severdv.online",
+    "jplife.ru",
+    "onteco.ru",
+    "akira-auto.ru"
+   ]
+  },
+  "ниссан из японии заказать": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "specavtotradedv.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "estransit.ru",
+    "autosender.ru",
+    "antaresjp.ru",
+    "akira-auto.ru",
+    "japantransit.ru",
+    "tokidoki.su"
+   ]
+  },
+  "ниссан из японии на заказ": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "tokidoki.su",
+    "specavtotradedv.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "antaresjp.ru",
+    "estransit.ru",
+    "mycarjp.ru",
+    "tokai-auto.ru",
+    "japantransit.ru"
+   ]
+  },
+  "ниссан икстрейл с аукциона": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "www.drom.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "jpstar.ru",
+    "japantransit.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "tokai-auto.ru",
+    "www.japantrek.ru"
+   ]
+  },
+  "ниссан икстрейл с аукциона японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 58,
+   "url": "https://ikigaiauto.ru/statistika/nissan/x-trail/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "www.drom.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "japantransit.ru",
+    "tokai-auto.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "jpstar.ru"
+   ]
+  },
+  "ниссан марч к13 купить": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "auto.ru",
+    "www.avito.ru",
+    "www.avito.ru",
+    "auto.ru",
+    "autosender.ru",
+    "akira-auto.ru",
+    "tokidoki.su",
+    "akira-auto.ru",
+    "auto.drom.ru"
+   ]
+  },
+  "ниссан марч купить": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "auto.ru",
+    "www.avito.ru",
+    "auto.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "auto.drom.ru",
+    "auto.drom.ru",
+    "carwin.ru",
+    "estransit.ru"
+   ]
+  },
+  "ниссан мистраль купить в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "tokai-auto.ru",
+    "akira-auto.ru",
+    "cars-from-japan.ru",
+    "jptrade.ru",
+    "www.drom.ru",
+    "onteco.ru",
+    "tokai-auto.ru",
+    "riviera-cars.ru"
+   ]
+  },
+  "ниссан моко купить": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "www.avito.ru",
+    "auto.ru",
+    "vladivostok.drom.ru",
+    "autosender.ru",
+    "japancar.ru",
+    "tokidoki.su",
+    "www.farpost.ru",
+    "carwin.ru",
+    "estransit.ru"
+   ]
+  },
+  "ниссан мурано из японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 96,
+   "url": "https://ikigaiauto.ru/statistika/nissan/murano/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "carwin.ru",
+    "akira-auto.ru",
+    "tokidoki.su",
+    "jptrade.ru",
+    "www.drom.ru",
+    "www.japantrek.ru",
+    "sferacar.ru"
+   ]
+  },
+  "ниссан нв 200 аукцион в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 75,
+   "url": "https://ikigaiauto.ru/statistika/nissan/nv200/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "japantransit.ru",
+    "tokai-auto.ru",
+    "tokai-auto.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "www.drom.ru",
+    "sferacar.ru"
+   ]
+  },
+  "ниссан ноут аукцион": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "www.drom.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "tokidoki.su",
+    "estransit.ru",
+    "tokai-auto.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "ниссан ноут купить из японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "auto.drom.ru",
+    "mycarjp.ru",
+    "sferacar.ru",
+    "japantransit.ru",
+    "carwin.ru",
+    "tokai-auto.ru",
+    "auto.drom.ru",
+    "jplife.ru"
+   ]
+  },
+  "ниссан ноут купить с аукциона": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "mycarjp.ru",
+    "www.drom.ru",
+    "tokai-auto.ru",
+    "onteco.ru",
+    "estransit.ru",
+    "tokidoki.su",
+    "japantransit.ru",
+    "carwin.ru"
+   ]
+  },
+  "ниссан ноут с аукциона в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 42,
+   "url": "https://ikigaiauto.ru/statistika/nissan/note/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "www.drom.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "carwin.ru",
+    "tokai-auto.ru",
+    "onteco.ru"
+   ]
+  },
+  "ниссан с аукциона японии купить": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "japantransit.ru",
+    "carwin.ru",
+    "tokidoki.su",
+    "www.drom.ru",
+    "tokito-auto.ru",
+    "estransit.ru",
+    "sferacar.ru",
+    "mycarjp.ru"
+   ]
+  },
+  "ниссан серена аукцион": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 56,
+   "url": "https://ikigaiauto.ru/statistika/nissan/serena/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "www.drom.ru",
+    "tokai-auto.ru",
+    "sferacar.ru",
+    "jpstar.ru",
+    "tokidoki.su",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "ниссан серена аукцион в японии цена": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 61,
+   "url": "https://ikigaiauto.ru/statistika/nissan/serena/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "tokai-auto.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "www.drom.ru",
+    "sferacar.ru"
+   ]
+  },
+  "ниссан серена купить аукцион": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 96,
+   "url": "https://ikigaiauto.ru/statistika/nissan/serena/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "www.drom.ru",
+    "carwin.ru",
+    "tokai-auto.ru",
+    "jpstar.ru",
+    "www.japantrek.ru"
+   ]
+  },
+  "ниссан серена купить с аукциона в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "ниссан серена купить японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "tokai-auto.ru",
+    "riviera-cars.ru",
+    "www.japantrek.ru",
+    "tokai-auto.ru",
+    "carwin.ru",
+    "tokidoki.su",
+    "auto.drom.ru"
+   ]
+  },
+  "ниссан серена цена в японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 83,
+   "url": "https://ikigaiauto.ru/statistika/nissan/serena/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "carwin.ru",
+    "www.drom.ru",
+    "tokai-auto.ru",
+    "sferacar.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "sferacar.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "ниссан теана из японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "tokai-auto.ru",
+    "www.avito.ru",
+    "tokidoki.su",
+    "jplife.ru",
+    "vlad-truck.ru",
+    "www.drom.ru"
+   ]
+  },
+  "ниссан теана купить": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "auto.ru",
+    "www.avito.ru",
+    "auto.ru",
+    "auto.ru",
+    "auto.ru",
+    "auto.ru",
+    "estransit.ru",
+    "auto.ru",
+    "www.avito.ru"
+   ]
+  },
+  "ниссан террано из японии": {
+   "tag": "nissan",
+   "source": "base",
+   "position": 31,
+   "url": "https://ikigaiauto.ru/statistika/nissan/terrano/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.drom.ru",
+    "autosender.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "cars-from-japan.ru",
+    "carwin.ru",
+    "tokito-auto.ru",
+    "akira-auto.ru",
+    "jteco.ru",
+    "tokidoki.su"
+   ]
+  },
+  "ниссан фуга цена": {
+   "tag": "nissan",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "vladivostok.drom.ru",
+    "auto.ru",
+    "www.avito.ru",
+    "auto.ru",
+    "auto.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "sferacar.ru",
+    "jpstar.ru",
+    "starmotors.biz"
    ]
   }
  }
