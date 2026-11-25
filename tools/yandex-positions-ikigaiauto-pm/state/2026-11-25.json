@@ -12199,6 +12199,156 @@
    "tag": "toyota",
    "source": "base",
    "operationId": "spr3ir2eqcq8dsktpcf3"
+  },
+  {
+   "keyword": "тойота ярис кросс цена из японии",
+   "tag": "toyota",
+   "source": "base",
+   "operationId": "sprqkgaee1t4i5l8vrg2"
+  },
+  {
+   "keyword": "цена тойота iq купе",
+   "tag": "toyota",
+   "source": "base",
+   "operationId": "spr7tvpselph1ofequ4u"
+  },
+  {
+   "keyword": "японский аукцион тойота",
+   "tag": "toyota",
+   "source": "base",
+   "operationId": "sprd7bcr4k9k4236aeet"
+  },
+  {
+   "keyword": "volkswagen tiguan из японии",
+   "tag": "volkswagen",
+   "source": "base",
+   "operationId": "spr9h8617rc4q8v36sqa"
+  },
+  {
+   "keyword": "volkswagen tiguan купить",
+   "tag": "volkswagen",
+   "source": "base",
+   "operationId": "spr0hse929ainqide7mj"
+  },
+  {
+   "keyword": "тигуан с японии",
+   "tag": "volkswagen",
+   "source": "base",
+   "operationId": "sprjudflirmrhdsq4i79"
+  },
+  {
+   "keyword": "фольксваген из японии купить",
+   "tag": "volkswagen",
+   "source": "base",
+   "operationId": "sprhdq809m5hj2hq6l32"
+  },
+  {
+   "keyword": "фольксваген тигуан из японии",
+   "tag": "volkswagen",
+   "source": "base",
+   "operationId": "sprn4q8gfquugitc22ju"
+  },
+  {
+   "keyword": "фольцваген т-кросс купить",
+   "tag": "volkswagen",
+   "source": "base",
+   "operationId": "sprq4o38t8r4hdtrfvpm"
+  },
+  {
+   "keyword": "вольво из японии купить",
+   "tag": "volvo",
+   "source": "base",
+   "operationId": "spr21p4mmc2cdf1esiq9"
+  },
+  {
+   "keyword": "вольво универсал из японии",
+   "tag": "volvo",
+   "source": "base",
+   "operationId": "sprno88nvnqouhtmf6go"
+  },
+  {
+   "keyword": "купить вольво из японии",
+   "tag": "volvo",
+   "source": "base",
+   "operationId": "sprrhsbo7avj455dnk1e"
+  },
+  {
+   "keyword": "субару джип",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "sprjaci7244gvsa65s53"
+  },
+  {
+   "keyword": "honda crossroad",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "spr3rbg2l6bh7260msrt"
+  },
+  {
+   "keyword": "lexus lc500",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "spr1ltf7m1d5duh8kmmf"
+  },
+  {
+   "keyword": "авто красноярск",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "sprskof1uku68ck767ou"
+  },
+  {
+   "keyword": "lc500",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "sprkmmgdpfbnd08p5l1i"
+  },
+  {
+   "keyword": "авто из японии иркутск",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "spriln8h8ae6di8aba2r"
+  },
+  {
+   "keyword": "lexus is350",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "sprf6lem1rlji0ea3ofq"
+  },
+  {
+   "keyword": "toyota crown sport",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "sprta46n509ud3jc6v56"
+  },
+  {
+   "keyword": "mazda cx-80",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "spr9mo5mugr271mudn5m"
+  },
+  {
+   "keyword": "suzuki jimny nomade",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "spr7jpcbes1pfnotf2qt"
+  },
+  {
+   "keyword": "mazda cx 80",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "spr3d1jlhqq2cerhf12r"
+  },
+  {
+   "keyword": "subaru джип",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "spreb9s8q5gondst2us6"
+  },
+  {
+   "keyword": "джип субару",
+   "tag": "gsc-dobor",
+   "source": "queue:2026-11-22_gsc-dobor",
+   "operationId": "spr6mv0g0md8eouss1ul"
   }
  ]
 }
