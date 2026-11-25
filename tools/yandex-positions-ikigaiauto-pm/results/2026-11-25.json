@@ -1,0 +1,2010 @@
+{
+ "date": "2026-11-25",
+ "region": "50",
+ "site": "ikigaiauto.ru",
+ "total": 0,
+ "done": 0,
+ "pending": [],
+ "positions": {
+  "giulia купить": {
+   "tag": "alfa-romeo",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.ozon.ru",
+    "www.ozon.ru",
+    "www.ozon.ru",
+    "www.wildberries.ru",
+    "market.yandex.ru",
+    "www.wildberries.ru",
+    "www.avito.ru",
+    "underwearmw.com",
+    "www.lamoda.ru",
+    "underwearmw.com"
+   ]
+  },
+  "a3 аукцион": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.ru",
+    "east.moscow",
+    "jteco.ru",
+    "tokidoki.su",
+    "khv.adojapan.ru",
+    "noharaauto.com",
+    "carwin.ru",
+    "www.drive2.ru",
+    "tokidoki.su",
+    "ai-import.ru"
+   ]
+  },
+  "ауди а4 из японии": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "autosender.ru",
+    "www.avito.ru",
+    "tokai-auto.ru",
+    "auto.drom.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "www.avito.ru",
+    "specavtotradedv.ru"
+   ]
+  },
+  "ауди а4 универсал из японии": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.avito.ru",
+    "www.avito.ru",
+    "autosender.ru",
+    "www.drive2.ru",
+    "auto.drom.ru",
+    "www.avito.ru",
+    "tokai-auto.ru",
+    "www.drom.ru",
+    "sferacar.ru"
+   ]
+  },
+  "ауди из японии купить": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "autosender.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "www.avito.ru",
+    "tokai-auto.ru",
+    "sferacar.ru",
+    "japantransit.ru",
+    "specavtotradedv.ru",
+    "riviera-cars.ru"
+   ]
+  },
+  "ауди с японии": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "autosender.ru",
+    "tokidoki.su",
+    "www.avito.ru",
+    "sferacar.ru",
+    "tokai-auto.ru",
+    "www.drom.ru",
+    "japantransit.ru",
+    "riviera-cars.ru",
+    "carwin.ru"
+   ]
+  },
+  "купить ауди из японии": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "autosender.ru",
+    "tokidoki.su",
+    "www.avito.ru",
+    "tokai-auto.ru",
+    "sferacar.ru",
+    "japantransit.ru",
+    "riviera-cars.ru",
+    "carwin.ru",
+    "tokidoki.su"
+   ]
+  },
+  "купить ауди на аукционе": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "sferacar.ru",
+    "autosender.ru",
+    "autosender.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "tokidoki.su",
+    "xn--80ae0bp.xn--80ajfnem3l.xn--80asehdb"
+   ]
+  },
+  "купить ауди тт": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.avito.ru",
+    "auto.ru",
+    "perm.drom.ru",
+    "auto.ru",
+    "auto.drom.ru",
+    "auto.drom.ru",
+    "auto.ru",
+    "auto.ru",
+    "auto.ru",
+    "auto.ru"
+   ]
+  },
+  "купить ауди япония": {
+   "tag": "audi",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto.drom.ru",
+    "autosender.ru",
+    "tokidoki.su",
+    "www.avito.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "tokai-auto.ru",
+    "riviera-cars.ru",
+    "tokidoki.su",
+    "japantransit.ru"
+   ]
+  },
+  "https://ikigaiauto.ru/auktsiony/": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 1,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ikigaiauto.ru",
+    "ikigaiauto.ru",
+    "ikigaiauto.ru",
+    "ikigaiauto.ru",
+    "ikigaiauto.ru",
+    "ikigaiauto.ru",
+    "ikigaiauto.ru",
+    "ikigaiauto.ru",
+    "www.avito.ru",
+    "vk.ru"
+   ]
+  },
+  "авто аукционы": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 36,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "auction-house.ru",
+    "auctionafto.com",
+    "auto.carcade.com",
+    "xn----etbpba5admdlad.xn--p1ai",
+    "sferacar.ru",
+    "auction-house.ru",
+    "jpstar.ru",
+    "auction.freshauto.ru",
+    "tokidoki.su",
+    "youmeco.ru"
+   ]
+  },
+  "авто аукционы в японии с ценами в рублях": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 7,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "jpstar.ru",
+    "japantransit.ru",
+    "autosender.ru",
+    "tokidoki.su",
+    "akira-auto.ru",
+    "batareyka25.ru",
+    "ikigaiauto.ru",
+    "jptrade.ru",
+    "vladdiler.ru",
+    "jpauc.ru"
+   ]
+  },
+  "авто в японии купить бу аукцион": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 11,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "jptrade.ru",
+    "autosender.ru",
+    "www.japantrek.ru",
+    "jpauc.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "tokai-auto.ru",
+    "tokidoki.su"
+   ]
+  },
+  "авто в японии купить с аукциона": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jptrade.ru",
+    "japantransit.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "autosender.ru",
+    "jet-auto.org",
+    "tokidoki.su",
+    "carwin.ru",
+    "sferacar.ru"
+   ]
+  },
+  "авто из японии аукцион цены на русском": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 15,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "japantransit.ru",
+    "autosender.ru",
+    "www.japantrek.ru",
+    "jptrade.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "carwin.ru",
+    "jpauc.ru",
+    "sferacar.ru",
+    "tokidoki.su"
+   ]
+  },
+  "авто из японии аукционы": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jptrade.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "batareyka25.ru",
+    "autosender.ru",
+    "jptrade.ru"
+   ]
+  },
+  "авто из японии с аукциона": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "tokidoki.su",
+    "japantransit.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "batareyka25.ru"
+   ]
+  },
+  "авто из японии с аукциона купить": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 15,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "www.japantrek.ru",
+    "tokidoki.su",
+    "japantransit.ru",
+    "sferacar.ru",
+    "jpstar.ru",
+    "mycarjp.ru",
+    "redpandamotors.ru"
+   ]
+  },
+  "авто из японии с аукциона под заказ": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "redpandamotors.ru",
+    "mycarjp.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpauc.ru",
+    "tokito-auto.ru",
+    "sferacar.ru",
+    "autosender.ru",
+    "japantransit.ru"
+   ]
+  },
+  "авто из японии с аукциона под заказ цены": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "tokidoki.su",
+    "mycarjp.ru",
+    "jpauc.ru",
+    "redpandamotors.ru",
+    "akira-auto.ru",
+    "sferacar.ru",
+    "jpstar.ru",
+    "www.japantrek.ru",
+    "jptrade.ru"
+   ]
+  },
+  "авто из японии с аукциона под заказ цены в 2026": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "jptrade.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "japantransit.ru",
+    "autosender.ru",
+    "autosender.ru",
+    "akira-auto.ru",
+    "noharaauto.com",
+    "tokidoki.su"
+   ]
+  },
+  "авто под заказ с аукциона": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "redpandamotors.ru",
+    "jptrade.ru",
+    "auto-auc.online",
+    "mycarjp.ru",
+    "jpauc.ru",
+    "tokito-auto.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "seina-motors.ru"
+   ]
+  },
+  "авто под заказ с аукциона японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "redpandamotors.ru",
+    "jptrade.ru",
+    "tokidoki.su",
+    "mycarjp.ru",
+    "batareyka25.ru",
+    "www.japantrek.ru",
+    "sferacar.ru",
+    "tokidoki.su",
+    "akira-auto.ru",
+    "jpauc.ru"
+   ]
+  },
+  "авто с аукциона": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auction-house.ru",
+    "carlink.ru",
+    "jptrade.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "jpstar.ru",
+    "auctionafto.com",
+    "akira-auto.ru",
+    "tokidoki.su",
+    "auction-house.ru"
+   ]
+  },
+  "авто с аукциона в японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "www.japantrek.ru",
+    "batareyka25.ru",
+    "jptrade.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "banzai24.com",
+    "autosender.ru",
+    "tokidoki.su"
+   ]
+  },
+  "авто с аукциона в японии купить": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 21,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jptrade.ru",
+    "japantransit.ru",
+    "autosender.ru",
+    "www.japantrek.ru",
+    "jet-auto.org",
+    "jpstar.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "carwin.ru"
+   ]
+  },
+  "авто с аукциона в японии онлайн": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "jet-auto.org",
+    "sferacar.ru",
+    "japantransit.ru",
+    "jplife.ru",
+    "batareyka25.ru",
+    "jptrade.ru"
+   ]
+  },
+  "авто с аукциона в японии с доставкой": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jptrade.ru",
+    "redpandamotors.ru",
+    "tokidoki.su",
+    "mycarjp.ru",
+    "antaresjp.ru",
+    "jpstar.ru",
+    "batareyka25.ru",
+    "www.japantrek.ru",
+    "autosender.ru"
+   ]
+  },
+  "авто с аукциона в японии с доставкой в россию цены": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 19,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "japantransit.ru",
+    "mycarjp.ru",
+    "jpauc.ru",
+    "akira-auto.ru",
+    "www.japantrek.ru",
+    "tokidoki.su",
+    "jteco.ru",
+    "tokidoki.su",
+    "jptrade.ru"
+   ]
+  },
+  "авто с аукциона в японии с доставкой каталог": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 1,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ikigaiauto.ru",
+    "tokidoki.su",
+    "japantransit.ru",
+    "mycarjp.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "redpandamotors.ru",
+    "www.japantrek.ru",
+    "jpauc.ru",
+    "sferacar.ru"
+   ]
+  },
+  "авто с аукциона из японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "japantransit.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "batareyka25.ru",
+    "sferacar.ru"
+   ]
+  },
+  "авто с аукциона японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "jptrade.ru",
+    "www.japantrek.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "tokidoki.su",
+    "batareyka25.ru"
+   ]
+  },
+  "авто с аукциона японии под заказ": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "redpandamotors.ru",
+    "batareyka25.ru",
+    "mycarjp.ru",
+    "www.japantrek.ru",
+    "jpauc.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "akira-auto.ru",
+    "japantransit.ru"
+   ]
+  },
+  "авто с аукциона японии электричка": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 46,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokai-auto.ru",
+    "autosender.ru",
+    "dzen.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "mycarjp.ru",
+    "www.avito.ru",
+    "autosender.ru",
+    "tokai-auto.ru",
+    "auto.ru"
+   ]
+  },
+  "авто с аукциона япония": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "jptrade.ru",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "jpstar.ru",
+    "banzai24.com",
+    "sferacar.ru",
+    "mycarjp.ru"
+   ]
+  },
+  "авто с аукционов": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auction-house.ru",
+    "jptrade.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "jpstar.ru",
+    "www.japantrek.ru",
+    "sferacar.ru",
+    "xn----etbpba5admdlad.xn--p1ai",
+    "carwin.ru",
+    "japantransit.ru"
+   ]
+  },
+  "авто с аукционов японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "jptrade.ru",
+    "banzai24.com",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "mycarjp.ru"
+   ]
+  },
+  "авто с аукционов японии онлайн": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 13,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "japantransit.ru",
+    "sferacar.ru",
+    "jptrade.ru",
+    "jpauc.ru",
+    "autosender.ru",
+    "banzai24.com"
+   ]
+  },
+  "авто с аукционов японии под заказ посмотреть": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 26,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "jpauc.ru",
+    "jptrade.ru",
+    "autosender.ru",
+    "www.japantrek.ru",
+    "japantransit.ru",
+    "tokidoki.su",
+    "carwin.ru",
+    "sferacar.ru",
+    "mycarjp.ru",
+    "sferacar.ru"
+   ]
+  },
+  "авто с доставкой аукциона": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 13,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "redpandamotors.ru",
+    "tokidoki.su",
+    "jptrade.ru",
+    "antaresjp.ru",
+    "tokidoki.su",
+    "tokai-auto.ru",
+    "mycarjp.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "sunrise-auto.ru"
+   ]
+  },
+  "авто с японии аукцион": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "jptrade.ru",
+    "autosender.ru",
+    "batareyka25.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "авто с японии аукцион с доставкой": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "batareyka25.ru",
+    "redpandamotors.ru",
+    "tokidoki.su",
+    "jptrade.ru",
+    "antaresjp.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "mycarjp.ru",
+    "www.japantrek.ru",
+    "sferacar.ru"
+   ]
+  },
+  "авто с японии онлайн аукцион": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "jet-auto.org",
+    "jpstar.ru",
+    "sferacar.ru",
+    "jplife.ru",
+    "jpauc.ru",
+    "tokai-auto.ru",
+    "jptrade.ru"
+   ]
+  },
+  "авто с японских аукционов": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 9,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "japantransit.ru",
+    "tokidoki.su",
+    "carwin.ru",
+    "jpstar.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "ikigaiauto.ru",
+    "mycarjp.ru"
+   ]
+  },
+  "авто япония аукцион на русском цены в рублях каталог": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 9,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "japantransit.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "sferacar.ru",
+    "www.japantrek.ru",
+    "carwin.ru",
+    "tokidoki.su",
+    "ikigaiauto.ru",
+    "tokidoki.su"
+   ]
+  },
+  "автоаукцион японии купить авто": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 8,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "autosender.ru",
+    "ikigaiauto.ru",
+    "jptrade.ru",
+    "jteco.ru"
+   ]
+  },
+  "автоаукцион японии на русском в рублях": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "jpstar.ru",
+    "carwin.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "www.japantrek.ru",
+    "sferacar.ru",
+    "japantransit.ru",
+    "carwin.ru",
+    "batareyka25.ru",
+    "jpauc.ru"
+   ]
+  },
+  "автоаукционы": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auction-house.ru",
+    "tokidoki.su",
+    "auto.carcade.com",
+    "carwin.ru",
+    "sferacar.ru",
+    "jpstar.ru",
+    "bid.cars",
+    "auction-house.ru",
+    "japantransit.ru",
+    "jptrade.ru"
+   ]
+  },
+  "автоаукционы в японии с ценами": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 18,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "jpstar.ru",
+    "japantransit.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "autosender.ru",
+    "jpauc.ru",
+    "jet-auto.org",
+    "jptrade.ru"
+   ]
+  },
+  "автоаукционы в японии с ценами на русском": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 13,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "japantransit.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "jpauc.ru",
+    "estransit.ru",
+    "sferacar.ru"
+   ]
+  },
+  "автоаукционы в японии с ценами на русском языке": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 12,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "jpauc.ru",
+    "sferacar.ru",
+    "autosender.ru",
+    "noharaauto.com",
+    "batareyka25.ru"
+   ]
+  },
+  "автоаукционы японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 16,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.japantrek.ru",
+    "carwin.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "jptrade.ru",
+    "japantransit.ru",
+    "sferacar.ru",
+    "estransit.ru",
+    "jpauc.ru",
+    "noharaauto.com"
+   ]
+  },
+  "автоаукционы японии авто купить": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 12,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "autosender.ru",
+    "jptrade.ru",
+    "jpstar.ru",
+    "jpauc.ru",
+    "sferacar.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "автоаукционы японии онлайн без регистрации": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 12,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "carwin.ru",
+    "tokidoki.su",
+    "jet-auto.org",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "noharaauto.com",
+    "jpauc.ru",
+    "estransit.ru",
+    "dolgov-auto.ru"
+   ]
+  },
+  "автоаукционы японии онлайн без регистрации с ценами": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 7,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.japantrek.ru",
+    "tokidoki.su",
+    "noharaauto.com",
+    "jpstar.ru",
+    "jet-auto.org",
+    "carwin.ru",
+    "ikigaiauto.ru",
+    "sferacar.ru",
+    "jpauc.ru",
+    "japantransit.ru"
+   ]
+  },
+  "автоаукционы японии онлайн без регистрации с ценами на русском": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 5,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "ikigaiauto.ru",
+    "jpauc.ru",
+    "noharaauto.com",
+    "sferacar.ru",
+    "tokidoki.su",
+    "autosender.ru"
+   ]
+  },
+  "автоаукционы японии по продаже авто": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 5,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "ikigaiauto.ru",
+    "sferacar.ru",
+    "japantransit.ru",
+    "noharaauto.com",
+    "tokai-auto.ru",
+    "jptrade.ru"
+   ]
+  },
+  "автоаукционы японии с ценами на русском языке": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 8,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "jpauc.ru",
+    "sferacar.ru",
+    "ikigaiauto.ru",
+    "autosender.ru",
+    "estransit.ru"
+   ]
+  },
+  "автомобили из японии с аукциона": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "jptrade.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "jptrade.ru",
+    "tokidoki.su"
+   ]
+  },
+  "автомобили из японии с аукциона на заказ": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "redpandamotors.ru",
+    "jptrade.ru",
+    "tokidoki.su",
+    "mycarjp.ru",
+    "www.japantrek.ru",
+    "antaresjp.ru",
+    "tokito-auto.ru",
+    "jpauc.ru",
+    "japantransit.ru",
+    "japantransit.ru"
+   ]
+  },
+  "автомобили под заказ с аукционов": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auto-auc.online",
+    "jptrade.ru",
+    "seina-motors.ru",
+    "japantransit.ru",
+    "sferacar.ru",
+    "jplife.ru",
+    "autosender.ru",
+    "mycarjp.ru",
+    "sunrise-auto.ru",
+    "redpandamotors.ru"
+   ]
+  },
+  "автомобили с аукциона": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auction-house.ru",
+    "carlink.ru",
+    "xn----etbpba5admdlad.xn--p1ai",
+    "auto.carcade.com",
+    "www.sberleasing.ru",
+    "www.roseltorg.ru",
+    "auctionafto.com",
+    "jptrade.ru",
+    "total01.ru",
+    "torgigo.ru"
+   ]
+  },
+  "автомобили с аукциона в японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "japantransit.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jptrade.ru",
+    "jpstar.ru",
+    "youmeco.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "jptrade.ru"
+   ]
+  },
+  "автомобили с аукциона в японии купить": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 14,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jptrade.ru",
+    "autosender.ru",
+    "jet-auto.org",
+    "www.japantrek.ru",
+    "japantransit.ru",
+    "jpstar.ru",
+    "akira-auto.ru",
+    "sferacar.ru",
+    "carwin.ru"
+   ]
+  },
+  "автомобили с аукционов японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "japantransit.ru",
+    "youmeco.ru",
+    "jptrade.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "www.japantrek.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "jptrade.ru",
+    "sferacar.ru"
+   ]
+  },
+  "автомобили с аукционов японии купить": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 18,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "www.japantrek.ru",
+    "japantransit.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "akira-auto.ru",
+    "jteco.ru",
+    "carwin.ru"
+   ]
+  },
+  "автомобили с японии аукцион": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "youmeco.ru",
+    "tokidoki.su",
+    "batareyka25.ru",
+    "japantransit.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "jptrade.ru"
+   ]
+  },
+  "автомобили с японских аукционов": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "tokidoki.su",
+    "japantransit.ru",
+    "banzai24.com",
+    "jpstar.ru",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "tokidoki.su"
+   ]
+  },
+  "автомобиль из японии аукцион": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "jpstar.ru",
+    "jptrade.ru",
+    "sferacar.ru",
+    "jptrade.ru",
+    "batareyka25.ru"
+   ]
+  },
+  "автомобиль с аукциона японии купить": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 30,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jptrade.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "japantransit.ru",
+    "jpstar.ru",
+    "jet-auto.org",
+    "sferacar.ru",
+    "akira-auto.ru",
+    "mycarjp.ru"
+   ]
+  },
+  "авт​омоби‍л‍и с аукц​ионо‍в Японии куп‍ить": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 20,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "jptrade.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "japantransit.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "akira-auto.ru",
+    "jteco.ru",
+    "carwin.ru"
+   ]
+  },
+  "аукцион в японии купить автомобиль": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "jet-auto.org",
+    "japantransit.ru",
+    "jptrade.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "autosender.ru",
+    "jpauc.ru"
+   ]
+  },
+  "аукцион в японии купить автомобиль с аукциона в японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 17,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jpstar.ru",
+    "www.japantrek.ru",
+    "japantransit.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "jptrade.ru",
+    "estransit.ru",
+    "autolife-auction.ru"
+   ]
+  },
+  "аукцион купить авто": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 28,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "auction-house.ru",
+    "tokidoki.su",
+    "tokidoki.su",
+    "youmeco.ru",
+    "auction-house.ru",
+    "jptrade.ru",
+    "sferacar.ru",
+    "xn----etbpba5admdlad.xn--p1ai",
+    "jpstar.ru",
+    "autosender.ru"
+   ]
+  },
+  "аукцион купить машину": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "auction-house.ru",
+    "auction-house.ru",
+    "xn----etbpba5admdlad.xn--p1ai",
+    "tokidoki.su",
+    "tokidoki.su",
+    "sferacar.ru",
+    "autosender.ru",
+    "auto.carcade.com",
+    "www.roseltorg.ru",
+    "carlink.ru"
+   ]
+  },
+  "аукцион машин дешево": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "akira-auto.ru",
+    "xn----etbpba5admdlad.xn--p1ai",
+    "auction-house.ru",
+    "www.japantrek.ru",
+    "batareyka25.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "tokidoki.su",
+    "autosender.ru",
+    "akira-auto.ru"
+   ]
+  },
+  "аукцион машин из японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 21,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "carwin.ru",
+    "jpstar.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "jptrade.ru",
+    "japantransit.ru",
+    "sferacar.ru",
+    "vladdiler.ru",
+    "jpauc.ru"
+   ]
+  },
+  "аукцион машин из японии в россию": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 19,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "jptrade.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "jpstar.ru",
+    "jptrade.ru",
+    "tokidoki.su"
+   ]
+  },
+  "аукцион машин из японии сайт": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 18,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "jet-auto.org",
+    "sferacar.ru",
+    "jptrade.ru",
+    "jplife.ru",
+    "japantransit.ru",
+    "autosender.ru"
+   ]
+  },
+  "аукцион машин на русском япония": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 7,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.japantrek.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "sferacar.ru",
+    "ikigaiauto.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "jpauc.ru"
+   ]
+  },
+  "аукцион машины из японии": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 21,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "japantransit.ru",
+    "carwin.ru",
+    "jptrade.ru",
+    "jpstar.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "vladdiler.ru",
+    "jptrade.ru"
+   ]
+  },
+  "аукцион с японии авто": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "japantransit.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "jptrade.ru",
+    "sferacar.ru",
+    "autosender.ru",
+    "banzai24.com",
+    "batareyka25.ru"
+   ]
+  },
+  "аукцион с японии авто на русском": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 13,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "sferacar.ru",
+    "japantransit.ru",
+    "jptrade.ru",
+    "autosender.ru",
+    "jplife.ru",
+    "vladdiler.ru"
+   ]
+  },
+  "аукцион японии купить": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 19,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.japantrek.ru",
+    "jptrade.ru",
+    "tokidoki.su",
+    "jpstar.ru",
+    "youmeco.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "japantransit.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "аукцион японии купить авто": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 16,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "jptrade.ru",
+    "jpstar.ru",
+    "jet-auto.org",
+    "japantransit.ru",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "sferacar.ru",
+    "autosender.ru",
+    "jpauc.ru"
+   ]
+  },
+  "аукцион японии купить авто онлайн": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 9,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "jet-auto.org",
+    "sferacar.ru",
+    "autosender.ru",
+    "tokai-auto.ru",
+    "ikigaiauto.ru",
+    "japantransit.ru"
+   ]
+  },
+  "аукцион японии по продаже авто с пробегом из японии на русском языке купить машину": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 6,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "autosender.ru",
+    "jpstar.ru",
+    "japantransit.ru",
+    "ikigaiauto.ru",
+    "tokidoki.su",
+    "carwin.ru",
+    "jpauc.ru",
+    "jptrade.ru"
+   ]
+  },
+  "аукцион японии по продаже авто с пробегом на русском языке": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 12,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "youmeco.ru",
+    "sferacar.ru",
+    "estransit.ru"
+   ]
+  },
+  "аукцион японии по продаже авто с пробегом по номеру лота": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 12,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "jpauc.ru",
+    "tokidoki.su",
+    "tokidoki.su",
+    "noharaauto.com",
+    "jpstar.ru",
+    "tokidoki.su",
+    "aleado.ru",
+    "www.japantrek.ru",
+    "autolife-auction.ru",
+    "jpauc.ru"
+   ]
+  },
+  "аукцион японии по продаже автомобилей": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 11,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "youmeco.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "japantransit.ru",
+    "sferacar.ru",
+    "estransit.ru",
+    "noharaauto.com",
+    "banzai24.com"
+   ]
+  },
+  "аукцион японии сегодня": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "noharaauto.com",
+    "www.japantrek.ru",
+    "batareyka25.ru",
+    "estransit.ru",
+    "jpstar.ru",
+    "tokai-auto.ru",
+    "noharaauto.com",
+    "sferacar.ru",
+    "carwin.ru",
+    "autolife-auction.ru"
+   ]
+  },
+  "аукцион японии смотреть": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 13,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "www.japantrek.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "jet-auto.org",
+    "noharaauto.com",
+    "japantransit.ru",
+    "tokidoki.su",
+    "jpauc.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "аукцион японии смотреть авто": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 13,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "carwin.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "japantransit.ru",
+    "jet-auto.org",
+    "jptrade.ru",
+    "jpauc.ru",
+    "sferacar.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "аукцион япония": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.japantrek.ru",
+    "jptrade.ru",
+    "jpstar.ru",
+    "tokidoki.su",
+    "carwin.ru",
+    "japantransit.ru",
+    "sferacar.ru",
+    "estransit.ru",
+    "jptrade.ru",
+    "tokai-auto.ru"
+   ]
+  },
+  "аукцион япония авто": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "japantransit.ru",
+    "carwin.ru",
+    "jpstar.ru",
+    "jet-auto.org",
+    "jptrade.ru",
+    "sferacar.ru",
+    "banzai24.com",
+    "jplife.ru"
+   ]
+  },
+  "аукцион япония авто каталог": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 9,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "japantransit.ru",
+    "tokidoki.su",
+    "sferacar.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "sferacar.ru",
+    "ikigaiauto.ru",
+    "estransit.ru"
+   ]
+  },
+  "аукцион япония авто на русском": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 14,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "jet-auto.org",
+    "youmeco.ru",
+    "jptrade.ru",
+    "sferacar.ru",
+    "japantransit.ru",
+    "estransit.ru"
+   ]
+  },
+  "аукцион япония авто на русском цены": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 11,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "japantransit.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "jpstar.ru",
+    "carwin.ru",
+    "autosender.ru",
+    "sferacar.ru",
+    "jpauc.ru",
+    "youmeco.ru",
+    "noharaauto.com"
+   ]
+  },
+  "аукцион япония авто на русском цены в рублях каталог": {
+   "tag": "auktsiony",
+   "source": "base",
+   "position": 14,
+   "url": "https://ikigaiauto.ru/auktsiony/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "autosender.ru",
+    "japantransit.ru",
+    "jpstar.ru",
+    "tokidoki.su",
+    "www.japantrek.ru",
+    "akira-auto.ru",
+    "carwin.ru",
+    "tokidoki.su",
+    "jpauc.ru",
+    "sferacar.ru"
+   ]
+  }
+ }
+}
