@@ -59,6 +59,18 @@ def msk_today() -> str:
     return msk_now().date().isoformat()
 
 
+# Ночной async-режим Search API работает только 00:00-06:00 МСК (днём — 429).
+# Чтобы не биться об это исключением, submit сам прекращает отправку новых
+# ключей по достижении этого времени и аккуратно сохраняет state.
+SUBMIT_CUTOFF_MSK = os.environ.get("YP_SUBMIT_CUTOFF", "05:58")
+
+
+def cutoff_reached() -> bool:
+    h, m = (int(x) for x in SUBMIT_CUTOFF_MSK.split(":"))
+    now = msk_now()
+    return (now.hour, now.minute) >= (h, m)
+
+
 def api(path: str, body=None, retries: int = 8):
     """POST (body is not None) или GET к searchapi; повторы при 429/5xx с backoff."""
     data = json.dumps(body).encode("utf-8") if body is not None else None
@@ -180,7 +192,15 @@ def submit():
     # многоночная задача: не переотправляем то, что уже собрано в прошлые ночи
     fresh = fresh_results(state["date"])
 
+    cutoff_hit = False
     for path, source, is_queue in collect_sources():
+        if cutoff_hit:
+            break
+        if cutoff_reached():
+            print(f"{source}: достигнуто {SUBMIT_CUTOFF_MSK} МСК, новые источники не начинаем",
+                  file=sys.stderr, flush=True)
+            cutoff_hit = True
+            break
         kws = []
         skipped = 0
         for k in read_keyword_file(path, source):
@@ -204,6 +224,15 @@ def submit():
             continue
         print(f"{source}: отправляю {len(kws)} ключей (регион {REGION})")
         for i, kw in enumerate(kws, 1):
+            if cutoff_reached():
+                state_file.write_text(json.dumps(state, ensure_ascii=False, indent=1),
+                                      encoding="utf-8")
+                print(f"{source}: достигнуто {SUBMIT_CUTOFF_MSK} МСК на ключе {i}/{len(kws)} "
+                      f"— остановка, state сохранён ({len(state['operations'])} операций), "
+                      f"остальные ключи подхватит следующий submit.",
+                      file=sys.stderr, flush=True)
+                cutoff_hit = True
+                break
             body = {
                 "query": {
                     "searchType": "SEARCH_TYPE_RU",
@@ -235,15 +264,19 @@ def submit():
                 state_file.write_text(json.dumps(state, ensure_ascii=False, indent=1),
                                       encoding="utf-8")
             time.sleep(1.1)  # квота 1 запрос/сек
-        if is_queue:
+        if is_queue and not cutoff_hit:
             PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
             shutil.move(str(path), str(PROCESSED_DIR / path.name))
             print(f"{source}: файл перенесён в queue/processed/")
         state_file.write_text(json.dumps(state, ensure_ascii=False, indent=1),
                               encoding="utf-8")
     state_file.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"state saved: {state_file} ({len(state['operations'])} операций, "
-          f"{len(state['carried'])} перенесено из прошлых ночей)")
+    if cutoff_hit:
+        print(f"state saved (ОСТАНОВЛЕНО по времени, {SUBMIT_CUTOFF_MSK} МСК): {state_file} "
+              f"({len(state['operations'])} операций, {len(state['carried'])} перенесено из прошлых ночей)")
+    else:
+        print(f"state saved: {state_file} ({len(state['operations'])} операций, "
+              f"{len(state['carried'])} перенесено из прошлых ночей)")
 
 
 def parse_serp(xml_text: str):
