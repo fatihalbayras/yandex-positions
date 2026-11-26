@@ -1,0 +1,67 @@
+name: yandex-positions-ikigaiauto-ns-submit
+
+# Город: Новосибирск (Яндекс-регион 65). Добавлено 26.11.2026 по команде
+# пользователя, в пределах ночного окна Search API (00:00-06:00 МСК).
+# Регулярный cron НЕ ставим (сбор только по команде). Запуск — push в эту
+# папку (путь ниже) или workflow_dispatch. Ключ — общий (YANDEX_SEARCH_API_KEY,
+# используется senatcars-fallback/runico/atlas/onlineastrolog) — возможны
+# 429 при одновременном запуске с ними, скрипт сам ретраит с backoff.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/yandex-positions-ikigaiauto-ns/keywords.txt'
+      - 'tools/yandex-positions-ikigaiauto-ns/queue/**'
+  workflow_dispatch:
+
+concurrency:
+  group: ikigaiauto-ns-submit
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Submit async position requests
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '65'
+          YP_SITE: 'ikigaiauto.ru'
+        run: python tools/yandex-positions-ikigaiauto-ns/positions.py submit
+      - name: Commit state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/yandex-positions-ikigaiauto-ns/state tools/yandex-positions-ikigaiauto-ns/queue
+          git commit -m "ikigaiauto-ns positions: submit $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push || (git fetch origin main && git rebase origin/main && git push)
+
+      - name: Wait for async processing
+        if: always()
+        run: sleep 300
+      - name: Collect results (parallel, early grab)
+        if: always()
+        env:
+          YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
+          YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
+          YP_REGION: '65'
+          YP_SITE: 'ikigaiauto.ru'
+        run: python tools/yandex-positions-ikigaiauto-ns/collect_parallel.py
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/yandex-positions-ikigaiauto-ns/results
+          git commit -m "ikigaiauto-ns positions: early collect $(date -u +%Y-%m-%d)" || echo "nothing to commit"
+          git push || (git fetch origin main && git rebase origin/main && git push)
