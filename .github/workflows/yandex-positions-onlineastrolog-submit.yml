@@ -9,6 +9,14 @@ on:
   # schedule:
   #   - cron: '10 21 * * *'  # 00:10 МСК
   workflow_dispatch:
+  # Push-триггер по очереди (27.11.2026): запускает сбор только когда реально
+  # запушены новые ключи в queue/ или keywords.txt — это и есть "по команде
+  # пользователя" через git push, без gh workflow run (который для этого токена
+  # блокируется классификатором) и без постоянного schedule-cron.
+  push:
+    paths:
+      - 'tools/yandex-positions-onlineastrolog/queue/**'
+      - 'tools/yandex-positions-onlineastrolog/keywords.txt'
 
 permissions:
   contents: write
