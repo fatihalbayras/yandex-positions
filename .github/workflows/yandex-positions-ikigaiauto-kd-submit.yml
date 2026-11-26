@@ -5,6 +5,12 @@ name: yandex-positions-ikigaiauto-kd-submit
 # Регулярный cron НЕ ставим (правило проекта — сбор ТОЛЬКО по команде,
 # см. feedback-positions-cloud-execution): запуск — push в эту папку
 # (путь ниже) или workflow_dispatch.
+# ⚠️ 26.11.2026: целевой сайт исправлен на vladdiler.ru (пользователь
+# изначально не назвал сайт, по умолчанию стояло ikigaiauto.ru — ошибка).
+# Папка/имена инстанса остались "ikigaiauto-kd" по историческим причинам
+# (переименование рискованно для уже запущенного прогона) — переименовать
+# при следующей спокойной правке. Запросы — из ikigaiauto.ru\Ноябрь\
+# хорошие_Запросы.xls, но YP_SITE ниже — vladdiler.ru.
 
 on:
   push:
@@ -34,7 +40,7 @@ jobs:
           YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY_RFKONSALT }}
           YANDEX_FOLDER_ID: b1g08otc7dmb1kq48mc8
           YP_REGION: '35'
-          YP_SITE: 'ikigaiauto.ru'
+          YP_SITE: 'vladdiler.ru'
         run: python tools/yandex-positions-ikigaiauto-kd/positions.py submit
       - name: Commit state
         if: always()
@@ -54,7 +60,7 @@ jobs:
           YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY_RFKONSALT }}
           YANDEX_FOLDER_ID: b1g08otc7dmb1kq48mc8
           YP_REGION: '35'
-          YP_SITE: 'ikigaiauto.ru'
+          YP_SITE: 'vladdiler.ru'
         run: python tools/yandex-positions-ikigaiauto-kd/collect_parallel.py
       - name: Commit results
         if: always()

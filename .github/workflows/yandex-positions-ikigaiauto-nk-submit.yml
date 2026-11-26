@@ -36,7 +36,7 @@ jobs:
           YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
           YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
           YP_REGION: '237'
-          YP_SITE: 'ikigaiauto.ru'
+          YP_SITE: 'vladdiler.ru'
         run: python tools/yandex-positions-ikigaiauto-nk/positions.py submit
       - name: Commit state
         if: always()
@@ -56,7 +56,7 @@ jobs:
           YANDEX_SEARCH_API_KEY: ${{ secrets.YANDEX_SEARCH_API_KEY }}
           YANDEX_FOLDER_ID: b1g4gqlmtd9mncfea3tk
           YP_REGION: '237'
-          YP_SITE: 'ikigaiauto.ru'
+          YP_SITE: 'vladdiler.ru'
         run: python tools/yandex-positions-ikigaiauto-nk/collect_parallel.py
       - name: Commit results
         if: always()
