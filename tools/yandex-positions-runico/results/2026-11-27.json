@@ -1,0 +1,70 @@
+{
+ "date": "2026-11-27",
+ "region": "213",
+ "site": "runico.ru",
+ "total": 3,
+ "done": 3,
+ "pending": [],
+ "positions": {
+  "freyr": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "godofwar.fandom.com",
+    "ru.ruwiki.ru",
+    "mythopedia.com",
+    "simple.wikipedia.org",
+    "silvermaproject.ru",
+    "www.greekmythology.com",
+    "www.worldhistory.org",
+    "northern.thesaurusdeorum.com",
+    "www.newworldencyclopedia.org"
+   ]
+  },
+  "futhark": {
+   "tag": "home",
+   "source": "base",
+   "position": 14,
+   "url": "https://runico.ru/runes/",
+   "inTop100": true,
+   "foundDocs": 100,
+   "top10": [
+    "ru.wikipedia.org",
+    "ru.ruwiki.ru",
+    "www.wikihow.com",
+    "www.wikihow.com",
+    "velantra.ru",
+    "runy.pro",
+    "www.scandinavianarchaeology.com",
+    "thevikingherald.com",
+    "magia.fandom.com",
+    "wiki2.org"
+   ]
+  },
+  "sowilo": {
+   "tag": "home",
+   "source": "base",
+   "position": null,
+   "url": null,
+   "inTop100": false,
+   "foundDocs": 100,
+   "top10": [
+    "www.sowilo.ru",
+    "ru.wikipedia.org",
+    "www.sowilo.ru",
+    "ru.ruwiki.ru",
+    "www.sowilo.ru",
+    "dzen.ru",
+    "www.sowilo.ru",
+    "www.sowilo.ru",
+    "la-porte-du-bonheur.com",
+    "mk999.one"
+   ]
+  }
+ }
+}
