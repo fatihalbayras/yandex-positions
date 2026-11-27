@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-27",
+ "region": "213",
+ "operations": [
+  {
+   "keyword": "freyr",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprl89g1pmbb6hbd39eb"
+  },
+  {
+   "keyword": "futhark",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprfvcna9bp5l9rnrd6d"
+  },
+  {
+   "keyword": "sowilo",
+   "tag": "home",
+   "source": "base",
+   "operationId": "sprkjrlefadad4lida0b"
+  }
+ ],
+ "submittedAtMsk": "2026-11-27T06:49:05.387776"
+}
